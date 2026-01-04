@@ -151,9 +151,9 @@ def run_fmp_update() -> Dict[str, int]:
     stats = {"calendar_events": 0, "quotes": 0}
     
     try:
-        # Update economic calendar
+        # Update economic calendar (FMP migrated to /stable/ endpoints in 2025)
         logger.info("  Fetching FMP economic calendar...")
-        calendar_url = f"https://financialmodelingprep.com/api/v3/economic_calendar?apikey={fmp_api_key}"
+        calendar_url = f"https://financialmodelingprep.com/stable/economic-calendar?apikey={fmp_api_key}"
         response = requests.get(calendar_url, timeout=60)
         response.raise_for_status()
         calendar_data = response.json()
@@ -166,7 +166,7 @@ def run_fmp_update() -> Dict[str, int]:
         
         # Update batch quotes
         logger.info("  Fetching FMP index quotes...")
-        quotes_url = f"https://financialmodelingprep.com/api/v3/quotes/index?apikey={fmp_api_key}"
+        quotes_url = f"https://financialmodelingprep.com/stable/batch-quote?symbols=SPY,QQQ,IWM,DIA,VTI,VLUE,SIZE,QUAL,MTUM,USMV&apikey={fmp_api_key}"
         response = requests.get(quotes_url, timeout=60)
         response.raise_for_status()
         quotes_data = response.json()

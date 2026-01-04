@@ -117,13 +117,14 @@ class PITDatabase:
             data_dir: Path to data directory with JSON files. Defaults to data/
         """
         if db_path is None:
-            # Default location
-            self.db_path = Path(__file__).parent.parent / "data" / "pit_macro.db"
+            # Default location: storage/db/pit_macro.db
+            self.db_path = Path(__file__).parent / "pit_macro.db"
         else:
             self.db_path = Path(db_path)
-            
+
         if data_dir is None:
-            self.data_dir = Path(__file__).parent.parent / "data"
+            # Default location: storage/raw/
+            self.data_dir = Path(__file__).parent.parent / "raw"
         else:
             self.data_dir = Path(data_dir)
             
@@ -1096,7 +1097,8 @@ class PITDatabase:
         """
         stats = {"events": 0, "quotes": 0, "errors": []}
         
-        fmp_dir = self.data_dir.parent / "src_fmp" / "exploration_results"
+        # FMP data is in ingest/fmp/exploration_results/
+        fmp_dir = self.data_dir.parent.parent / "ingest" / "fmp" / "exploration_results"
         
         if not fmp_dir.exists():
             if verbose:
