@@ -1,0 +1,1436 @@
+{
+  "created_at": "2025-11-30T15:45:51.472784",
+  "last_updated": "2025-12-20T21:11:58.857029",
+  "downloads": {
+    "federal_reserve/fomc_statements.json": {
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/federal_reserve/fomc_statements.json",
+      "content_hash": "62b357e9837978f7194165ea8fed98f790c51ceab62dadaed7a291b249ac69bb",
+      "downloaded_at": "2025-12-20T13:45:05.496866",
+      "status": "success",
+      "metadata": {
+        "statement_count": 53,
+        "type": "qualitative"
+      }
+    },
+    "federal_reserve/fomc_minutes.json": {
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/federal_reserve/fomc_minutes.json",
+      "content_hash": "410a35d77559a7420c081a6f1d92a2346d76ce45632986402756ca008218e5f0",
+      "downloaded_at": "2025-11-30T17:49:15.477032",
+      "status": "success",
+      "metadata": {
+        "minutes_count": 47,
+        "type": "qualitative"
+      }
+    },
+    "federal_reserve/fed_speeches.json": {
+      "source_url": "https://www.federalreserve.gov/newsevents/speech",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/federal_reserve/fed_speeches.json",
+      "content_hash": "b8e450ef96019f8ce87c55d1fbfc12f31e5c9eebea28f06ee6b682f65cb00c13",
+      "downloaded_at": "2025-12-20T13:45:31.592529",
+      "status": "success",
+      "metadata": {
+        "speech_count": 202,
+        "type": "qualitative"
+      }
+    },
+    "federal_reserve/beige_book_latest": {
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/beigebook202511-summary.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/federal_reserve/beige_book_202511.json",
+      "content_hash": "d5c4a2c6db4058f10c4dc02a32891904106cf9a4092e7e1d0774cc3d940d8078",
+      "downloaded_at": "2025-11-30T15:46:41.015175",
+      "status": "success",
+      "metadata": {
+        "edition_date": "202511"
+      }
+    },
+    "federal_reserve/h8_release.json": {
+      "source_url": "https://www.federalreserve.gov/releases/h8/current/default.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/federal_reserve/h8_release.json",
+      "content_hash": "1400d477eb90a2b58ca6d2026ea3c2187a04cd0441e3f3a60b9ce46d06981159",
+      "downloaded_at": "2025-12-20T13:46:53.693512",
+      "status": "success",
+      "metadata": {
+        "release": "h8",
+        "files": []
+      }
+    },
+    "federal_reserve/h15_release.json": {
+      "source_url": "https://www.federalreserve.gov/releases/h15/current/default.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/federal_reserve/h15_release.json",
+      "content_hash": "f2982d35da4a97a715bced8bfe31d3fbadecfd1c364bc0769f9dc9a1859138e7",
+      "downloaded_at": "2025-11-30T18:00:19.123882",
+      "status": "success",
+      "metadata": {
+        "release": "h15",
+        "files": []
+      }
+    },
+    "federal_reserve/fomc_calendar.json": {
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/federal_reserve/fomc_calendar.json",
+      "content_hash": "9add22a2b19383485183d84a946731c06f1cfd309ce2ae50cf92f1b712f7bf0d",
+      "downloaded_at": "2025-11-30T18:00:21.056974",
+      "status": "success",
+      "metadata": {
+        "meeting_count": 0
+      }
+    },
+    "atlanta_fed/gdpnow_current.json": {
+      "source_url": "https://www.atlantafed.org/cqer/research/gdpnow",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/atlanta_fed/gdpnow_current.json",
+      "content_hash": "8f01e66b10cb2513f045ccd2e1ce65bd3f3442a0b6648502a6fb02a9650a420f",
+      "downloaded_at": "2025-12-20T13:47:16.645988",
+      "status": "success",
+      "metadata": {
+        "estimate": 3.5
+      }
+    },
+    "atlanta_fed/gdpnow_history.json": {
+      "source_url": "https://www.atlantafed.org/cqer/research/gdpnow/archives",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/atlanta_fed/gdpnow_history.json",
+      "content_hash": "b3d5fc70b165a11a39dea351c462adfdecc57fa8bff1ea36768a4a4673ec923b",
+      "downloaded_at": "2025-11-30T18:00:43.549800",
+      "status": "success",
+      "metadata": {
+        "archive_count": 0
+      }
+    },
+    "atlanta_fed/gdpnow_components.json": {
+      "source_url": "https://www.atlantafed.org/cqer/research/gdpnow",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/atlanta_fed/gdpnow_components.json",
+      "content_hash": "8feba7a6915d0c692ba929fd91ccd8712df8cf751cd547423c981e86221936f4",
+      "downloaded_at": "2025-12-20T13:47:20.845462",
+      "status": "success",
+      "metadata": {
+        "component_count": 3
+      }
+    },
+    "ny_fed/sce_overview.json": {
+      "source_url": "https://www.newyorkfed.org/microeconomics/sce",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/ny_fed/sce_overview.json",
+      "content_hash": "4f6abccb53e1da33c9a090727e64d7c52e1c35d4b14489f5eb6953330b23bad9",
+      "downloaded_at": "2025-12-20T17:19:08.695374",
+      "status": "success",
+      "metadata": {
+        "metrics": {}
+      }
+    },
+    "ny_fed/sce_inflation.json": {
+      "source_url": "https://www.newyorkfed.org/microeconomics/sce/downloads",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/ny_fed/sce_inflation.json",
+      "content_hash": "69315a7c20bc6ba8f3be4f2c98d1744ffc42b7100f2d0be736aaa05de75c4247",
+      "downloaded_at": "2025-11-30T18:02:28.247540",
+      "status": "success",
+      "metadata": {
+        "file_count": 0
+      }
+    },
+    "ny_fed/weekly_economic_index.json": {
+      "source_url": "https://www.newyorkfed.org/research/policy/weekly-economic-index",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/ny_fed/weekly_economic_index.json",
+      "content_hash": "e9b452ba03f9749194b1f6e2360378efb01fd4e644767ad3434a581fa69e20ff",
+      "downloaded_at": "2025-12-20T17:19:11.185538",
+      "status": "success",
+      "metadata": {
+        "current_wei": 2023.0
+      }
+    },
+    "ny_fed/liberty_street_posts.json": {
+      "source_url": "https://www.newyorkfed.org/newsevents/news/research",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/ny_fed/liberty_street_posts.json",
+      "content_hash": "32aca3ec7885e746852059044e23c516d88587a027f15c562dfd515694270310",
+      "downloaded_at": "2025-11-30T18:04:07.914340",
+      "status": "success",
+      "metadata": {
+        "post_count": 15,
+        "type": "qualitative"
+      }
+    },
+    "bls/all_releases.json": {
+      "source_url": "https://www.bls.gov",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bls/all_releases.json",
+      "content_hash": "6e9fa928e5fce0cc0a9e4490d6aba5188a2b8c07a4d90cc7c6cd01ce16119271",
+      "downloaded_at": "2025-11-30T17:45:53.618522",
+      "status": "success",
+      "metadata": {
+        "release_count": 6,
+        "type": "qualitative"
+      }
+    },
+    "fred/series_gdp.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=GDP",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_gdp.json",
+      "content_hash": "c8779dea814cd36dac5d90a99480bfdb13ba25fac5218dd39ef73a25ecc3ff5f",
+      "downloaded_at": "2025-12-20T17:17:20.267910",
+      "status": "success",
+      "metadata": {
+        "series_id": "GDP"
+      }
+    },
+    "fred/series_gdpc1.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=GDPC1",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_gdpc1.json",
+      "content_hash": "c953aee8a43d527de057c8b288dfd0d498719879369cb91a29f23c0a1499cf82",
+      "downloaded_at": "2025-12-20T13:47:22.796009",
+      "status": "success",
+      "metadata": {
+        "series_id": "GDPC1"
+      }
+    },
+    "fred/series_a191rl1q225sbea.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=A191RL1Q225SBEA",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_a191rl1q225sbea.json",
+      "content_hash": "09cdf919368d97a3a02647dd9428cfccee56880b4a000b948ed3a248eee419c0",
+      "downloaded_at": "2025-12-20T17:17:23.108631",
+      "status": "success",
+      "metadata": {
+        "series_id": "A191RL1Q225SBEA"
+      }
+    },
+    "fred/series_indpro.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=INDPRO",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_indpro.json",
+      "content_hash": "4336e6f29c93e3b45a336153d10b86ba213ea0b447164468e5a9d95078f25854",
+      "downloaded_at": "2025-12-20T17:17:23.796876",
+      "status": "success",
+      "metadata": {
+        "series_id": "INDPRO"
+      }
+    },
+    "fred/series_unrate.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=UNRATE",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_unrate.json",
+      "content_hash": "3efb9cbb0f4cdc006041db6b291c302c136e888a6c6c426a5c032e53b029876c",
+      "downloaded_at": "2025-12-20T17:17:24.810789",
+      "status": "success",
+      "metadata": {
+        "series_id": "UNRATE"
+      }
+    },
+    "fred/series_payems.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=PAYEMS",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_payems.json",
+      "content_hash": "63480271080c729ca770306295ca4ed7023530409bbc838b91bc99d8247557a4",
+      "downloaded_at": "2025-12-20T13:47:26.719539",
+      "status": "success",
+      "metadata": {
+        "series_id": "PAYEMS"
+      }
+    },
+    "fred/series_civpart.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=CIVPART",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_civpart.json",
+      "content_hash": "71f1b81ed45766ca864ea1722fa3043ad460e4976c06b76d9bf52565bf1fde52",
+      "downloaded_at": "2025-12-20T13:47:27.839292",
+      "status": "success",
+      "metadata": {
+        "series_id": "CIVPART"
+      }
+    },
+    "fred/series_icsa.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=ICSA",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_icsa.json",
+      "content_hash": "e84b788ad8aeeb83509df4b644cc04e3014a8b4e5ffc9dcd7740fb0db9650068",
+      "downloaded_at": "2025-12-20T13:47:29.303484",
+      "status": "success",
+      "metadata": {
+        "series_id": "ICSA"
+      }
+    },
+    "fred/series_ccsa.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=CCSA",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_ccsa.json",
+      "content_hash": "c7652d08fbb1b7fa250644dcc7ed31f106784a485a50cf16e975d5203dae4020",
+      "downloaded_at": "2025-12-20T13:47:30.095036",
+      "status": "success",
+      "metadata": {
+        "series_id": "CCSA"
+      }
+    },
+    "fred/series_jtsjol.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=JTSJOL",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_jtsjol.json",
+      "content_hash": "ea06cc30f12956142ad17304e6793fe81d8206970a2519f6f585c681654671c8",
+      "downloaded_at": "2025-12-20T13:47:31.059656",
+      "status": "success",
+      "metadata": {
+        "series_id": "JTSJOL"
+      }
+    },
+    "fred/series_cpiaucsl.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=CPIAUCSL",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_cpiaucsl.json",
+      "content_hash": "3b5979d847da867260732476441a7f21cef6515da711eabe48bd14485f8d8d57",
+      "downloaded_at": "2025-12-20T13:47:32.031560",
+      "status": "success",
+      "metadata": {
+        "series_id": "CPIAUCSL"
+      }
+    },
+    "fred/series_cpilfesl.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=CPILFESL",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_cpilfesl.json",
+      "content_hash": "5bc7a9c8ab90fd0ad66aba42481dd2976c08a6cc556aebefec11c7039ff6ed93",
+      "downloaded_at": "2025-12-20T13:47:33.061586",
+      "status": "success",
+      "metadata": {
+        "series_id": "CPILFESL"
+      }
+    },
+    "fred/series_pcepi.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=PCEPI",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_pcepi.json",
+      "content_hash": "60b7884d819ac4970d6286b1c073954add3673e5435bd37982fbb45f6a043417",
+      "downloaded_at": "2025-12-20T17:17:32.878584",
+      "status": "success",
+      "metadata": {
+        "series_id": "PCEPI"
+      }
+    },
+    "fred/series_pcepilfe.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=PCEPILFE",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_pcepilfe.json",
+      "content_hash": "3523695101f91f04193b12cebf7884e00e1ef0b634a7dd7fdae15d14d8057923",
+      "downloaded_at": "2025-12-20T17:17:33.894371",
+      "status": "success",
+      "metadata": {
+        "series_id": "PCEPILFE"
+      }
+    },
+    "fred/series_mich.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=MICH",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_mich.json",
+      "content_hash": "e7e3012ad3c51423d0f9f3e957918732c2012e7b7b0b6e0c0ec9b60cbcdec8c0",
+      "downloaded_at": "2025-12-20T13:47:36.087074",
+      "status": "success",
+      "metadata": {
+        "series_id": "MICH"
+      }
+    },
+    "fred/series_t5yifr.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=T5YIFR",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_t5yifr.json",
+      "content_hash": "91afe77102f6d898228a39e987690ea6a9c121316e383bea0adfdd3a862d541e",
+      "downloaded_at": "2025-12-20T17:17:40.433303",
+      "status": "success",
+      "metadata": {
+        "series_id": "T5YIFR"
+      }
+    },
+    "fred/series_fedfunds.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=FEDFUNDS",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_fedfunds.json",
+      "content_hash": "125307814bc0492084ed6d97add82ff73c018f992e7c6aa58ae4fbf226030df4",
+      "downloaded_at": "2025-12-20T17:17:41.117149",
+      "status": "success",
+      "metadata": {
+        "series_id": "FEDFUNDS"
+      }
+    },
+    "fred/series_dff.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DFF",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_dff.json",
+      "content_hash": "28bc93d560402ff70c5f850605fb06b6aff57c26f2c387a3f649030a0a599e20",
+      "downloaded_at": "2025-12-20T13:47:39.223882",
+      "status": "success",
+      "metadata": {
+        "series_id": "DFF"
+      }
+    },
+    "fred/series_dgs2.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DGS2",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_dgs2.json",
+      "content_hash": "ac2cd46f052e3628d3a49b572aa4a17050a2338d2882c67f76f1028707d950e0",
+      "downloaded_at": "2025-12-20T13:47:40.195121",
+      "status": "success",
+      "metadata": {
+        "series_id": "DGS2"
+      }
+    },
+    "fred/series_dgs10.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DGS10",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_dgs10.json",
+      "content_hash": "5f41d2cdcb5d660733231658c85b882120b0e6397c02e4c6587f79ce0932e240",
+      "downloaded_at": "2025-12-20T13:47:41.205797",
+      "status": "success",
+      "metadata": {
+        "series_id": "DGS10"
+      }
+    },
+    "fred/series_dgs30.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DGS30",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_dgs30.json",
+      "content_hash": "4c7546c31b10224cb2e2430f03764e5656da1c166d429fc44d03d7a56affa8f7",
+      "downloaded_at": "2025-12-20T13:47:42.237739",
+      "status": "success",
+      "metadata": {
+        "series_id": "DGS30"
+      }
+    },
+    "fred/series_t10y2y.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=T10Y2Y",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_t10y2y.json",
+      "content_hash": "bc16f468e9970adb50fd8ac9a3265373a9541eaf4927c633288b800cf9eb745b",
+      "downloaded_at": "2025-12-20T17:17:46.418180",
+      "status": "success",
+      "metadata": {
+        "series_id": "T10Y2Y"
+      }
+    },
+    "fred/series_t10y3m.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=T10Y3M",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_t10y3m.json",
+      "content_hash": "9547282324b7af626b887725f8cead6518dd236dfcdbc0d49bf9d0b774c77727",
+      "downloaded_at": "2025-12-20T13:47:44.227161",
+      "status": "success",
+      "metadata": {
+        "series_id": "T10Y3M"
+      }
+    },
+    "fred/series_dfii10.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DFII10",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_dfii10.json",
+      "content_hash": "60e92763c5ddbc62a98f050949a219c33764f19c6c1f16aba4279568e9165680",
+      "downloaded_at": "2025-12-20T13:47:45.223004",
+      "status": "success",
+      "metadata": {
+        "series_id": "DFII10"
+      }
+    },
+    "fred/series_m2sl.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=M2SL",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_m2sl.json",
+      "content_hash": "c524e307db4229c1a8429ada5bae8ab71caa16cc5a118181a19bb7841f22f79c",
+      "downloaded_at": "2025-12-20T17:17:52.165281",
+      "status": "success",
+      "metadata": {
+        "series_id": "M2SL"
+      }
+    },
+    "fred/series_walcl.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=WALCL",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_walcl.json",
+      "content_hash": "7f753c9ccecfc199a2e8df81bfb24f801c9c193e843d00c13fb164f5c8d7d096",
+      "downloaded_at": "2025-12-20T13:47:47.220973",
+      "status": "success",
+      "metadata": {
+        "series_id": "WALCL"
+      }
+    },
+    "fred/series_totresns.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=TOTRESNS",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_totresns.json",
+      "content_hash": "9e5c20337d79c7ec98848374150cef743bab2471b5f9d96f2140aeed709f5d87",
+      "downloaded_at": "2025-12-20T17:17:54.785975",
+      "status": "success",
+      "metadata": {
+        "series_id": "TOTRESNS"
+      }
+    },
+    "fred/series_dpcredit.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DPCREDIT",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_dpcredit.json",
+      "content_hash": "6903495681173a059b4daea47d5286fbcf282982ef5d79ac09d0f664bbe8da68",
+      "downloaded_at": "2025-12-20T17:17:55.666659",
+      "status": "success",
+      "metadata": {
+        "series_id": "DPCREDIT"
+      }
+    },
+    "fred/series_houst.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=HOUST",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_houst.json",
+      "content_hash": "f68aecee793ef86d666686aa329ba0ce01a489f17e1d8fd526d9e873dae22e93",
+      "downloaded_at": "2025-12-20T17:17:56.774906",
+      "status": "success",
+      "metadata": {
+        "series_id": "HOUST"
+      }
+    },
+    "fred/series_permit.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=PERMIT",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_permit.json",
+      "content_hash": "9f420a872f8ed7a74788b45cc453a4cb487a24626338ec46b90b8c6d109ba4fe",
+      "downloaded_at": "2025-12-20T17:17:57.656872",
+      "status": "success",
+      "metadata": {
+        "series_id": "PERMIT"
+      }
+    },
+    "fred/series_csushpisa.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=CSUSHPISA",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_csushpisa.json",
+      "content_hash": "bc0b08f4991a59b97a2fe32cc067ed22af396aa53e69c7d456372cb6611f40a1",
+      "downloaded_at": "2025-12-20T13:47:52.337441",
+      "status": "success",
+      "metadata": {
+        "series_id": "CSUSHPISA"
+      }
+    },
+    "fred/series_mortgage30us.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=MORTGAGE30US",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_mortgage30us.json",
+      "content_hash": "1a907c1858e85d280b64f2cf0541dd705d557c264005c64178d6182be0f1a0ba",
+      "downloaded_at": "2025-12-20T13:47:53.207629",
+      "status": "success",
+      "metadata": {
+        "series_id": "MORTGAGE30US"
+      }
+    },
+    "fred/series_bamlh0a0hym2.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=BAMLH0A0HYM2",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_bamlh0a0hym2.json",
+      "content_hash": "e7adf84d9db614581fc2f6a53c8e5186388311ff0a029ccc5f1843130c9592a3",
+      "downloaded_at": "2025-12-20T13:47:54.294166",
+      "status": "success",
+      "metadata": {
+        "series_id": "BAMLH0A0HYM2"
+      }
+    },
+    "fred/series_vixcls.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=VIXCLS",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_vixcls.json",
+      "content_hash": "13503a93598aabd62ece8a527c93207dbaf0a1afad0ede7ab44f56d98fd3af13",
+      "downloaded_at": "2025-12-20T13:47:55.295436",
+      "status": "success",
+      "metadata": {
+        "series_id": "VIXCLS"
+      }
+    },
+    "fred/series_sp500.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=SP500",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_sp500.json",
+      "content_hash": "5a388f78c148931cc819b69a84d4760b0413990193e85fde7523fd0393236239",
+      "downloaded_at": "2025-12-20T13:47:56.246281",
+      "status": "success",
+      "metadata": {
+        "series_id": "SP500"
+      }
+    },
+    "fred/series_nfci.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=NFCI",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_nfci.json",
+      "content_hash": "69ff0d45ea084faeeab3af2c3c75d97589577a53fca42233d85a87942e8cf802",
+      "downloaded_at": "2025-12-20T17:18:03.858855",
+      "status": "success",
+      "metadata": {
+        "series_id": "NFCI"
+      }
+    },
+    "fred/series_bopgstb.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=BOPGSTB",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_bopgstb.json",
+      "content_hash": "752c6524c8549b1fa941188b3140f19c90942713dad86fbe3673fe35d2097e9c",
+      "downloaded_at": "2025-12-20T17:18:04.818071",
+      "status": "success",
+      "metadata": {
+        "series_id": "BOPGSTB"
+      }
+    },
+    "fred/series_dtwexbgs.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DTWEXBGS",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_dtwexbgs.json",
+      "content_hash": "0d2d3c884bdf1fe742d6fcd723322513e4400b15828f7b5497a9bc8caf053f72",
+      "downloaded_at": "2025-12-20T17:18:06.010429",
+      "status": "success",
+      "metadata": {
+        "series_id": "DTWEXBGS"
+      }
+    },
+    "fred/series_umcsent.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=UMCSENT",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_umcsent.json",
+      "content_hash": "bb20cd82d569e50a88d9374705a838a1cb23c805650b837d99546d4e5be4d71a",
+      "downloaded_at": "2025-12-20T13:48:00.226909",
+      "status": "success",
+      "metadata": {
+        "series_id": "UMCSENT"
+      }
+    },
+    "fred/series_rsafs.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=RSAFS",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_rsafs.json",
+      "content_hash": "10a8b00365a30f07fb36cf79f68361adf5e08cdd4f5b9955284259a8529d4a8c",
+      "downloaded_at": "2025-12-20T17:18:08.955973",
+      "status": "success",
+      "metadata": {
+        "series_id": "RSAFS"
+      }
+    },
+    "fred/series_dgorder.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DGORDER",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/series_dgorder.json",
+      "content_hash": "f0c497e99f0b501c2a3d434c76ebbcf893099b74a819ccef4bf230ae1c1e33d7",
+      "downloaded_at": "2025-12-20T13:48:02.266236",
+      "status": "success",
+      "metadata": {
+        "series_id": "DGORDER"
+      }
+    },
+    "fred/macro_growth.json": {
+      "source_url": "https://api.stlouisfed.org/fred",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/macro_growth.json",
+      "content_hash": "ad14ac03db614cfb28b4e2ce2caad89084e5a08f0cc4b48249e972dec44984ce",
+      "downloaded_at": "2025-12-20T17:18:14.912181",
+      "status": "success",
+      "metadata": {
+        "bundle_name": "macro_growth",
+        "success_count": 4,
+        "total_count": 4
+      }
+    },
+    "fred/macro_labor.json": {
+      "source_url": "https://api.stlouisfed.org/fred",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/macro_labor.json",
+      "content_hash": "d39b154eb030985fc78ec0ddc405d614d5c40efb9340e9906a275314493d5cd4",
+      "downloaded_at": "2025-12-20T17:18:17.747464",
+      "status": "success",
+      "metadata": {
+        "bundle_name": "macro_labor",
+        "success_count": 6,
+        "total_count": 6
+      }
+    },
+    "fred/macro_inflation.json": {
+      "source_url": "https://api.stlouisfed.org/fred",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/macro_inflation.json",
+      "content_hash": "74e9dd59a53232370ca86ab7ff65abeacb447fe01c15f046b594cfa4ed7e5ccb",
+      "downloaded_at": "2025-12-20T17:18:21.227766",
+      "status": "success",
+      "metadata": {
+        "bundle_name": "macro_inflation",
+        "success_count": 6,
+        "total_count": 6
+      }
+    },
+    "fred/macro_rates.json": {
+      "source_url": "https://api.stlouisfed.org/fred",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/macro_rates.json",
+      "content_hash": "3f114f61b45aef9cb5bd4742645d576bf84b838342527b19582feb2d15eaae6e",
+      "downloaded_at": "2025-12-20T17:18:25.902306",
+      "status": "success",
+      "metadata": {
+        "bundle_name": "macro_rates",
+        "success_count": 8,
+        "total_count": 8
+      }
+    },
+    "fred/macro_financial.json": {
+      "source_url": "https://api.stlouisfed.org/fred",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/macro_financial.json",
+      "content_hash": "de546d04e241249321b95a11ca05ef0b706a192a00545544b8c7606b990d4111",
+      "downloaded_at": "2025-12-20T17:18:28.428524",
+      "status": "success",
+      "metadata": {
+        "bundle_name": "macro_financial",
+        "success_count": 5,
+        "total_count": 5
+      }
+    },
+    "fred/macro_full.json": {
+      "source_url": "https://api.stlouisfed.org/fred",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/fred/macro_full.json",
+      "content_hash": "a7d7b12f969adfc2f9b9c65e472b00da983eb8f2977c40af714c529853ce625f",
+      "downloaded_at": "2025-12-20T17:18:54.964417",
+      "status": "success",
+      "metadata": {
+        "bundle_name": "macro_full",
+        "success_count": 41,
+        "total_count": 41
+      }
+    },
+    "bea/nipa_t10101.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T10101",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t10101.json",
+      "content_hash": "d167b8ea3a70ce55d5321972f74fb131bb759774a8263b8814b87133b6dc4d67",
+      "downloaded_at": "2025-11-30T17:45:12.566049",
+      "status": "success",
+      "metadata": {
+        "table_id": "T10101",
+        "dataset": "NIPA"
+      }
+    },
+    "bea/nipa_t10102.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T10102",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t10102.json",
+      "content_hash": "7c95f68046ab0116c305b15119831ed3a25a46f8646ef3fdaa053f2990a608fb",
+      "downloaded_at": "2025-11-30T17:45:12.806630",
+      "status": "success",
+      "metadata": {
+        "table_id": "T10102",
+        "dataset": "NIPA"
+      }
+    },
+    "bea/nipa_t10105.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T10105",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t10105.json",
+      "content_hash": "a618affac572f0a109c93c4234011886eb1a8730a04c6589aae4097dfcc196e6",
+      "downloaded_at": "2025-11-30T17:45:13.238833",
+      "status": "success",
+      "metadata": {
+        "table_id": "T10105",
+        "dataset": "NIPA"
+      }
+    },
+    "bea/nipa_t10106.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T10106",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t10106.json",
+      "content_hash": "c3b76a0c79297abfa6970ec52e02e63282cea01db11439f91cf3293ac629ef31",
+      "downloaded_at": "2025-11-30T17:45:13.750766",
+      "status": "success",
+      "metadata": {
+        "table_id": "T10106",
+        "dataset": "NIPA"
+      }
+    },
+    "bea/nipa_t10107.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T10107",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t10107.json",
+      "content_hash": "7a222bcf21abc1c6c9b19d3cbca3595bdc4de4c68345428db99e7fe0a5a62c62",
+      "downloaded_at": "2025-11-30T17:45:14.267909",
+      "status": "success",
+      "metadata": {
+        "table_id": "T10107",
+        "dataset": "NIPA"
+      }
+    },
+    "bea/nipa_t20100.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T20100",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t20100.json",
+      "content_hash": "8a3a9a1fbd527fff663e0f819eaef533f46332a06e2d7a8c8c7891fc6f997cdd",
+      "downloaded_at": "2025-11-30T17:45:15.821596",
+      "status": "success",
+      "metadata": {
+        "table_id": "T20100",
+        "dataset": "NIPA"
+      }
+    },
+    "bea/nipa_t20301.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T20301",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t20301.json",
+      "content_hash": "e048129d50e9e6a1fd1e9f538668a5277598965f186d85167d5fb644f1c3af0c",
+      "downloaded_at": "2025-11-30T17:45:16.296701",
+      "status": "success",
+      "metadata": {
+        "table_id": "T20301",
+        "dataset": "NIPA"
+      }
+    },
+    "bea/nipa_t20304.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T20304",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t20304.json",
+      "content_hash": "25feb9bcadfea29e795b7b814207c703dbeefa5c6ce5021f5d0f9e9ff708a1a6",
+      "downloaded_at": "2025-11-30T17:45:16.795119",
+      "status": "success",
+      "metadata": {
+        "table_id": "T20304",
+        "dataset": "NIPA"
+      }
+    },
+    "bea/nipa_t20305.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T20305",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t20305.json",
+      "content_hash": "6e6d9ceb6e3534840ba41d3d247053294d85f286b79eacc8f22c991d8e71348b",
+      "downloaded_at": "2025-11-30T17:45:17.301078",
+      "status": "success",
+      "metadata": {
+        "table_id": "T20305",
+        "dataset": "NIPA"
+      }
+    },
+    "bea/nipa_t20306.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T20306",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t20306.json",
+      "content_hash": "fc79f50bb94d4ae55ebb48904a51ed6b578abafc13aee9d2963dc30770506049",
+      "downloaded_at": "2025-11-30T17:45:17.801030",
+      "status": "success",
+      "metadata": {
+        "table_id": "T20306",
+        "dataset": "NIPA"
+      }
+    },
+    "bea/nipa_t30100.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T30100",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t30100.json",
+      "content_hash": "a1975bf73cd6cedc99115a5d8ec48e6f9cec3e192312307728c249879f1ad479",
+      "downloaded_at": "2025-11-30T17:45:18.845689",
+      "status": "success",
+      "metadata": {
+        "table_id": "T30100",
+        "dataset": "NIPA"
+      }
+    },
+    "bea/nipa_t30200.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T30200",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t30200.json",
+      "content_hash": "1d271ff75cc5b50fe9c366c37a305a85fbc3e977b068ed11620e6e3e55192a6c",
+      "downloaded_at": "2025-11-30T17:45:19.361986",
+      "status": "success",
+      "metadata": {
+        "table_id": "T30200",
+        "dataset": "NIPA"
+      }
+    },
+    "bea/nipa_t30300.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T30300",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t30300.json",
+      "content_hash": "027b0b9095b9cff7356c7ceb2c2c1c598af6a5b835c326e35b6121cee7ddf4eb",
+      "downloaded_at": "2025-11-30T17:45:19.857418",
+      "status": "success",
+      "metadata": {
+        "table_id": "T30300",
+        "dataset": "NIPA"
+      }
+    },
+    "bea/underlying_u20305.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=U20305",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/underlying_u20305.json",
+      "content_hash": "7b610981ae15ac7889d2cbdc5163502e134dbd3dd1243fbb7411935325be241a",
+      "downloaded_at": "2025-11-30T17:45:20.367246",
+      "status": "success",
+      "metadata": {
+        "table_id": "U20305",
+        "dataset": "NIUnderlyingDetail"
+      }
+    },
+    "bea/gdp_summary.json": {
+      "source_url": "https://apps.bea.gov/api/data",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/gdp_summary.json",
+      "content_hash": "c81d57e89616cba96bcc29a3edff778c9e0240927fe1353f04e92a3847b080ff",
+      "downloaded_at": "2025-11-30T17:45:22.791192",
+      "status": "success",
+      "metadata": {
+        "tables": [
+          "T10101",
+          "T10105",
+          "T10106",
+          "T10107"
+        ]
+      }
+    },
+    "federal_reserve/beige_book.json": {
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/beige-book-default.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/federal_reserve/beige_book.json",
+      "content_hash": "b9dcf7357fa31d638fc8af421af6c5b1fb537b82a0e0f11b23d16aa39c77a28a",
+      "downloaded_at": "2025-11-30T17:59:33.127856",
+      "status": "success",
+      "metadata": {
+        "edition_count": 80,
+        "type": "qualitative"
+      }
+    },
+    "bls/release_employment_situation.json": {
+      "source_url": "https://www.bls.gov/news.release/empsit.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bls/release_employment_situation.json",
+      "content_hash": "d9f3be2e5f6cb47e415b38346d6bfe7f51c50ab5cabcc38f584d2afb26c1b458",
+      "downloaded_at": "2025-11-30T17:45:45.168008",
+      "status": "success",
+      "metadata": {
+        "release_type": "employment_situation",
+        "release_date": null,
+        "type": "qualitative"
+      }
+    },
+    "bls/release_cpi.json": {
+      "source_url": "https://www.bls.gov/news.release/cpi.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bls/release_cpi.json",
+      "content_hash": "6d82151b107329698774c7370834f870b428629fe4ca00559c9cd215c30ff7ca",
+      "downloaded_at": "2025-11-30T17:45:46.040084",
+      "status": "success",
+      "metadata": {
+        "release_type": "cpi",
+        "release_date": null,
+        "type": "qualitative"
+      }
+    },
+    "bls/release_ppi.json": {
+      "source_url": "https://www.bls.gov/news.release/ppi.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bls/release_ppi.json",
+      "content_hash": "0cdb3ad2ce84d7dc79e65b770d67075baf2b20c187eb0dc309ebf4d29c753cef",
+      "downloaded_at": "2025-11-30T17:45:47.079049",
+      "status": "success",
+      "metadata": {
+        "release_type": "ppi",
+        "release_date": null,
+        "type": "qualitative"
+      }
+    },
+    "bls/release_jolts.json": {
+      "source_url": "https://www.bls.gov/news.release/jolts.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bls/release_jolts.json",
+      "content_hash": "4ab25490ffc6cc2d0c4bed39da29fe7be8a74591b18c854d374f62fa9c5241f6",
+      "downloaded_at": "2025-11-30T17:45:47.724324",
+      "status": "success",
+      "metadata": {
+        "release_type": "jolts",
+        "release_date": null,
+        "type": "qualitative"
+      }
+    },
+    "federal_reserve/sep_projections.json": {
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/federal_reserve/sep_projections.json",
+      "content_hash": "b435dd8eaeab1681c45edb5959fca5a1e9c53d98120f26e69c30b8fcd430c69f",
+      "downloaded_at": "2025-12-20T13:46:51.557706",
+      "status": "success",
+      "metadata": {
+        "sep_count": 20,
+        "type": "qualitative"
+      }
+    },
+    "brookings/fim.json": {
+      "source_url": "https://www.brookings.edu/interactives/hutchins-center-fiscal-impact-measure/",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/brookings/fim.json",
+      "content_hash": "e708536d80fe06c6a7094e748d98ce7b0e0729ed3ffbebbe1f59b4904ce1998d",
+      "downloaded_at": "2025-12-20T17:21:26.849672",
+      "status": "success",
+      "metadata": {
+        "type": "fiscal_measure"
+      }
+    },
+    "brookings/hutchins_research.json": {
+      "source_url": "https://www.brookings.edu/centers/the-hutchins-center-on-fiscal-and-monetary-policy/",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/brookings/hutchins_research.json",
+      "content_hash": "55c6620d65a96e54fdcb2be4a60370be555a7545f86f7667b9992a49d4cfd7ea",
+      "downloaded_at": "2025-12-20T17:21:28.383780",
+      "status": "success",
+      "metadata": {
+        "article_count": 0,
+        "type": "qualitative"
+      }
+    },
+    "nber/business_cycles.json": {
+      "source_url": "https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/nber/business_cycles.json",
+      "content_hash": "f3621906ffde3e27f5e6e4ed835d7bb89f937390e0d886582f1930542b4d7139",
+      "downloaded_at": "2025-11-30T18:05:25.937302",
+      "status": "success",
+      "metadata": {
+        "cycle_count": 40,
+        "type": "reference"
+      }
+    },
+    "nber/working_papers.json": {
+      "source_url": "https://www.nber.org/papers",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/nber/working_papers.json",
+      "content_hash": "91327f4994a5781803d78079c2742566fd1282a4747852cc9a5f20771eeabddb",
+      "downloaded_at": "2025-12-20T17:21:30.627303",
+      "status": "success",
+      "metadata": {
+        "paper_count": 0,
+        "type": "qualitative"
+      }
+    },
+    "nber/digest.json": {
+      "source_url": "https://www.nber.org/digest",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/nber/digest.json",
+      "content_hash": "4f4fa0c9799486b8296742f5f4632a63b415840133fa4716dfc179e97bf1569f",
+      "downloaded_at": "2025-12-20T17:21:32.626631",
+      "status": "success",
+      "metadata": {
+        "digest_count": 4,
+        "type": "qualitative"
+      }
+    },
+    "piie/charts.json": {
+      "source_url": "https://www.piie.com/research/piie-charts",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/piie/charts.json",
+      "content_hash": "d9391f68e410b39fa417dcd97239bbf4e2d5af4ea5e4eeef6c62afe460a633c6",
+      "downloaded_at": "2025-11-30T17:18:56.581207",
+      "status": "success",
+      "metadata": {
+        "chart_count": 0,
+        "type": "quantitative"
+      }
+    },
+    "piie/blog.json": {
+      "source_url": "https://www.piie.com/blogs/realtime-economics",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/piie/blog.json",
+      "content_hash": "afbf99b5959be0d0afcf03bd0343047c2269a6419319b8e62d6831ace2c79168",
+      "downloaded_at": "2025-11-30T18:06:08.544947",
+      "status": "success",
+      "metadata": {
+        "post_count": 0,
+        "type": "qualitative"
+      }
+    },
+    "bea/nipa_t11000.json": {
+      "source_url": "https://apps.bea.gov/api/data?TableName=T11000",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/data/bea/nipa_t11000.json",
+      "content_hash": "6c53951761c39384ec1c9f68680e544e4e521138d83c0dfac6e06d10e28e4ec1",
+      "downloaded_at": "2025-11-30T17:45:14.715734",
+      "status": "success",
+      "metadata": {
+        "table_id": "T11000",
+        "dataset": "NIPA"
+      }
+    },
+    "spglobal/pmi_manifest.json": {
+      "source_url": "https://www.pmi.spglobal.com",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pmi_manifest.json",
+      "content_hash": "e2349a414c9fd34d72fa5446297ff1d552753d4880381b26d6492b63b9b1cad4",
+      "downloaded_at": "2025-12-20T21:11:58.857012",
+      "status": "success",
+      "metadata": {
+        "pdf_count": 35
+      }
+    },
+    "spglobal/pdfs/078674_6078674_6078673_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/6078674_6078673_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/078674_6078674_6078673_0.1.pdf",
+      "content_hash": "a17e847ab9d00a4af1365cf484142b7c0334e72954577bd1e013b0b505cdee90",
+      "downloaded_at": "2025-12-20T20:11:56.685963",
+      "status": "success",
+      "metadata": {
+        "title": "PMI Monthly Bulletin\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 6078674...",
+        "date": "0786-74",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/CN_Manufacturing_ENG_2502_PR.pdf": {
+      "source_url": "https://pmi.caixin.com/upload/CN_Manufacturing_ENG_2502_PR.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/CN_Manufacturing_ENG_2502_PR.pdf",
+      "content_hash": "4ac13c9b66ba2679277accd33bd825d883838ddbfc4e0ff09e46da95fd9c56dd",
+      "downloaded_at": "2025-12-20T20:11:58.428965",
+      "status": "success",
+      "metadata": {
+        "title": "Caixin China General Manufacturing PMI Press Release\n\n\u8d22\u65b0PMI\nhttps://pmi.caixin.com \u203a upload \u203a CN_Manufact...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/047996_6047996_6047989_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/6047996_6047989_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/047996_6047996_6047989_0.1.pdf",
+      "content_hash": "1ded50d8a18a6dc07ed14b6bbd8afaad82fd46552dd5c0c1f66dc4942a0a3089",
+      "downloaded_at": "2025-12-20T20:15:59.935909",
+      "status": "success",
+      "metadata": {
+        "title": "6047996 6047989 0.1",
+        "date": "0479-96",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/PMI_monthly_bulletin_2303.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/0323/PMI_monthly_bulletin_2303.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/PMI_monthly_bulletin_2303.pdf",
+      "content_hash": "bb078cd24c5ff5c15b3d09a15344c4a3c2fcd3b586426cd4104a38967813d49e",
+      "downloaded_at": "2025-12-20T20:16:02.384386",
+      "status": "success",
+      "metadata": {
+        "title": "Pmi Monthly Bulletin 2303",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/340767_4340767_4340773_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/4340767_4340773_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/340767_4340767_4340773_0.1.pdf",
+      "content_hash": "34191729719445a752c84126fc339026a8d33a6c0006a3e816e056f4d24cbba9",
+      "downloaded_at": "2025-12-20T20:16:05.227630",
+      "status": "success",
+      "metadata": {
+        "title": "4340767 4340773 0.1",
+        "date": "3407-67",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/PMI-Glossary.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/1218/PMI-Glossary.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/PMI-Glossary.pdf",
+      "content_hash": "c16115a0c6d88255fe49c0832e93a91674496abaf19efd73e5ba952b14438a27",
+      "downloaded_at": "2025-12-20T20:16:08.317431",
+      "status": "success",
+      "metadata": {
+        "title": "PMI\u2122 Glossary\n\nihsmarkit.com\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a PMI-Glo...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/129997_6129997_6130011_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/6129997_6130011_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/129997_6129997_6130011_0.1.pdf",
+      "content_hash": "5791dfbe8215147a5376f26e0d6d20f9ae5857fd7d98143084e9364de02e3fd8",
+      "downloaded_at": "2025-12-20T20:16:11.057213",
+      "status": "success",
+      "metadata": {
+        "title": "Monthly PMI Bulletin\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 6129997...",
+        "date": "1299-97",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/019452_6019452_6019446_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/6019452_6019446_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/019452_6019452_6019446_0.1.pdf",
+      "content_hash": "bddbc57cadaa764d4040aadcd1aa5a85479aa321b1997b7b1c9d87af8af59cad",
+      "downloaded_at": "2025-12-20T20:16:14.002605",
+      "status": "success",
+      "metadata": {
+        "title": "PMI Monthly Bulletin\n\nihsmarkit.com\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 6019452...",
+        "date": "0194-52",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/IHS-Markit-PMI-Introduction.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/1218/IHS-Markit-PMI-Introduction.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/IHS-Markit-PMI-Introduction.pdf",
+      "content_hash": "6b5a3d6dfd8869a6464f6b16fef6b9c82f2daec8d617949dd21ec76bbf2dfe3f",
+      "downloaded_at": "2025-12-20T20:16:17.244305",
+      "status": "success",
+      "metadata": {
+        "title": "An introduction to the PMI surveys\n\nihsmarkit.com\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a IHS-Mar...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/PMI_monthly_bulletin_2501_Cal.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/0125/PMI_monthly_bulletin_2501_Cal.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/PMI_monthly_bulletin_2501_Cal.pdf",
+      "content_hash": "a99d99969d6331ad3653ad47e4ecdfde2c73cdac657f0336f1ae49cef249877f",
+      "downloaded_at": "2025-12-20T20:16:20.380752",
+      "status": "success",
+      "metadata": {
+        "title": "PMI Monthly Bulletin\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a PMI_mo...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/555194_4555194_4555187_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/4555194_4555187_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/555194_4555194_4555187_0.1.pdf",
+      "content_hash": "5d4cb4dbbc0005c1a923abb93f0918d1b56eedf6f427ae7f6f9442e5e6505ec7",
+      "downloaded_at": "2025-12-20T20:16:23.218150",
+      "status": "success",
+      "metadata": {
+        "title": "S&P Global US PMI output index\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 4555194...",
+        "date": "5551-94",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/PMI_monthly_bulletin_2504.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/0425/PMI_monthly_bulletin_2504.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/PMI_monthly_bulletin_2504.pdf",
+      "content_hash": "639b540479110ed1da0605b1e2eaefbd999342c6e75f562a36d2485137e112b7",
+      "downloaded_at": "2025-12-20T20:16:26.162186",
+      "status": "success",
+      "metadata": {
+        "title": "PMI Monthly Bulletin\n\nihsmarkit.com\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a PMI_mo...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/050980_6050980_6050967_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/6050980_6050967_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/050980_6050980_6050967_0.1.pdf",
+      "content_hash": "33bf105c1f1abfad7543a1c68a8c81bc5bee2af596ac6c4bee36b93a1cc9b30a",
+      "downloaded_at": "2025-12-20T20:16:29.458981",
+      "status": "success",
+      "metadata": {
+        "title": "PMIs and monetary policy\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 6050980...",
+        "date": "0509-80",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/039394_5039394_5039405_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/5039394_5039405_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/039394_5039394_5039405_0.1.pdf",
+      "content_hash": "e05430579a16c4a81b290396b5da9a0a79aa13b3d82835df24bd5118bcdff7f1",
+      "downloaded_at": "2025-12-20T20:16:32.428625",
+      "status": "success",
+      "metadata": {
+        "title": "United States\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 5039394...",
+        "date": "0393-94",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/180117_5180117_5180115_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/5180117_5180115_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/180117_5180117_5180115_0.1.pdf",
+      "content_hash": "aef5b7ca189f853bd7893843d3cecc3914fd2b58ce97f717d7e1ddaec8512ac2",
+      "downloaded_at": "2025-12-20T20:16:35.070241",
+      "status": "success",
+      "metadata": {
+        "title": "Week Ahead Economic Preview\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 5180117...",
+        "date": "1801-17",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/330257_4330257_4330310_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/4330257_4330310_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/330257_4330257_4330310_0.1.pdf",
+      "content_hash": "f027347f9274e6fcdb4300a0795442b3a080d3c3776e9063d504840139d936a8",
+      "downloaded_at": "2025-12-20T20:16:38.572971",
+      "status": "success",
+      "metadata": {
+        "title": "US UK Eurozone Japan\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 4330257...",
+        "date": "3302-57",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/075338_6075338_6075321_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/6075338_6075321_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/075338_6075338_6075321_0.1.pdf",
+      "content_hash": "632d82892f58ef53d590dcbcac301f191975e06d6ebd301143246a8ec86c1d80",
+      "downloaded_at": "2025-12-20T20:16:41.111057",
+      "status": "success",
+      "metadata": {
+        "title": "United States\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 6075338...",
+        "date": "0753-38",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/110910_6110910_6110849_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/6110910_6110849_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/110910_6110910_6110849_0.1.pdf",
+      "content_hash": "304dc52a39c0bf34e176fe95d89b3784784357f613b23174b640d5d42aa015c1",
+      "downloaded_at": "2025-12-20T20:16:44.083184",
+      "status": "success",
+      "metadata": {
+        "title": "Week Ahead Economic Preview\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 6110910...",
+        "date": "1109-10",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/114987_6114987_6114888_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/6114987_6114888_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/114987_6114987_6114888_0.1.pdf",
+      "content_hash": "b4eeffd5ec4074061c6973d372cf1b2a2b329365652b349c41293f5a1eb19763",
+      "downloaded_at": "2025-12-20T20:16:47.160220",
+      "status": "success",
+      "metadata": {
+        "title": "Monthly PMI Bulletin\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 6114987...",
+        "date": "1149-87",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/CN_Services_ENG_2105_PR.pdf": {
+      "source_url": "https://pmi.caixin.com/upload/CN_Services_ENG_2105_PR.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/CN_Services_ENG_2105_PR.pdf",
+      "content_hash": "04e09766d500928a7cb85a051125d193361d5646964fb0c3427e9c02e499270e",
+      "downloaded_at": "2025-12-20T20:17:05.582062",
+      "status": "success",
+      "metadata": {
+        "title": "Caixin China General Services PMI Press Release\n\n\u8d22\u65b0PMI\nhttps://pmi.caixin.com \u203a upload \u203a CN_Services_...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/CN_Manufacturing_ENG_1912_PR.pdf": {
+      "source_url": "https://pmi.caixin.com/upload/CN_Manufacturing_ENG_1912_PR.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/CN_Manufacturing_ENG_1912_PR.pdf",
+      "content_hash": "883326d5b2b178d888610ae08ef0c7888508475afd34fcaf603a8322292af4b2",
+      "downloaded_at": "2025-12-20T20:17:08.962988",
+      "status": "success",
+      "metadata": {
+        "title": "Caixin China General Manufacturing PMI\n\n\u8d22\u65b0PMI\nhttps://pmi.caixin.com \u203a upload \u203a CN_Manufact...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/CN_Services_ENG_2011_PR.pdf": {
+      "source_url": "https://pmi.caixin.com/upload/CN_Services_ENG_2011_PR.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/CN_Services_ENG_2011_PR.pdf",
+      "content_hash": "b1b28f745230652b83b7588ac9f630192986e2fb894897ffeb14958419de465e",
+      "downloaded_at": "2025-12-20T20:17:11.425521",
+      "status": "success",
+      "metadata": {
+        "title": "Caixin China General Services PMI Press Release\n\n\u8d22\u65b0PMI\nhttps://pmi.caixin.com \u203a upload \u203a CN_Services_...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/CN_Services_ENG_2210_PR.pdf": {
+      "source_url": "https://pmi.caixin.com/upload/CN_Services_ENG_2210_PR.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/CN_Services_ENG_2210_PR.pdf",
+      "content_hash": "570fceae87e3e954b823dbdacd8505541de954b62ed19c00dbf1bbfb5724c873",
+      "downloaded_at": "2025-12-20T20:17:14.672189",
+      "status": "success",
+      "metadata": {
+        "title": "Caixin China General Services PMI Press Release\n\n\u8d22\u65b0PMI\nhttps://pmi.caixin.com \u203a upload \u203a CN_Services_...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/CN_Manufacturing_ENG_2012_PR.pdf": {
+      "source_url": "https://pmi.caixin.com/upload/CN_Manufacturing_ENG_2012_PR.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/CN_Manufacturing_ENG_2012_PR.pdf",
+      "content_hash": "52d9777cf8a7544222a9fbd1bf677b56f5c66bacae705144a9d1d5cc1af1b529",
+      "downloaded_at": "2025-12-20T20:17:17.422930",
+      "status": "success",
+      "metadata": {
+        "title": "Caixin China General Manufacturing PMI Press Release\n\n\u8d22\u65b0PMI\nhttps://pmi.caixin.com \u203a upload \u203a CN_Manufact...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/CN_Services_ZHO_1910_PR.pdf": {
+      "source_url": "https://pmi.caixin.com/upload/CN_Services_ZHO_1910_PR.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/CN_Services_ZHO_1910_PR.pdf",
+      "content_hash": "d0c1b8051dbf3fee54b3cdc2096ab0f5d9397afaa74bccde8dcfd448daf2264d",
+      "downloaded_at": "2025-12-20T20:17:20.739156",
+      "status": "success",
+      "metadata": {
+        "title": "\u8d22\u65b0\u4e2d\u56fd\u901a\u7528\u670d\u52a1\u4e1aPMI\n\n\u8d22\u65b0PMI\nhttps://pmi.caixin.com \u203a upload \u203a CN_Services_...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/CN_Manufacturing_ENG_2305_PR.pdf": {
+      "source_url": "https://pmi.caixin.com/upload/CN_Manufacturing_ENG_2305_PR.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/CN_Manufacturing_ENG_2305_PR.pdf",
+      "content_hash": "11156f2308c677282870c8eab777840c31d06ba121c7a1b0e7602c34f7a70335",
+      "downloaded_at": "2025-12-20T20:17:23.709482",
+      "status": "success",
+      "metadata": {
+        "title": "Caixin China General Manufacturing PMI Press Release\n\n\u8d22\u65b0PMI\nhttps://pmi.caixin.com \u203a upload \u203a CN_Manufact...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/CN_Manufacturing_ENG_2308_PR.pdf": {
+      "source_url": "https://pmi.caixin.com/upload/CN_Manufacturing_ENG_2308_PR.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/CN_Manufacturing_ENG_2308_PR.pdf",
+      "content_hash": "bb5811476987ff8ad91b4294f08428ecf82df9333b11db6edf1781dec904c68b",
+      "downloaded_at": "2025-12-20T20:17:26.784943",
+      "status": "success",
+      "metadata": {
+        "title": "Caixin China General Manufacturing PMI Press Release\n\n\u8d22\u65b0PMI\nhttps://pmi.caixin.com \u203a upload \u203a CN_Manufact...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/CN_Services_ENG_2404_PR.pdf": {
+      "source_url": "https://pmi.caixin.com/upload/CN_Services_ENG_2404_PR.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/CN_Services_ENG_2404_PR.pdf",
+      "content_hash": "e5a9f28ac44f1828ba79da0583715c10c7c5ac503b3d38b016460f126db1fe6d",
+      "downloaded_at": "2025-12-20T20:17:29.748149",
+      "status": "success",
+      "metadata": {
+        "title": "Caixin China General Services PMI Press Release\n\ncaixin.com\nhttps://pmi.caixin.com \u203a upload \u203a CN_Services_...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/CN_Services_ENG_2206_PR.pdf": {
+      "source_url": "https://pmi.caixin.com/upload/CN_Services_ENG_2206_PR.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/CN_Services_ENG_2206_PR.pdf",
+      "content_hash": "32154d0c156f0820bdbc8aca087036667f4cddf74994d52fe569bcb5f22646b1",
+      "downloaded_at": "2025-12-20T20:17:31.738211",
+      "status": "success",
+      "metadata": {
+        "title": "Caixin China General Services PMI Press Release\n\n\u8d22\u65b0PMI\nhttps://pmi.caixin.com \u203a upload \u203a CN_Services_...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/541554_4541554_4541534_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/4541554_4541534_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/541554_4541554_4541534_0.1.pdf",
+      "content_hash": "f9b3e34f186770bf41014b57e82978b5ce0f60ae1ca6c98952929f1293e36ec9",
+      "downloaded_at": "2025-12-20T20:17:38.560991",
+      "status": "success",
+      "metadata": {
+        "title": "Global manufacturing\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 4541554...",
+        "date": "5415-54",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/917466_3917466_3917429_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/3917466_3917429_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/917466_3917466_3917429_0.1.pdf",
+      "content_hash": "1a14cb9b6315e67b65db07096a5d84d070315eb1bab2f27b7192a90b8764d2b0",
+      "downloaded_at": "2025-12-20T20:17:41.832366",
+      "status": "success",
+      "metadata": {
+        "title": "Global PMI\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 3917466...",
+        "date": "9174-66",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/980572_3980572_3980563_0.1.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/3980572_3980563_0.1.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/980572_3980572_3980563_0.1.pdf",
+      "content_hash": "57d280be358b4e6703c4abf4c410e05dead06b55e475fd88adaa2c669445e677",
+      "downloaded_at": "2025-12-20T20:17:44.664817",
+      "status": "success",
+      "metadata": {
+        "title": "Global PMI\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a 3980572...",
+        "date": "9805-72",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/CN_Services_ZHO_2109_PR.pdf": {
+      "source_url": "https://pmi.caixin.com/upload/CN_Services_ZHO_2109_PR.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/CN_Services_ZHO_2109_PR.pdf",
+      "content_hash": "fc0edb8ac1f0c532348d357b5581ed5b7dadd2366ea791e12e803f975d326e72",
+      "downloaded_at": "2025-12-20T20:17:51.009078",
+      "status": "success",
+      "metadata": {
+        "title": "PMI\n\n\u8d22\u65b0PMI\nhttps://pmi.caixin.com \u203a upload \u203a CN_Services_...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/SPGlobal-and-ISM-surveys-compared-2025-06.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/0625/SPGlobal-and-ISM-surveys-compared-2025-06.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/SPGlobal-and-ISM-surveys-compared-2025-06.pdf",
+      "content_hash": "04a74c61651f9b9172d697e1160872b807734fc372248929564cf91cd3bb8226",
+      "downloaded_at": "2025-12-20T21:11:56.847752",
+      "status": "success",
+      "metadata": {
+        "title": "United States\n\nihsmarkit.com\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a SPGloba...",
+        "date": "2025-06",
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    },
+    "spglobal/pdfs/IHS-Markit-vs-ISM-PMI_2018.pdf": {
+      "source_url": "https://cdn.ihsmarkit.com/www/pdf/0222/IHS-Markit-vs-ISM-PMI_2018.pdf",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs/IHS-Markit-vs-ISM-PMI_2018.pdf",
+      "content_hash": "4359944e77f87f54a0ae68e150f2833203dd3e2e0e73f74bf153789cbdfc29a7",
+      "downloaded_at": "2025-12-20T21:11:58.853614",
+      "status": "success",
+      "metadata": {
+        "title": "IHS Markit versus ISM Manufacturing PMI - Macro Focus\n\nS&P Global\nhttps://cdn.ihsmarkit.com \u203a www \u203a pdf \u203a IHS-Mar...",
+        "date": null,
+        "found_on": null,
+        "content_type": "application/pdf"
+      }
+    }
+  }
+}

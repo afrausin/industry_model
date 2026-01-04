@@ -1,0 +1,16 @@
+{
+  "downloaded_at": "2025-12-20T19:58:15.877037",
+  "source": "S&P Global",
+  "pdf_count": 0,
+  "discovered_count": 1,
+  "pdfs": [
+    {
+      "url": "https://cdn.ihsmarkit.com/www/pmi/PMI-Fact-Sheet.pdf",
+      "title": "Pmi Fact Sheet",
+      "date": null,
+      "found_via": "manual"
+    }
+  ],
+  "downloaded": [],
+  "pdf_directory": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/spglobal/pdfs"
+}

@@ -1,0 +1,35 @@
+# Macro Data Framework - Core Dependencies
+# =========================================
+
+# HTTP requests
+requests>=2.31.0
+
+# HTML parsing
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Date/time handling
+python-dateutil>=2.8.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# PDF extraction (for Fed documents)
+pdfplumber>=0.10.0
+
+# AI/LLM Integration
+google-generativeai>=0.3.0
+anthropic>=0.8.0
+
+# Optional: Web Dashboard (if rebuilding UI)
+# flask>=3.0.0
+# streamlit>=1.29.0
+# plotly>=5.18.0
+
+# Optional: Machine Learning (for forecasting)
+# scikit-learn>=1.3.0
+# scipy>=1.11.0

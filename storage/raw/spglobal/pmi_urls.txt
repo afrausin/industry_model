@@ -1,0 +1,11 @@
+# S&P Global PMI PDF URLs
+# Add PDF URLs here, one per line
+# Format: URL or URL|Title
+#
+# To find PDFs, use Google search:
+#   filetype:pdf site:spglobal.com pmi
+#   filetype:pdf site:pmi.spglobal.com
+#
+# Then paste the PDF URLs below:
+
+https://cdn.ihsmarkit.com/www/pmi/PMI-Fact-Sheet.pdf

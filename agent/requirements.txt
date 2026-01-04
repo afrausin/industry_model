@@ -1,0 +1,16 @@
+# Heuristic Optimization Agent Dependencies
+# ==========================================
+
+# Google Gemini SDK
+google-generativeai>=0.8.0
+
+# Data processing (should already be in main requirements)
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# For tool type hints
+typing-extensions>=4.8.0

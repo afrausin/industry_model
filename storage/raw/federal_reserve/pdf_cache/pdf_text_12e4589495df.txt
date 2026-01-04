@@ -1,0 +1,1005 @@
+________________________________________________________________________________________P_a_g_e_ _1
+Minutes of the Federal Open Market Committee
+March 15, 2020
+A joint meeting of the Federal Open Market Committee Governors; Michael S. Gibson, Director, Division
+and the Board of Governors was held by videoconfer- of Supervision and Regulation, Board of
+ence on Sunday, March 15, 2020, at 10:00 a.m.1 Governors; Andreas Lehnert, Director, Division of
+Financial Stability, Board of Governors
+PRESENT:
+Jerome H. Powell, Chair Daniel M. Covitz, Deputy Director, Division of
+John C. Williams, Vice Chair Research and Statistics, Board of Governors;
+Michelle W. Bowman Rochelle M. Edge, Deputy Director, Division of
+Lael Brainard Monetary Affairs, Board of Governors; Michael T.
+Richard H. Clarida Kiley, Deputy Director, Division of Financial
+Patrick Harker Stability, Board of Governors
+Robert S. Kaplan
+Neel Kashkari Jon Faust, Senior Special Adviser to the Chair, Office
+Loretta J. Mester of Board Members, Board of Governors
+Randal K. Quarles
+Joshua Gallin, Special Adviser to the Chair, Office of
+Thomas I. Barkin, Raphael W. Bostic, Mary C. Daly, Board Members, Board of Governors
+and Charles L. Evans, Alternate Members of the
+Federal Open Market Committee Antulio N. Bomfim, Brian M. Doyle, Wendy E. Dunn,
+and Ellen E. Meade, Special Advisers to the Board,
+James Bullard, Esther L. George, and Eric Rosengren, Office of Board Members, Board of Governors
+Presidents of the Federal Reserve Banks of St.
+Louis, Kansas City, and Boston, respectively Linda Robertson, Assistant to the Board, Office of
+Board Members, Board of Governors
+James A. Clouse, Secretary
+Matthew M. Luecke, Deputy Secretary Edward Nelson, Senior Adviser, Division of Monetary
+Michelle A. Smith, Assistant Secretary Affairs, Board of Governors
+Mark E. Van Der Weide, General Counsel
+Michael Held, Deputy General Counsel Andrew Figura and John M. Roberts, Deputy Associate
+Thomas Laubach, Economist Directors, Division of Research and Statistics,
+Stacey Tevlin, Economist Board of Governors
+Beth Anne Wilson, Economist
+Rebecca Zarutskie, Assistant Director, Division of
+Shaghil Ahmed, Michael Dotsey, Joseph W. Gruber, Monetary Affairs, Board of Governors
+Beverly Hirtle, David E. Lebow, Trevor A. Reeve,
+and Ellis W. Tallman, Associate Economists Brett Berger, Adviser, Division of International
+Finance, Board of Governors
+Lorie K. Logan, Manager, System Open Market
+Account Randall A. Williams, Senior Information Manager,
+Division of Monetary Affairs, Board of Governors
+Ann E. Misback, Secretary, Office of the Secretary,
+Board of Governors Jose Acosta, Senior Communications Analyst, Division
+of Information Technology, Board of Governors
+Matthew J. Eichner, Director, Division of Reserve
+Bank Operations and Payment Systems, Board of
+1 The Federal Open Market Committee is referenced as the
+“FOMC” and the “Committee” in these minutes.
+
+_P_ag_e_ _2_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+Ellen J. Bromagen and Ron Feldman, First Vice back to the low point reached in 2008. Market partici-
+Presidents, Federal Reserve Banks of Chicago and pants expected that actions taken to slow the spread of
+Minneapolis, respectively the virus could have significant effects on the credit wor-
+thiness of certain borrowers, particularly those at the
+Kartik B. Athreya, Anna Paulson, Daleep Singh, and lower end of the credit spectrum. Market participants
+Christopher J. Waller, Executive Vice Presidents, also increasingly pointed to concerns in other segments
+Federal Reserve Banks of Richmond, Chicago, of the debt market. In securitized markets, including
+New York, and St. Louis, respectively those for asset-backed securities (ABS) and commercial
+mortgage-backed securities (CMBS), primary market is-
+Paula Tkac, Robert G. Valletta, and Nathaniel suance slowed, and secondary market trading had be-
+Wuerffel, Senior Vice Presidents, Federal Reserve come less orderly, with money managers selling short-
+Banks of Atlanta, San Francisco, and New York, dated liquid products to meet investor redemptions.
+respectively
+In the Treasury market, following several consecutive
+days of deteriorating conditions, market participants re-
+George A. Kahn, Matthew D. Raskin, and Patricia
+ported an acute decline in market liquidity. A number
+Zobel, Vice Presidents, Federal Reserve Banks of
+of primary dealers found it especially difficult to make
+Kansas City, New York, and New York,
+markets in off-the-run Treasury securities and reported
+respectively
+that this segment of the market had ceased to function
+effectively. This disruption in intermediation was at-
+Karel Mertens, Senior Economic Policy Advisor,
+tributed, in part, to sales of off-the-run Treasury securi-
+Federal Reserve Bank of Dallas
+ties and flight-to-quality flows into the most liquid,
+on-the-run Treasury securities.
+Developments in Financial Markets and Open
+Market Operations Conditions in short-term funding markets also deterio-
+The System Open Market Account (SOMA) manager rated sharply amid a decline in market liquidity and chal-
+first reviewed developments in domestic and global fi- lenges in dealer intermediation. Over recent days, the
+nancial markets. Financial markets remained exception- premium paid to obtain dollars through the foreign ex-
+ally volatile amid the global spread of the coronavirus change swap market increased sharply, and the volumes
+and uncertainty regarding its effects. Since the meeting in term repurchase agreement (repo) markets dropped
+of the FOMC in late January, the S&P 500 index de- significantly. Issuance of commercial paper (CP) matur-
+clined 18 percent, nominal U.S. Treasury yields moved ing beyond one week reportedly almost dried up at the
+60 to 100 basis points lower, and market-based measures end of the week before the meeting, and primary- and
+of inflation compensation fell 75 to 100 basis points. secondary-market liquidity for financial and nonfinancial
+Investment-grade and high-yield credit spreads widened CP was described as nearly nonexistent at a time when
+about 120 basis points and 360 basis points, respectively. investor concern about issuer credit risk was rising.
+The U.S. dollar appreciated notably against most curren-
+The manager then summarized actions taken by the
+cies, with the exception of other safe-haven currencies,
+Desk to address some of the strains in financial markets.
+and crude oil prices dropped 40 percent. Against this
+Repo lending operations were greatly expanded to ad-
+backdrop, expectations for the path of the federal funds
+dress the acute worsening in term funding markets; these
+rate adjusted sharply. Implied rates on federal funds fu-
+operations included the addition of large-scale one- and
+tures contracts suggested the Committee was expected
+three-month term repo operations. Despite the sizable
+to reduce the target range 1 full percentage point at its
+offering of additional term repo, take-up was well below
+upcoming scheduled meeting following the 50 basis
+the offered amounts, and there was little improvement
+point reduction in the target range in early March. In
+in Treasury market functioning. As a result, the Chair,
+addition, market participants reportedly anticipated that
+in consultation with the FOMC, instructed the Desk to
+the Committee would announce additional purchases of
+conduct purchases of Treasury securities across a range
+Treasury securities and agency mortgage-backed securi-
+of maturities. The Desk also revised the schedule of
+ties (MBS).
+Treasury purchases, announcing that $37 billion of the
+Trading conditions across a range of markets were se- monthly scheduled purchases would be completed on
+verely strained. In corporate bond markets, trading ac- Friday, March 13. These purchases were conducted
+tivity and liquidity were at very low levels, although not across the curve. Market participants suggested that the
+
+_______________________________M_i_n_u_te_s_ o_f_ t_h_e_ M__e_e_ti_n_g_ o_f_ M__a_r_ch_ _1_5_, _2_0_2_0_________________________P_a_g_e_ _3
+operations had been helpful in addressing some funding 1.6 percent over that same 12-month period. The
+pressures, but trading conditions in Treasury, mortgage, trimmed mean measure of 12-month PCE price infla-
+and credit markets remained severely strained. The tion constructed by the Federal Reserve Bank of Dallas
+SOMA manager noted that, if the FOMC directed the was 2.1 percent in January. The consumer price index
+Desk to conduct additional purchases of MBS and (CPI) rose 2.3 percent over the 12 months ending in
+Treasury securities, the Desk could initially conduct such February, and the core CPI increased 2.4 percent over
+purchases at a more rapid pace to more quickly address that same period. Recent readings on survey-based
+liquidity strains. measures of longer-run inflation expectations were little
+changed, on balance, in recent months. The Survey of
+By unanimous vote, the Committee ratified the Desk’s
+Professional Forecasters measure for the next 10 years
+domestic transactions over the intermeeting period. No
+was unchanged in the first quarter, as was the longer-run
+intervention operations occurred in foreign currencies
+measure from the Blue Chip survey in March. The Uni-
+for the System’s account during the intermeeting period.
+versity of Michigan Surveys of Consumers measure for
+Staff Review of the Economic Situation the next 5 to 10 years edged down in February and re-
+The coronavirus outbreak was disrupting economic ac- mained in the lower part of its prevailing range in early
+tivity in many countries, including the United States, by March. The three-year-ahead measure from the Federal
+the time of the March 15 meeting. There were limited Reserve Bank of New York’s Survey of Consumer Ex-
+available U.S. economic data, however, that covered the pectations edged up in February and remained in its re-
+period since the intensification of concerns about the cent range.
+domestic effects of the outbreak. Information that pre-
+Real PCE growth was moderate in January. The com-
+dated that period indicated that labor market conditions
+ponents of the nominal retail sales data used to estimate
+had remained strong through February and that real
+PCE edged down in February, and the pace of sales of
+gross domestic product (GDP) appeared to have been
+light motor vehicles in January and February was above
+increasing at a moderate pace in the first two months of
+its fourth-quarter average. However, the consumer sen-
+the year. Consumer price inflation, as measured by the
+timent measure from the Michigan survey started to de-
+12-month percentage change in the price index for per-
+cline notably in early March, and other daily and weekly
+sonal consumption expenditures (PCE), remained below
+sentiment measures—such as the Bloomberg Consumer
+2 percent in January. Survey-based measures of longer-
+Comfort Index, the Morning Consult confidence index,
+run inflation expectations were little changed.
+and the Rasmussen Consumer Index—were also deteri-
+Total nonfarm payroll employment expanded strongly in orating.
+January and February, and the unemployment rate was
+Both starts and building permit issuance for single-
+at its 50-year low of 3.5 percent in February. Meanwhile,
+family homes increased in January over their fourth-
+the labor force participation rate and the employment-
+quarter averages, and starts of multifamily units also
+to-population ratio edged up on net. Initial claims for
+moved up. New and existing home sales in January were
+unemployment insurance benefits—a timely indicator of
+both above their average fourth-quarter levels.
+a deterioration in labor market conditions—remained
+near historically low levels through early March, which Nominal shipments and new orders of nondefense cap-
+was still before economic shutdowns started to take ital goods excluding aircraft increased solidly in January,
+place in the United States. Nominal wage growth was although the anticipated resumption of deliveries of the
+moderate on balance. Average hourly earnings for all Boeing 737 Max was delayed until later in the year.
+employees increased 3 percent over the 12 months end- Nominal business expenditures for nonresidential struc-
+ing in February. The employment cost index for private- tures outside of the drilling and mining sector increased
+sector workers increased 2.7 percent over the 12 months in January. The total number of crude oil and natural
+ending in December, while total labor compensation per gas rigs in operation—an indicator of business spending
+hour in the business sector—a highly volatile measure of for structures in the drilling and mining sector—was
+wage gains—rose 3.6 percent over the four quarters of edging up through mid-March and was not yet showing
+last year. any of the expected falloff from the recent sharp declines
+in crude oil prices.
+Total consumer prices, as measured by the PCE price
+index, increased 1.7 percent over the 12 months ending The available data suggested that manufacturing produc-
+in January. Core PCE price inflation (which excludes tion moved up in February after edging down in January,
+changes in consumer food and energy prices) was leaving the level of factory output little changed, on net,
+
+_P_ag_e_ _4_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+over the past 12 months. Although output in the mining and the market-implied expected trajectory of the federal
+sector—which includes crude oil extraction—had in- funds rate all plummeted, and the volatility of asset
+creased in January, available data indicated that output in prices soared. Late in the intermeeting period, short-
+this sector would decrease in February; the recent sharp term funding markets showed signs of stress, with ele-
+declines in crude oil prices pointed to a reduction in min- vated demand for repo funding and increased short-term
+ing-sector production over at least the near term. spreads. Trading conditions for Treasury securities and
+MBS were impaired. Moreover, primary issuance of
+Total real government purchases appeared to be increas-
+investment-grade corporate bonds was sporadic, and
+ing moderately. Federal defense spending rose in Janu-
+that of speculative-grade corporate bonds and leveraged
+ary and February, and federal employment was boosted
+loans virtually stopped after late February. Data from
+by hiring for the 2020 census. State and local govern-
+before the escalation of coronavirus concerns in late
+ment payrolls expanded strongly in January and Febru-
+February suggested that financial conditions for nonfi-
+ary, and nominal construction spending by these govern-
+nancial businesses and for households had generally re-
+ments increased solidly in January.
+mained supportive of economic activity and spending,
+The nominal U.S. international trade deficit narrowed in but developments late in the intermeeting period
+January, as a steep fall in imports more than offset a de- pointed to tightening credit conditions.
+cline in exports. The fall in imports, which followed a
+Expectations for the path of the federal funds rate de-
+sizable fourth-quarter decline, was led by lower imports
+clined sharply over the intermeeting period. Toward the
+of industrial supplies, automotive products, and capital
+end of the period, a straight read of overnight index
+goods. The decline in exports was driven by lower ex-
+swap (OIS) quotes suggested that the federal funds rate
+ports of capital goods and industrial supplies. Available
+would remain below 25 basis points at least until the
+indicators suggested that both exports and imports likely
+middle of 2021. After the 50 basis point decrease in the
+declined in February, in part reflecting disruptions re-
+target range on March 3, prices of federal funds futures
+lated to the coronavirus outbreak.
+options suggested that investors assigned a significant
+The pace of economic growth abroad was already sub- probability to the target range decreasing to 0 to 25 basis
+dued before the outbreak. In the advanced foreign points at or before the scheduled March meeting.
+economies (AFEs), real GDP growth had slowed
+Yields on nominal Treasury securities plummeted across
+sharply at the end of 2019, and indicators pointed to only
+the maturity spectrum, with the 10- and 30-year yields
+a modest pickup in economic growth early this year. In
+reaching all-time lows at some point. A staff term struc-
+the emerging market economies (EMEs), incoming data
+ture model largely attributed the decline in the 10-year
+had been more positive, as indicators for high-tech and
+yield to lower expected future short-term rates.
+manufacturing production in Asian economies outside
+Measures of inflation compensation based on Treasury
+of China were upbeat, and the effects of social protests
+Inflation-Protected Securities fell sharply and reached a
+in Chile and Hong Kong, along with the effects of the
+historical low at the 5-to-10-year horizon late in the in-
+General Motors strike on Mexican economic activity,
+termeeting period.
+had faded. By early February, however, the coronavirus
+outbreak in China brought economic activity in many Uncertainty regarding future interest rates increased
+parts of the country to a standstill. Hubei province, the sharply over the intermeeting period. At one point, the
+epicenter of the outbreak and a manufacturing hub, was one-month-ahead swaption-implied volatility of the
+put under quarantine, and factories across the country 10-year swap rate surpassed its highest level seen during
+were shut down. Foreign economic indicators for the the “taper tantrum” episode in mid-2013. Treasury mar-
+more recent period, following the spread of the virus to ket functioning was severely impaired late in the inter-
+the rest of the world, were generally not yet available. meeting period, with some dealers reportedly unwilling
+However, widespread shutdowns together with lower to make markets for clients and the normal linkage be-
+commodity prices and tighter financial conditions sug- tween cash and futures markets broken. Market depth
+gested that activity was weakening sharply in most for- was extremely thin, and bid-ask spreads widened sharply.
+eign economies.
+Broad stock price indexes plummeted because of a flight
+Staff Review of the Financial Situation to safety amid escalating concerns about global eco-
+Concerns about the coronavirus outbreak dominated fi- nomic activity. Although the declines were broad based,
+nancial market developments at home and abroad over the airline, energy, and bank sectors were among the
+the intermeeting period. Equity prices, sovereign yields, worst performers. Stock price indexes were extremely
+
+_______________________________M_i_n_u_te_s_ o_f_ t_h_e_ M__e_e_ti_n_g_ o_f_ M__a_r_ch_ _1_5_, _2_0_2_0_________________________P_a_g_e_ _5
+volatile, and the one-month option-implied volatility on Financing conditions for nonfinancial firms were
+the S&P 500 index soared, sometimes reaching levels strained over the late part of the intermeeting period.
+not seen since the fall of 2008. Corporate bond spreads After robust issuance earlier in the first quarter, corpo-
+over comparable-maturity Treasury yields widened sig- rate bond issuance came to a near standstill around late
+nificantly, and spreads on speculative-grade energy February in the midst of elevated volatility following the
+bonds widened especially sharply amid plunging oil escalation of concerns about the coronavirus outbreak.
+prices. Later in the intermeeting period, investment-grade bond
+issuance resumed intermittently, but speculative-grade
+The 50 basis point decrease in the target range for the
+issuance and leveraged loan issuance virtually stopped.
+federal funds rate announced on March 3 passed
+In addition, some firms reportedly postponed plans to
+through fully to overnight unsecured and secured rates.
+go public. Commercial and industrial loan growth was
+Conditions in domestic short-term funding markets
+modest. Credit quality indicators for nonfinancial cor-
+showed signs of funding strains late in the intermeeting
+porations had been solid earlier in the quarter but dete-
+period. The rates on unsecured CP and negotiable cer-
+riorated following the escalation of the coronavirus out-
+tificates of deposit with maturities exceeding one month
+break, particularly for the speculative-grade and energy
+increased sharply relative to OIS rates, with pronounced
+segments of the market. Measures of the year-ahead ex-
+effects for issuers in the energy and transportation sec-
+pected default rate increased in March to levels slightly
+tors. Overnight and term repo rates were elevated late
+under those observed during the oil price plunge in early
+in the intermeeting period, and the take-up of the Fed-
+2016, reflecting higher expected default rates among
+eral Reserve’s repo operations increased substantially for
+speculative-grade firms as well as energy firms. In addi-
+both overnight and term operations.
+tion, the outlook for corporate earnings deteriorated
+Over the intermeeting period, foreign risk asset prices somewhat, as equity analysts revised down their earnings
+plummeted amid a rapid deterioration of investor senti- per share estimates a notch, and several firms warned
+ment due to the global spread of the coronavirus. Major that the coronavirus outbreak could hurt their earnings
+foreign equity indexes dropped sharply over the inter- and make them difficult to predict. The supply of credit
+meeting period, while option-implied volatility measures to small businesses over the fourth quarter of last year
+climbed to their highest levels since the Global Financial had remained relatively accommodative, but loan origi-
+Crisis. EME fund outflows accelerated late in the period nations ticked down in January, consistent with ongoing
+as emerging market bond spreads widened notably. reports of weak loan demand.
+Most AFE long-term sovereign yields ended the period
+Market turmoil spilled into municipal bond markets late
+notably lower. Inflation compensation in the euro area
+in the intermeeting period, as spreads widened substan-
+reached new lows. In response to the economic effect
+tially and some borrowers became hesitant to come to
+of the virus, several central banks cut policy rates and
+the market. Credit conditions in the municipal market
+injected liquidity.
+had been accommodative over the early part of the in-
+The broad dollar index strengthened notably over the termeeting period, and issuance volumes in late February
+period, boosted by safe-haven demand, predominantly were reportedly boosted by strong investor demand for
+against EME currencies, and despite a significant decline low-risk assets.
+in U.S. yields. Safe-haven demand also bolstered the
+Financing conditions in the commercial real estate
+Japanese yen and Swiss franc. Policy actions by Chinese
+(CRE) sector worsened late in the intermeeting period,
+authorities supported the Chinese renminbi, which de-
+as issuance of CMBS slowed and spreads widened nota-
+preciated about 1.5 percent against the dollar on net.
+bly to around levels seen in 2016. Data from before the
+Other EME currencies, such as the Brazilian real and
+escalation of concerns over the coronavirus outbreak
+Mexican peso, depreciated sharply, as market partici-
+pointed to accommodative financing conditions. CRE
+pants viewed them as particularly vulnerable to a global
+loan growth at banks remained solid through February
+economic slowdown and declining commodity prices.
+and CRE debt outstanding increased modestly through
+Oil prices declined over 40 percent on expectations of
+mid-February, according to available data.
+lower demand due to the virus outbreak and an unex-
+pected price cut by Saudi Arabia amid a breakdown of The primary mortgage rate increased sharply toward the
+negotiations between OPEC and Russia to reduce pro- end of the period as MBS market liquidity deteriorated,
+duction levels. after falling substantially in February and early March.
+Capacity constraints at mortgage originators reportedly
+
+_P_ag_e_ _6_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+intensified, while borrower interest in refinancing in- global financial conditions had also been significantly af-
+creased significantly from already elevated levels. More- fected. Participants expressed their deep concern for
+over, additional constraints emerged as it became more those whose health had been harmed and observed that
+difficult to conduct operations that usually happen face- the matter was, above all, a public health emergency.
+to-face. They commented that the measures—such as social dis-
+tancing—taken in response to the pandemic, while
+Financing conditions in consumer credit markets wors-
+needed to contain the outbreak, would nevertheless take
+ened late in the intermeeting period. Strains began ap-
+a toll on U.S. economic activity in the near term.
+pearing in consumer ABS markets, although less so than
+in other fixed-income markets. In March, consumer Participants noted that available economic data showed
+ABS spreads widened sharply, liquidity deteriorated, and that the U.S. economy came into this challenging period
+new issuance became sporadic. Lenders in consumer on a strong footing. Information received since the
+credit markets began developing programs to assist bor- Committee met in January indicated that the labor mar-
+rowers whose finances were affected by the outbreak. ket remained strong through February and that eco-
+Earlier in the intermeeting period, financing conditions nomic activity rose at a moderate rate. Job gains had
+had been generally supportive of growth. Credit card been solid, on average, in recent months, and the unem-
+balances and auto loan balances both appeared to grow ployment rate had remained low. Although household
+solidly through February, according to banks’ data, con- spending had risen at a moderate pace, business fixed
+tinuing their growth in the fourth quarter. Conditions investment and exports had remained weak; further-
+for subprime credit card borrowers remained relatively more, in recent weeks the energy sector had come under
+tight but showed some signs of easing. stress due to the sharp drop in oil prices. On a 12-month
+basis, overall inflation and inflation for items other than
+Staff Economic Outlook
+food and energy had been running below 2 percent.
+The projection for the U.S. economy prepared by the
+Survey-based measures of longer-term inflation expecta-
+staff for the March FOMC meeting was downgraded sig-
+tions had been little changed. However, market-based
+nificantly from the January meeting forecast in response
+measures of inflation compensation had declined.
+to news on the spread of the coronavirus at home and
+abroad and in response to a related substantial mark- All participants viewed the near-term U.S. economic
+down of the staff’s foreign economic outlook, along outlook as having deteriorated sharply in recent weeks
+with recent financial market movements. Real GDP was and as having become profoundly uncertain. Many par-
+forecast to decline and the unemployment rate to rise, ticipants had repeatedly downgraded their outlook of
+on net, in the first half of this year. Given the downside late in response to the rapidly evolving situation. All saw
+risks and the elevated uncertainty about how much the U.S. economic activity as likely to decline in the coming
+economy would weaken and how long it would take to quarter and viewed downside risks to the economic out-
+recover, the staff provided two plausible economic sce- look as having increased significantly. Participants noted
+narios that spanned a range of possibilities. Importantly, that the timing of the resumption of growth in the U.S.
+the future performance of the economy would depend economy depended on the containment measures put in
+on the evolution of the virus outbreak and the measures place, as well as the success of those measures, and on
+undertaken to contain it. In one scenario, economic ac- the responses of other policies, including fiscal policy.
+tivity started to rebound in the second half of this year.
+With regard to households’ behavior, participants noted
+In a more adverse scenario, the economy entered reces-
+that, although consumption spending had been a key
+sion this year, with a recovery much slower to take hold
+driver of growth in economic activity through the first
+and not materially under way until next year. In both
+two months of this year, the pandemic was starting to
+scenarios, inflation was projected to weaken, reflecting
+impair consumer confidence and to exert an adverse ef-
+both the deterioration in resource utilization and sizable
+fect on household balance sheets. Participants reported
+expected declines in consumer energy prices.
+that wide-ranging social-distancing measures were in op-
+Participants’ Views on Current Conditions and the eration or in prospect in their Districts. These
+Economic Outlook measures—which included temporary closures of some
+Participants noted that the coronavirus outbreak was physical locations, such as stores and restaurants, in
+harming communities and disrupting economic activity which consumers purchased goods and services—would
+in many countries, including the United States, and that have the effect of reducing in-person transactions by
+households. Online shopping could substitute for some
+
+_______________________________M_i_n_u_te_s_ o_f_ t_h_e_ M__e_e_ti_n_g_ o_f_ M__a_r_ch_ _1_5_, _2_0_2_0_________________________P_a_g_e_ _7
+of this activity but was unlikely to replace it fully. The U.S. economy’s supply chains; so too, if it eventuated,
+housing market was likely to be disrupted by social dis- would a large increase in U.S. worker unavailability be-
+tancing, by financial uncertainty—including difficulties cause of health reasons. Several participants emphasized
+that households and businesses would face in meeting concern about the capacity of the health care system in
+mortgage or rental payments—and by volatility in the the current situation and welcomed measures taken to
+market for MBS. Participants stressed the major down- prevent the system’s overall capacity from being ex-
+side risk that the spread of the virus might intensify in ceeded.
+those areas of the country currently less affected, thereby
+Participants noted that foreign economic growth for the
+sidelining many more U.S. workers and further damping
+first half of this year would be badly hit by the severe
+purchases by consumers. Participants expressed con-
+disruptions to economic activity abroad associated with
+cern that households with low incomes had less of a sav-
+the response to the coronavirus outbreak, including the
+ings buffer with which to meet expenses during the in-
+recent measures taken in major European countries.
+terruption to economic activity. This situation made
+However, some encouraging signs had come from China
+those households more vulnerable to a downturn in the
+in recent weeks in the form of indications of increasing
+economy and tended to magnify the reduction in aggre-
+production and of more purchases of U.S. goods.
+gate demand associated with the nation’s response to the
+pandemic. With regard to the labor market, participants noted that
+some firms would likely need to cut employment imme-
+Participants relayed reports on business sectors already
+diately. Other firms, however, were looking for ways to
+badly hit by the response to the coronavirus outbreak.
+retain employees during the period of reduced economic
+These sectors included those affected by the cancellation
+activity, in order to maintain capacity and be able to
+of many events, decisions by firms and households to
+ramp up production once the public health crisis abated
+reduce travel, government-mandated reductions in entry
+and demand rebounded. Measures that reportedly
+from abroad, and cutbacks on economic activity that re-
+helped partially substitute for layoffs included the en-
+quired in-person interaction. Firms directly affected in-
+couragement by employers of voluntary leaves of ab-
+cluded those connected to air travel, cruise lines, hotels,
+sence, non-replacement of departing workers, and in-
+tourism services, sports and recreation, entertainment,
+creased reliance on the delivery of goods to customers
+hospitality, and restaurants. In the past week, pullbacks
+in place of on-site purchases. Participants observed that
+in purchases at retail stores, except for emergency buy-
+businesses would be more likely to lay off workers on a
+ing, had reportedly intensified significantly. In addition,
+major scale if the downturn in economic activity came
+the energy sector had come under stress because of re-
+to be perceived as likely to be protracted. Participants
+cent large declines in oil prices. Many U.S. businesses
+commented that workers most severely affected in the
+had moved to telework arrangements; other businesses,
+current situation were those who were ill, those with low
+however, could not readily shift to telework status or had
+incomes, those connected to the most hard-hit sectors,
+limited telework technology. Participants observed that
+and those with irregular or contingent employment.
+the coronavirus outbreak had inevitably hurt business
+They also noted that many workers had jobs that did not
+confidence and that the expected length and severity of
+permit working from home.
+the restrictions on economic activity that involved in-
+person interaction would importantly affect the size of With regard to inflation, participants noted that it had
+the response of investment spending to the situation. been running below the Committee’s 2 percent longer-
+Participants expressed concern about the financial strain run objective before the coronavirus outbreak. They re-
+that many U.S. firms were under because of the loss of marked that a stronger dollar, weaker demand, and lower
+business and the extraordinary turbulence in financial oil prices were factors likely to put downward pressure
+markets. With regard to supply chains, many contacts on inflation in the period ahead and observed that this
+had reported that some linkages in China had been re- meant that the return of inflation to the Committee’s
+stored and that they were able to draw on inventory sup- 2 percent longer-run objective would likely be further
+plies and on alternative supply chains; however, in some delayed. Participants indicated, however, that imple-
+areas of the country, the construction industry had re- menting a more accommodative stance of monetary pol-
+ported continuing disruptions to supply chains from icy at this meeting could be useful in helping offset these
+China. Participants indicated that disruptions in the Eu- factors over time and in achieving the 2 percent inflation
+ropean economy and recent restrictions on travel from
+Europe to the United States would adversely affect the
+
+_P_ag_e_ _8_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+objective over the longer run, by helping prevent cir- liquidity problems, but they noted that severe illiquidity
+cumstances of persistent resource slack or a lasting de- continued to prevail in key securities markets. Many par-
+cline in inflation expectations. ticipants pointed to other dislocations in funding mar-
+kets that could impede financial intermediation to
+Participants all agreed that the effects of the pandemic
+households and businesses. They highlighted the acute
+would weigh on economic activity in the near term and
+problems that many firms were facing in issuing CP and
+that the duration of this period of weakness was uncer-
+corporate bonds. Participants further noted that many
+tain. They further concurred that the unpredictable ef-
+businesses were tapping their backup credit lines with
+fects of the coronavirus outbreak were a source of major
+commercial banks. Participants also discussed the im-
+downside risks to the economic outlook. Participants
+plications of recent financial market turbulence for
+raised several alternative scenarios with regard to the
+money market funds and government bond funds and
+likely behavior of economic activity in the second half of
+for debt issuance by state and local governments.
+this year. These scenarios differed from one another in
+the assumed length and severity of disruptions to eco- In their consideration of monetary policy at this meeting,
+nomic activity. Several participants emphasized that the most participants judged that it would be appropriate to
+temporary nature of the shock to economic activity, the lower the target range for the federal funds rate by
+fact that the shock arose in the nonfinancial sector, and 100 basis points, to 0 to ¼ percent. In discussing the
+the healthy state of the U.S. banking system all implied reasons for such a decision, these participants pointed to
+that the current situation was not directly comparable a likely decline in economic activity in the near term re-
+with the previous decade’s financial crisis and it need not lated to the effects of the coronavirus outbreak and the
+be followed by negative effects on economic activity as extremely large degree of uncertainty regarding how long
+long-lasting as those associated with that crisis. Partici- and severe such a decline in activity would be. In light
+pants stressed that measures taken in the areas of health of the sharply increased downside risks to the economic
+care policy and fiscal policy, together with actions by the outlook posed by the global coronavirus outbreak, these
+private sector, would be important in shaping the timing participants noted that risk-management considerations
+and speed of the U.S. economy’s return to normal con- pointed toward a forceful monetary policy response,
+ditions. Participants agreed that the Federal Reserve’s with the majority favoring a 100 basis point cut that
+efforts to relieve stress in financial markets would help would bring the target range to its effective lower bound
+limit downside near-term outcomes by supporting credit (ELB). With regard to monetary policy beyond this
+flows to households and businesses, and that a more ac- meeting, these participants judged that it would be ap-
+commodative monetary policy stance would provide propriate to maintain the target range for the federal
+support to economic activity beyond the near term. funds rate at 0 to ¼ percent until policymakers were con-
+Among the downside risks to this year’s U.S. economic fident that the economy had weathered recent events
+outlook, participants prominently cited the possibility of and was on track to achieve the Committee’s maximum
+the virus outbreak becoming more widespread than ex- employment and price stability goals.
+pected. Such an event could lead to more wide-ranging
+A few participants preferred a 50 basis point cut at this
+temporary shutdowns, with adverse implications for the
+meeting and noted that such a decision would provide
+production of goods and services and for aggregate de-
+support to economic activity in the face of the antici-
+mand.
+pated effects of the coronavirus. These participants pre-
+With regard to financial developments over the inter- ferred to wait until there was greater assurance that the
+meeting period, participants noted that financial markets transmission mechanism of monetary policy via financial
+had exhibited extraordinary turbulence and stresses. markets and the supply of credit to households and busi-
+Participants commented on the conditions of high vola- nesses was working effectively. This would allow fiscal
+tility and illiquidity characterizing the markets for U.S. and public health policy responses to the coronavirus
+Treasury securities, especially off-the-run longer-term outbreak to take hold and preserve the ability of the
+securities, and for agency MBS. Participants expressed Committee to lower the target range, which was close to
+concern about the disruptions to the functioning of the ELB, in the event of a further deterioration in the
+these markets, especially in view of their status as cor- economic outlook. In addition, these participants noted
+nerstones for the operation of the U.S. and global finan- that a lowering of the target range by 100 basis points,
+cial systems and for the transmission of monetary policy. coming so soon after the reduction of 50 basis points
+Participants observed that Federal Reserve operations in less than two weeks earlier, ran the risk of sending an
+recent days had provided some relief with regard to the overly negative signal about the economic outlook.
+
+_______________________________M_i_n_u_te_s_ o_f_ t_h_e_ M__e_e_ti_n_g_ o_f_ M__a_r_ch_ _1_5_, _2_0_2_0_________________________P_a_g_e_ _9
+Participants also considered open market operations to forward guidance or balance sheet measures could be in-
+purchase Treasury securities and agency MBS to support troduced.
+the smooth functioning of these securities markets,
+Participants also indicated strong support for related ac-
+which in turn would help support the supply of credit to
+tions taken by the Board of Governors to support the
+households and businesses. Participants generally
+credit needs of households and businesses:
+agreed that, over the coming months, it would be appro-
+priate to increase the Federal Reserve’s holdings of • to lower the primary credit rate by 150 basis
+Treasury securities by at least $500 billion and its hold- points to ¼ percent and to allow depository in-
+ings of agency MBS by at least $200 billion. Addition- stitutions to borrow from the discount window
+ally, all principal payments from the Federal Reserve’s for periods as long as 90 days in order to encour-
+holdings of agency debt and agency MBS would be rein- age more active use of the discount window on
+vested in agency MBS. Those Treasury and agency MBS the part of depository institutions to meet unex-
+purchases would be in addition to the recently expanded pected funding needs
+overnight and term repo operations conducted by the • to encourage depository institutions to utilize in-
+Desk. Participants stressed that it was important to traday credit to support the provision of liquidity
+communicate that the Committee would be prepared to to households and businesses and the smooth
+increase the size of the securities purchases, as needed, functioning of payment systems
+on the basis of its close monitoring of market condi-
+• to encourage banks to use their capital and li-
+tions. Some participants noted that it was important to
+quidity buffers as they provide loans to house-
+stress in communications that the primary purpose of
+holds and businesses affected by the coronavirus
+these asset purchases was to support the smooth func-
+and undertake other supportive actions in a safe
+tioning of Treasury and agency MBS markets rather than
+and sound manner
+to provide further monetary policy accommodation by
+• to reduce reserve requirements to 0 percent in
+pushing down longer-term yields. A couple of partici-
+light of the shift to an ample-reserves regime and
+pants noted that because some of the purchases would
+to support lending to households and businesses
+be at longer maturities, the purchases could provide
+by depository institutions
+some accommodation by lowering longer-term yields.
+Participants also indicated support for enhancing, in co-
+Participants discussed some of the possible communica-
+ordination with the Bank of Canada, the Bank of Eng-
+tions challenges associated with the Committee’s policy
+land, the Bank of Japan, the European Central Bank, and
+decisions at this meeting. Several participants noted that
+the Swiss National Bank, the provision of liquidity via
+it would be important to communicate clearly and con-
+the standing U.S. dollar liquidity swap line arrangements.
+sistently about the rationale for the policy decisions
+The pricing on the standing U.S. dollar swap arrange-
+taken at this meeting. Some participants remarked that
+ments would be lowered by 25 basis points so that the
+the Committee’s policy actions regarding the target
+new rate would be the U.S. dollar OIS rate plus 25 basis
+range and balance sheet could be interpreted as convey-
+points, and U.S. dollars would be offered by foreign cen-
+ing negative news about the economic outlook. A few
+tral banks with an 84-day maturity, in addition to the
+participants also remarked that lowering the target range
+1-week maturity operations. Following this discussion,
+to the ELB could increase the likelihood that some mar-
+the Chair indicated that these changes to the standing
+ket interest rates would turn negative, or foster investor
+U.S. dollar liquidity swap line arrangements would be
+expectations of negative policy rates. Such expectations
+implemented consistent with the procedures described
+would run counter to participants’ previously expressed
+in the Authorization for Foreign Currency Operations.
+views that they would prefer to use other monetary pol-
+icy tools to provide further accommodation at the ELB. Participants generally commented that these additional
+Additionally, several participants remarked that the pub- measures would be helpful in supporting the flow of
+lic might view the ability of the Committee to provide credit to households and businesses. A few participants
+further monetary policy accommodation as being lim- commented that stigma associated with the discount
+ited. However, some participants noted that the Com- window may still be present or that further action, such
+mittee would still be able to provide monetary policy ac- as a relaunch of the Term Auction Facility, might be
+commodation even after lowering the target range for needed to encourage banks to take up additional fund-
+the federal funds rate to the ELB. In particular, new ing. A few other participants noted that discount win-
+
+_P_ag_e_ _1_0____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+dow stigma should be less of a concern than it was pre- nomic activity and the economic outlook. In this partic-
+viously. In particular, these participants cited the lower- ipant’s view, a 50 basis point cut would preserve space
+ing of the primary credit rate to the top of the target for further cuts in the target range that could be imple-
+range for the federal funds rate, offering term funding mented when market conditions had improved enough
+for up to 90 days, and regulators encouraging banks to to ensure that the monetary policy transmission mecha-
+use the discount window to continue prudently lending nism was functioning.
+to households and businesses. Several participants com-
+Members noted that they would continue to monitor the
+mented that banks should be discouraged from repur-
+implications of incoming information for the economic
+chasing shares from, or paying dividends to, their equity
+outlook, including information related to public health
+holders in the wake of the proposed measures. Partici-
+as well as global developments and muted inflation pres-
+pants generally noted that other measures to support the
+sures, and that the Committee would use its tools and
+flow of credit to households and businesses, including
+act as appropriate to support the economy. Members
+those that relied on section 13(3) of the Federal Reserve
+observed that, in determining the timing and size of fu-
+Act, might be needed in such an uncertain and rapidly
+ture adjustments to the stance of monetary policy, the
+evolving environment and that it would be prudent for
+Committee would assess realized and expected eco-
+the Federal Reserve to develop and remain prepared to
+nomic conditions relative to its maximum-employment
+implement such measures.
+objective and its symmetric 2 percent inflation objective.
+Committee Policy Action They also agreed that those assessments would take into
+In their discussion of monetary policy for this meeting, account a wide range of information, including measures
+members noted that the coronavirus outbreak had of labor market conditions, indicators of inflation pres-
+harmed communities and disrupted economic activity in sures and inflation expectations, and readings on finan-
+many countries, including the United States, and that cial and international developments.
+global financial conditions had also been significantly af-
+Members emphasized that the Federal Reserve was pre-
+fected. Available economic data showed that the U.S.
+pared to use its full range of tools to support the flow of
+economy came into this challenging period on a strong
+credit to households and businesses and thereby pro-
+footing, with a strong labor market, a low unemploy-
+mote its maximum-employment and price-stability
+ment rate, and moderate growth in household spending,
+goals. To support the smooth functioning of markets
+although business fixed investment and exports had re-
+for Treasury securities and agency MBS that are central
+mained weak. More recently, the energy sector had
+to the flow of credit to households and businesses, over
+come under stress. On a 12-month basis, overall infla-
+coming months the Committee agreed to increase its
+tion and inflation for items other than food and energy
+holdings of Treasury securities by at least $500 billion
+were running below 2 percent. Market-based measures
+and its holdings of agency MBS by at least $200 billion.
+of inflation compensation had declined, and survey-
+The Committee also agreed to reinvest all principal pay-
+based measures of longer-term inflation expectations
+ments from the Federal Reserve’s holdings of agency
+were little changed.
+debt and MBS in agency MBS. In addition, members
+Members judged that the effects of the coronavirus noted that the Desk had recently expanded its overnight
+would weigh on economic activity in the near term and and term repo operations. Members indicated that they
+would pose risks to the economic outlook. In light of would continue to closely monitor market conditions
+these developments, almost all members agreed to lower and that the Committee was prepared to adjust its plans
+the target range for the federal funds rate to 0 to ¼ per- as appropriate.
+cent. These members expected that the target range
+At the conclusion of the discussion, the Committee
+would be maintained at this level until they were confi-
+voted to authorize and direct the Federal Reserve Bank
+dent that the economy had weathered recent events and
+of New York, until instructed otherwise, to execute
+was on track to achieve the Committee’s maximum em-
+transactions in the SOMA in accordance with the fol-
+ployment and price stability goals. One member pre-
+lowing domestic policy directive:
+ferred to lower the target range by 50 basis points, to
+½ to ¾ percent, at this meeting, in support of the actions “Effective March 16, 2020, the Federal Open
+taken to promote smooth market functioning and the Market Committee directs the Desk to under-
+flow of credit to households and businesses and in light take open market operations as necessary to
+of the anticipated effects of the coronavirus on eco- maintain the federal funds rate in a target range
+of 0 to ¼ percent. The Committee directs the
+
+_______________________________M_i_n_u_te_s_ o_f_ t_h_e_ M__e_e_ti_n_g_ o_f_ M__a_r_ch_ _1_5_, _2_0_2_0________________________P__ag_e_ _1_1
+Desk to increase over coming months the Sys- received since the Federal Open Market Com-
+tem Open Market Account holdings of Treas- mittee met in January indicates that the labor
+ury securities and agency mortgage-backed se- market remained strong through February and
+curities (MBS) by at least $500 billion and by at economic activity rose at a moderate rate. Job
+least $200 billion, respectively. The Committee gains have been solid, on average, in recent
+instructs the Desk to conduct these purchases months, and the unemployment rate has re-
+at a pace appropriate to support the smooth mained low. Although household spending
+functioning of markets for Treasury securities rose at a moderate pace, business fixed invest-
+and agency MBS. ment and exports remained weak. More re-
+cently, the energy sector has come under stress.
+The Committee also directs the Desk to con-
+On a 12-month basis, overall inflation and infla-
+tinue conducting term and overnight repur-
+tion for items other than food and energy are
+chase agreement operations to ensure that the
+running below 2 percent. Market-based
+supply of reserves remains ample and to sup-
+measures of inflation compensation have de-
+port the smooth functioning of short-term U.S.
+clined; survey-based measures of longer-term
+dollar funding markets. In addition, the Com-
+inflation expectations are little changed.
+mittee directs the Desk to conduct overnight re-
+verse repurchase operations (and reverse repur- Consistent with its statutory mandate, the Com-
+chase operations with maturities of more than mittee seeks to foster maximum employment
+one day when necessary to accommodate week- and price stability. The effects of the corona-
+end, holiday, or similar trading conventions) at virus will weigh on economic activity in the near
+an offering rate of 0.00 percent, in amounts lim- term and pose risks to the economic outlook.
+ited only by the value of Treasury securities held In light of these developments, the Committee
+outright in the System Open Market Account decided to lower the target range for the federal
+that are available for such operations and by a funds rate to 0 to ¼ percent. The Committee
+per-counterparty limit of $30 billion per day. expects to maintain this target range until it is
+confident that the economy has weathered re-
+The Committee directs the Desk to continue
+cent events and is on track to achieve its maxi-
+rolling over at auction all principal payments
+mum employment and price stability goals.
+from the Federal Reserve’s holdings of Treasury
+This action will help support economic activity,
+securities and to reinvest all principal payments
+strong labor market conditions, and inflation re-
+from the Federal Reserve’s holdings of agency
+turning to the Committee’s symmetric 2 percent
+debt and agency mortgage-backed securities re-
+objective.
+ceived during each calendar month in agency
+mortgage-backed securities. Small deviations The Committee will continue to monitor the
+from these amounts for operational reasons are implications of incoming information for the
+acceptable. economic outlook, including information re-
+lated to public health, as well as global develop-
+The Committee also directs the Desk to engage
+ments and muted inflation pressures, and will
+in dollar roll and coupon swap transactions as
+use its tools and act as appropriate to support
+necessary to facilitate settlement of the Federal
+the economy. In determining the timing and
+Reserve’s agency mortgage-backed securities
+size of future adjustments to the stance of mon-
+transactions.”
+etary policy, the Committee will assess realized
+The vote also encompassed approval of the statement and expected economic conditions relative to its
+below for release at 5:00 p.m.: maximum employment objective and its sym-
+metric 2 percent inflation objective. This as-
+“The coronavirus outbreak has harmed com-
+sessment will take into account a wide range of
+munities and disrupted economic activity in
+information, including measures of labor mar-
+many countries, including the United States.
+ket conditions, indicators of inflation pressures
+Global financial conditions have also been sig-
+and inflation expectations, and readings on fi-
+nificantly affected. Available economic data
+nancial and international developments.
+show that the U.S. economy came into this chal-
+lenging period on a strong footing. Information
+
+_P_ag_e_ _1_2____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+The Federal Reserve is prepared to use its full It was agreed that the next meeting of the Committee
+range of tools to support the flow of credit to would be held on Tuesday–Wednesday, April 28–
+households and businesses and thereby pro- 29, 2020. The meeting adjourned at 2:40 p.m. on
+mote its maximum employment and price sta- March 15, 2020.
+bility goals. To support the smooth functioning
+Notation Vote
+of markets for Treasury securities and agency
+By notation vote completed on February 18, 2020, the
+mortgage-backed securities that are central to
+Committee unanimously approved the minutes of the
+the flow of credit to households and businesses,
+Committee meeting held on January 28–29, 2020.
+over coming months the Committee will in-
+crease its holdings of Treasury securities by at Videoconference meeting of March 2
+least $500 billion and its holdings of agency A joint meeting of the Federal Open Market Committee
+mortgage-backed securities by at least $200 bil- and the Board of Governors was held by videoconfer-
+lion. The Committee will also reinvest all prin- ence on March 2, 2020, at 7:30 p.m. to review develop-
+cipal payments from the Federal Reserve’s hold- ments related to the outbreak of the coronavirus and dis-
+ings of agency debt and agency mortgage- cuss steps that could be taken to provide support to the
+backed securities in agency mortgage-backed se- economy. As background for the Committee’s discus-
+curities. In addition, the Open Market Desk has sion, the staff reviewed recent developments in financial
+recently expanded its overnight and term repur- markets and provided an assessment of the evolving
+chase agreement operations. The Committee risks to the economic outlook.
+will continue to closely monitor market condi-
+The SOMA manager noted that since mid-February
+tions and is prepared to adjust its plans as ap-
+when concerns about the spread of the coronavirus be-
+propriate.”
+yond China had begun to intensify, global risk asset
+Voting for this action: Jerome H. Powell, John C. prices and sovereign yields had declined sharply. U.S.
+Williams, Michelle W. Bowman, Lael Brainard, Richard and global equity indexes were lower than at the time of
+H. Clarida, Patrick Harker, Robert S. Kaplan, Neel the Committee’s meeting in January and implied equity
+Kashkari, and Randal K. Quarles. market volatility had risen to levels not seen since 2015.
+The deterioration in risk sentiment had also been re-
+Voting against this action: Loretta J. Mester
+flected in a significant widening in U.S. and European
+President Mester was fully supportive of all of the ac- corporate credit spreads and in peripheral European
+tions taken to promote the smooth functioning of mar- spreads. Amid the ongoing market volatility, issuance of
+kets and the flow of credit to households and businesses investment-grade and high-yield corporate bonds and of
+but voted against the FOMC action because she pre- leveraged loans had generally dried up. Money markets
+ferred to reduce the target range for the federal funds had been resilient during the broader financial market
+rate to ½ to ¾ percent at this meeting. volatility; pricing and trading conditions in offshore U.S.
+dollar funding markets had also been stable. Market
+Consistent with the Committee’s decision to lower the
+functioning had remained orderly despite deterioration
+target range for the federal funds rate to 0 to ¼ percent,
+in liquidity conditions in Treasury, equity, and credit
+the Board of Governors voted unanimously to lower the
+markets.
+interest rate paid on required and excess reserve balances
+to 0.10 percent and voted unanimously to approve a Financial market participants’ views on the likely course
+1½ percentage point decrease in the primary credit rate of U.S. monetary policy had changed since the Commit-
+to 0.25 percent, effective March 16, 2020. tee’s January meeting. The expected path of the federal
+funds rate embedded in futures prices had shifted down
+The Board also approved changes to allow Reserve
+significantly over the period. Market commentary had
+Banks to extend primary credit loans for as long as
+interpreted Chair Powell’s February 28 statement as in-
+90 days and that could be prepaid or renewed on re-
+dicating the FOMC was prepared to lower the target
+quest. In addition, the Board approved a reduction in
+range for the federal funds rate at or before the March
+reserve requirement ratios applicable to net transaction
+meeting to support the achievement of the Committee’s
+deposits above the exemption threshold to 0 percent ef-
+maximum employment and price stability goals. Expec-
+fective with the reserve maintenance period beginning
+tations for global monetary and fiscal easing had in-
+on March 26, 2020.
+
+_______________________________M_i_n_u_te_s_ o_f_ t_h_e_ M__e_e_ti_n_g_ o_f_ M__a_r_ch_ _1_5_, _2_0_2_0________________________P__ag_e_ _1_3
+creased, with some market commentary noting the pos- the potential spread of the virus and the measures
+sibility of a coordinated effort across central banks or needed to protect communities from it represented a
+fiscal authorities. material downside risk to the U.S. economy. A forceful
+monetary policy action could provide a clear signal to the
+The SOMA manager noted that the situation remained
+public that policymakers recognized the potential eco-
+highly fluid with key risks, including those associated
+nomic significance of the situation and were willing to
+with funding for corporate borrowers, operational vul-
+move decisively to support the achievement of the Com-
+nerabilities associated with the transition to alternative
+mittee’s dual mandate goals and counter the recent tight-
+work arrangements, and the potential for impaired mar-
+ening of financial conditions. Although a reduction in
+ket functioning.
+the policy rate would not slow the spread of infection or
+The staff then provided an update on current conditions remedy broken supply chains, it could help shore up the
+and changes to the economic outlook since the FOMC’s confidence of households, businesses, and financial mar-
+January meeting. Available indicators for China sug- kets; ease financial strains of consumers and firms; and
+gested that the spread of the coronavirus had been asso- provide meaningful support to the economy in the face
+ciated with a collapse in economic activity during the of a large shock to demand. Accordingly, participants
+first quarter, with spillovers to the global economy from supported a reduction of 50 basis points in the target
+the drop in Chinese demand and disruption of supply range for the federal funds rate.
+chains. Although there were some tentative signs that
+On March 3, 2020, the Committee completed the vote
+the coronavirus in China was being contained and pro-
+to authorize and direct the Federal Reserve Bank of New
+duction was beginning to resume, the outbreak of the
+York, until instructed otherwise, to execute transactions
+virus in other foreign economies was weighing on con-
+in the SOMA in accordance with the following domestic
+sumer and business sentiment and depressing consump-
+policy directive:
+tion in those countries. All told, foreign economic ac-
+tivity was expected to be significantly weaker during the “Effective March 4, 2020, the Federal Open
+first half of 2020 than the staff had anticipated at the Market Committee directs the Desk to under-
+time of the January FOMC meeting. take open market operations as necessary to
+maintain the federal funds rate in a target range
+The staff noted that the spread of the virus was at an
+of 1 to 1¼ percent. In light of recent and ex-
+earlier stage in the United States and its effects were not
+pected increases in the Federal Reserve’s non-
+yet visible in monthly economic indicators, although
+reserve liabilities, the Committee directs the
+there had been some softening in daily sentiment in-
+Desk to continue purchasing Treasury bills at
+dexes and travel-related transactions. The outlook for
+least into the second quarter of 2020 to maintain
+real economic activity over the remainder of the year was
+over time ample reserve balances at or above
+highly uncertain and depended on the spread of the virus
+the level that prevailed in early September 2019.
+and the measures taken to contain it. Scenarios involv-
+The Committee also directs the Desk to con-
+ing a greater spread of the coronavirus and more severe
+tinue conducting term and overnight repur-
+social-distancing actions would be associated with a
+chase agreement operations at least through
+greater shutdown of production and disruption of sup-
+April 2020 to ensure that the supply of reserves
+ply chains, larger negative effects on consumer and busi-
+remains ample even during periods of sharp in-
+ness sentiment, more significant increases in unemploy-
+creases in non-reserve liabilities, and to mitigate
+ment, and worsening financial conditions. Reductions
+the risk of money market pressures that could
+in demand, coupled with a stronger U.S. dollar and
+adversely affect policy implementation. In ad-
+weaker commodity prices, were expected to put down-
+dition, the Committee directs the Desk to con-
+ward pressure on inflation, with the magnitude of the
+duct overnight reverse repurchase operations
+softening in core inflation depending on the severity of
+(and reverse repurchase operations with matur-
+the situation.
+ities of more than one day when necessary to
+FOMC participants discussed the significant outbreaks accommodate weekend, holiday, or similar trad-
+of the coronavirus that had emerged recently in a few ing conventions) at an offering rate of 1.00 per-
+countries outside China and the likelihood that the virus cent, in amounts limited only by the value of
+would spread widely around the world, including in the Treasury securities held outright in the System
+United States. While the economic outlook at the time Open Market Account that are available for
+of the Committee’s January meeting had been favorable,
+
+_P_ag_e_ _1_4____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+such operations and by a per-counterparty limit ing risks to economic activity. In light of these
+of $30 billion per day. risks and in support of achieving its maximum
+employment and price stability goals, the Fed-
+The Committee directs the Desk to continue
+eral Open Market Committee decided today to
+rolling over at auction all principal payments
+lower the target range for the federal funds rate
+from the Federal Reserve’s holdings of Treasury
+by ½ percentage point, to 1 to 1¼ percent. The
+securities and to continue reinvesting all princi-
+Committee is closely monitoring developments
+pal payments from the Federal Reserve’s hold-
+and their implications for the economic outlook
+ings of agency debt and agency mortgage-
+and will use its tools and act as appropriate to
+backed securities received during each calendar
+support the economy.”
+month. Principal payments from agency debt
+and agency mortgage-backed securities up to Voting for this action: Jerome H. Powell, John C.
+$20 billion per month will continue to be rein- Williams, Michelle W. Bowman, Lael Brainard, Richard
+vested in Treasury securities to roughly match H. Clarida, Patrick Harker, Robert S. Kaplan, Neel
+the maturity composition of Treasury securities Kashkari, Loretta J. Mester, and Randal K. Quarles.
+outstanding; principal payments in excess of
+Consistent with the Committee’s decision to lower the
+$20 billion per month will continue to be rein-
+target range for the federal funds rate to 1 to 1¼ per-
+vested in agency mortgage-backed securities.
+cent, the Board of Governors completed on March 3,
+Small deviations from these amounts for oper-
+2020, unanimous votes to lower the interest rate paid on
+ational reasons are acceptable.
+required and excess reserve balances to 1.10 percent and
+The Committee also directs the Desk to engage to approve a ½ percentage point decrease in the primary
+in dollar roll and coupon swap transactions as credit rate to 1.75 percent, effective March 4, 2020.
+necessary to facilitate settlement of the Federal
+Reserve’s agency mortgage-backed securities
+transactions.”
+The vote also encompassed approval of the statement _______________________
+below for release at 10:00 a.m. on March 3, 2020: James A. Clouse
+Secretary
+“The fundamentals of the U.S. economy remain
+strong. However, the coronavirus poses evolv-

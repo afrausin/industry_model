@@ -1,0 +1,58 @@
+{
+  "working": [
+    {
+      "endpoint": "batch-index-quotes",
+      "description": "Real-time index quotes",
+      "sample_count": 196
+    },
+    {
+      "endpoint": "stock-list",
+      "description": "Stock list",
+      "sample_count": 87638
+    },
+    {
+      "endpoint": "etf-list",
+      "description": "ETF list alt",
+      "sample_count": 13244
+    },
+    {
+      "endpoint": "economic-calendar",
+      "description": "Economic calendar",
+      "sample_count": 8844
+    }
+  ],
+  "not_working": [
+    "batch_index_quotes",
+    "available-indexes",
+    "available_indexes",
+    "symbol/available-indexes",
+    "available-commodities",
+    "available-forex-currency-pairs",
+    "available-etfs",
+    "available-cryptocurrencies",
+    "economic_calendar",
+    "treasury",
+    "treasury-rate",
+    "sector-performance",
+    "sector_performance",
+    "market-hours",
+    "market-cap",
+    "gainers",
+    "losers",
+    "actives",
+    "quote/%5EVIX",
+    "quote/%5EGSPC",
+    "quotes/index",
+    "full-quote/%5EVIX",
+    "historical-price-eod/%5EVIX",
+    "historical-price-full/%5EVIX",
+    "historical-chart/1day/%5EVIX",
+    "fear-greed-index",
+    "commodities-quotes",
+    "commodity-quotes",
+    "forex-quotes",
+    "fx-quotes",
+    "crypto-quotes",
+    "cryptocurrency-quotes"
+  ]
+}
