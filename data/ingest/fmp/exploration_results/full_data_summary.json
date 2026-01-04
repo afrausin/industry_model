@@ -1,0 +1,3263 @@
+{
+  "indices": [
+    {
+      "symbol": "^DJBGIE",
+      "price": 4288.78,
+      "change": 21.56,
+      "volume": 0
+    },
+    {
+      "symbol": "XGIDA.IS",
+      "price": 11549.91,
+      "change": -213.31,
+      "volume": 0
+    },
+    {
+      "symbol": "XUHIZ.IS",
+      "price": 10396.7,
+      "change": -70.26,
+      "volume": 0
+    },
+    {
+      "symbol": "RTSI.ME",
+      "price": 1077.78,
+      "change": 22.46,
+      "volume": 0
+    },
+    {
+      "symbol": "^105833-USD-STRD",
+      "price": 2367.03,
+      "change": 8.91,
+      "volume": 0
+    },
+    {
+      "symbol": "^ICEBIO",
+      "price": 411.6817,
+      "change": 0.123,
+      "volume": 0
+    },
+    {
+      "symbol": "^VXSLV",
+      "price": 48.59,
+      "change": 6.19,
+      "volume": 0
+    },
+    {
+      "symbol": "^RVX",
+      "price": 21.48,
+      "change": -0.59,
+      "volume": 0
+    },
+    {
+      "symbol": "^MXX",
+      "price": 63596.78,
+      "change": 902.05,
+      "volume": 96877731
+    },
+    {
+      "symbol": "^AXSO",
+      "price": 3722.3,
+      "change": 30.7,
+      "volume": 0
+    },
+    {
+      "symbol": "^VIX1D",
+      "price": 11.08,
+      "change": -3.64,
+      "volume": 0
+    },
+    {
+      "symbol": "^MOVE",
+      "price": 68.9485,
+      "change": -2.9561,
+      "volume": 0
+    },
+    {
+      "symbol": "^SP500-25",
+      "price": 1915.26,
+      "change": 17.07,
+      "volume": 178873096
+    },
+    {
+      "symbol": "^DJX",
+      "price": 477.16,
+      "change": 2.89,
+      "volume": 0
+    },
+    {
+      "symbol": "^VWB",
+      "price": 16.16,
+      "change": -0.87,
+      "volume": 0
+    },
+    {
+      "symbol": "^OEX",
+      "price": 3438.87,
+      "change": 17.43,
+      "volume": 738000000
+    },
+    {
+      "symbol": "IDX30.JK",
+      "price": 435.914,
+      "change": -3.825,
+      "volume": 0
+    },
+    {
+      "symbol": "^105834-USD-STRD",
+      "price": 3975.07,
+      "change": 11.67,
+      "volume": 0
+    },
+    {
+      "symbol": "^AXTJ",
+      "price": 1797.2,
+      "change": 3.4,
+      "volume": 0
+    },
+    {
+      "symbol": "^W2DOW",
+      "price": 358.51,
+      "change": 0.98,
+      "volume": 0
+    },
+    {
+      "symbol": "XMADN.IS",
+      "price": 10352.79,
+      "change": -663.79,
+      "volume": 0
+    },
+    {
+      "symbol": "^RUITR",
+      "price": 23694.158,
+      "change": 132.892,
+      "volume": 0
+    },
+    {
+      "symbol": "^W5000",
+      "price": 68336.33,
+      "change": 378.58,
+      "volume": 0
+    },
+    {
+      "symbol": "^SET.BK",
+      "price": 1256.69,
+      "change": 3.98,
+      "volume": 0
+    },
+    {
+      "symbol": "^SP500-20",
+      "price": 1298.52,
+      "change": 7.3,
+      "volume": 83608509
+    },
+    {
+      "symbol": "^TTCD",
+      "price": 377.72,
+      "change": -1.93,
+      "volume": 7164525
+    },
+    {
+      "symbol": "^RUT",
+      "price": 2500.4343,
+      "change": 14.3182,
+      "volume": 0
+    },
+    {
+      "symbol": "^SP500-45",
+      "price": 5700.38,
+      "change": 29.5,
+      "volume": 466471244
+    },
+    {
+      "symbol": "^HSCE",
+      "price": 9130.18,
+      "change": -34.69,
+      "volume": 0
+    },
+    {
+      "symbol": "^SPXESUP",
+      "price": 601.49,
+      "change": 2.07,
+      "volume": 0
+    },
+    {
+      "symbol": "^SP500-55",
+      "price": 458.15,
+      "change": 3.29,
+      "volume": 48824719
+    },
+    {
+      "symbol": "^KS11",
+      "price": 3926.59,
+      "change": -60.32,
+      "volume": 241923
+    },
+    {
+      "symbol": "^DJBTR",
+      "price": 3170.16,
+      "change": 13.0498,
+      "volume": 0
+    },
+    {
+      "symbol": "^BSESN",
+      "price": 85706.67,
+      "change": -13.71,
+      "volume": 0
+    },
+    {
+      "symbol": "^TASI.SR",
+      "price": 10590.88,
+      "change": -49.77,
+      "volume": 126687985
+    },
+    {
+      "symbol": "MSCIWORLD",
+      "price": 4398.44,
+      "change": 23.13,
+      "volume": 0
+    },
+    {
+      "symbol": "^XAX",
+      "price": 7469.9707,
+      "change": 65.8457,
+      "volume": 0
+    },
+    {
+      "symbol": "XINSA.IS",
+      "price": 16843.19,
+      "change": 111.26,
+      "volume": 0
+    },
+    {
+      "symbol": "000001.SS",
+      "price": 3888.5962,
+      "change": 24.4162,
+      "volume": 0
+    },
+    {
+      "symbol": "XTCRT.IS",
+      "price": 25480.33,
+      "change": -249.27,
+      "volume": 0
+    },
+    {
+      "symbol": "TX60.TS",
+      "price": 1841.69,
+      "change": 7.46,
+      "volume": 121186473
+    },
+    {
+      "symbol": "^DJU",
+      "price": 1128.32,
+      "change": 7.04,
+      "volume": 27185587
+    },
+    {
+      "symbol": "^DJT",
+      "price": 16585.81,
+      "change": 54.68,
+      "volume": 67982785
+    },
+    {
+      "symbol": "^TRCCRBTR",
+      "price": 376.65,
+      "change": 4.62,
+      "volume": 0
+    },
+    {
+      "symbol": "XULAS.IS",
+      "price": 35096.32,
+      "change": 65.69,
+      "volume": 0
+    },
+    {
+      "symbol": "KOSPI200.KS",
+      "price": 554,
+      "change": -9.36,
+      "volume": 91243
+    },
+    {
+      "symbol": "^SP500-60",
+      "price": 262.34,
+      "change": 1.03,
+      "volume": 40793922
+    },
+    {
+      "symbol": "^VXTLT",
+      "price": 13.19,
+      "change": 0.08,
+      "volume": 0
+    },
+    {
+      "symbol": "^VVIX",
+      "price": 90.34,
+      "change": -1.83,
+      "volume": 0
+    },
+    {
+      "symbol": "^PSE",
+      "price": 8318.008,
+      "change": 77.144,
+      "volume": 0
+    },
+    {
+      "symbol": "^N300",
+      "price": 719.77,
+      "change": 1.19,
+      "volume": 0
+    },
+    {
+      "symbol": "^STI",
+      "price": 4523.96,
+      "change": 14.62,
+      "volume": 0
+    },
+    {
+      "symbol": "^AEX",
+      "price": 943.37,
+      "change": 3.54,
+      "volume": 0
+    },
+    {
+      "symbol": "XU050.IS",
+      "price": 9488.98,
+      "change": -35.2,
+      "volume": 0
+    },
+    {
+      "symbol": "^NOMUC.SR",
+      "price": 23902.96,
+      "change": -113.97,
+      "volume": 1262673
+    },
+    {
+      "symbol": "TXGM.TS",
+      "price": 199.79,
+      "change": 1.95,
+      "volume": 200937954
+    },
+    {
+      "symbol": "SX7E.Z",
+      "price": 243.31,
+      "change": 0.05,
+      "volume": 0
+    },
+    {
+      "symbol": "XTUMY.IS",
+      "price": 52684.92,
+      "change": -39.37,
+      "volume": 0
+    },
+    {
+      "symbol": "^TNX",
+      "price": 4.017,
+      "change": 0.0189997,
+      "volume": 0
+    },
+    {
+      "symbol": "^SPCDNX",
+      "price": 937.34,
+      "change": 14.82,
+      "volume": 77446329
+    },
+    {
+      "symbol": "^TSE50",
+      "price": 24515.21,
+      "change": 29.73,
+      "volume": 0
+    },
+    {
+      "symbol": "^NYA",
+      "price": 21824.67,
+      "change": 111.541,
+      "volume": 0
+    },
+    {
+      "symbol": "^SPESG",
+      "price": 601.49,
+      "change": 2.07,
+      "volume": 0
+    },
+    {
+      "symbol": "^MERV",
+      "price": 3026469.5,
+      "change": 6450.16,
+      "volume": 0
+    },
+    {
+      "symbol": "^OSEAX",
+      "price": 1856.03,
+      "change": 2.47,
+      "volume": 0
+    },
+    {
+      "symbol": "^RUI",
+      "price": 3736.9294,
+      "change": 20.7494,
+      "volume": 0
+    },
+    {
+      "symbol": "^N100",
+      "price": 1704.49,
+      "change": 4.88,
+      "volume": 0
+    },
+    {
+      "symbol": "^W1DOW",
+      "price": 753.57,
+      "change": 3.39,
+      "volume": 0
+    },
+    {
+      "symbol": "^COR3M",
+      "price": 15.38,
+      "change": -0.19,
+      "volume": 0
+    },
+    {
+      "symbol": "^AXEJ",
+      "price": 8589.6,
+      "change": -0.8,
+      "volume": 0
+    },
+    {
+      "symbol": "^SPGNRUP",
+      "price": 3339.66,
+      "change": 27.97,
+      "volume": 0
+    },
+    {
+      "symbol": "XYUZO.IS",
+      "price": 19546.12,
+      "change": -178.98,
+      "volume": 0
+    },
+    {
+      "symbol": "^TYX",
+      "price": 4.665,
+      "change": 0.021,
+      "volume": 0
+    },
+    {
+      "symbol": "^TRAN",
+      "price": 7012,
+      "change": 21.2301,
+      "volume": 0
+    },
+    {
+      "symbol": "^TA125.TA",
+      "price": 3479.68,
+      "change": 41.09,
+      "volume": 0
+    },
+    {
+      "symbol": "^NQDEMC",
+      "price": 2659.9421,
+      "change": 21.6293,
+      "volume": 0
+    },
+    {
+      "symbol": "^SPXEW",
+      "price": 7744.73,
+      "change": 39.19,
+      "volume": 0
+    },
+    {
+      "symbol": "^SPX",
+      "price": 6849.09,
+      "change": 36.48,
+      "volume": 1481565228
+    },
+    {
+      "symbol": "ITLMS.MI",
+      "price": 46017.34,
+      "change": 145.52,
+      "volume": 0
+    },
+    {
+      "symbol": "^AFLI",
+      "price": 8201.2,
+      "change": -16.2,
+      "volume": 0
+    },
+    {
+      "symbol": "^XLHK",
+      "price": 7653.11,
+      "change": -2.11,
+      "volume": 0
+    },
+    {
+      "symbol": "^AXFJ",
+      "price": 8993.1,
+      "change": -65.1,
+      "volume": 0
+    },
+    {
+      "symbol": "^TWII",
+      "price": 27626.48,
+      "change": 71.95,
+      "volume": 0
+    },
+    {
+      "symbol": "^SSMI",
+      "price": 12833.96,
+      "change": 2.91,
+      "volume": 0
+    },
+    {
+      "symbol": "^RMZ",
+      "price": 1289.55,
+      "change": 0,
+      "volume": 0
+    },
+    {
+      "symbol": "^DJUSPM",
+      "price": 241.35,
+      "change": -1.44,
+      "volume": 9928249
+    },
+    {
+      "symbol": "^OMXHGI",
+      "price": 39651.17,
+      "change": -48.4195,
+      "volume": 0
+    },
+    {
+      "symbol": "^AXSJ",
+      "price": 11943.8,
+      "change": 148,
+      "volume": 0
+    },
+    {
+      "symbol": "^VIX",
+      "price": 16.35,
+      "change": -0.84,
+      "volume": 0
+    },
+    {
+      "symbol": "^NYITR",
+      "price": 21437.951,
+      "change": 131.318,
+      "volume": 0
+    },
+    {
+      "symbol": "^SP500-40",
+      "price": 885.58,
+      "change": 6.23,
+      "volume": 167788575
+    },
+    {
+      "symbol": "WIG20.WA",
+      "price": 3001.96,
+      "change": 9.18,
+      "volume": 0
+    },
+    {
+      "symbol": "^AMZ",
+      "price": 305.4083,
+      "change": 2.6581,
+      "volume": 0
+    },
+    {
+      "symbol": "^XEO",
+      "price": 3438.87,
+      "change": 17.43,
+      "volume": 0
+    },
+    {
+      "symbol": "^SP500-15",
+      "price": 563.1,
+      "change": 2.88,
+      "volume": 58294383
+    },
+    {
+      "symbol": "^AXDJ",
+      "price": 4090.1,
+      "change": 15,
+      "volume": 0
+    },
+    {
+      "symbol": "^VWA",
+      "price": 16.53,
+      "change": -0.87,
+      "volume": 0
+    },
+    {
+      "symbol": "^NSEBANK",
+      "price": 59752.7,
+      "change": 15.4,
+      "volume": 0
+    },
+    {
+      "symbol": "^SPEUBDP",
+      "price": 190.38,
+      "change": -0.25,
+      "volume": 0
+    },
+    {
+      "symbol": "^SP500-30",
+      "price": 882.17,
+      "change": 4.88,
+      "volume": 102748155
+    }
+  ],
+  "etfs": [
+    {
+      "symbol": "HYG",
+      "name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+      "price": 80.975,
+      "changePercentage": 0.03088326,
+      "change": 0.025,
+      "volume": 29430777,
+      "dayLow": 80.94,
+      "dayHigh": 81.07,
+      "yearHigh": 81.36,
+      "yearLow": 75.08,
+      "marketCap": 18220091224,
+      "priceAvg50": 80.698,
+      "priceAvg200": 79.82835,
+      "exchange": "AMEX",
+      "open": 81,
+      "previousClose": 80.95,
+      "timestamp": 1764352801
+    },
+    {
+      "symbol": "LQD",
+      "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+      "price": 111.86,
+      "changePercentage": -0.16957,
+      "change": -0.19,
+      "volume": 25187567,
+      "dayLow": 111.68,
+      "dayHigh": 112.02,
+      "yearHigh": 112.93,
+      "yearLow": 103.45,
+      "marketCap": 32830910447,
+      "priceAvg50": 111.4728,
+      "priceAvg200": 109.2063,
+      "exchange": "AMEX",
+      "open": 111.98,
+      "previousClose": 112.05,
+      "timestamp": 1764352800
+    },
+    {
+      "symbol": "JNK",
+      "name": "SPDR Bloomberg High Yield Bond ETF",
+      "price": 97.62,
+      "changePercentage": 0.05124526,
+      "change": 0.05,
+      "volume": 1929307,
+      "dayLow": 97.58,
+      "dayHigh": 97.74,
+      "yearHigh": 98.24,
+      "yearLow": 90.41,
+      "marketCap": 8714986550,
+      "priceAvg50": 97.2736,
+      "priceAvg200": 96.28785,
+      "exchange": "AMEX",
+      "open": 97.65,
+      "previousClose": 97.57,
+      "timestamp": 1764352876
+    },
+    {
+      "symbol": "TLT",
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "price": 90.27,
+      "changePercentage": -0.40821,
+      "change": -0.37,
+      "volume": 40152929,
+      "dayLow": 89.95,
+      "dayHigh": 90.5299,
+      "yearHigh": 94.85,
+      "yearLow": 83.3,
+      "marketCap": 50208510256,
+      "priceAvg50": 89.9718,
+      "priceAvg200": 88.3864,
+      "exchange": "NASDAQ",
+      "open": 90.46,
+      "previousClose": 90.64,
+      "timestamp": 1764356399
+    },
+    {
+      "symbol": "IEF",
+      "name": "iShares 7-10 Year Treasury Bond ETF",
+      "price": 97.5,
+      "changePercentage": -0.17406,
+      "change": -0.17,
+      "volume": 4445773,
+      "dayLow": 97.39,
+      "dayHigh": 97.6499,
+      "yearHigh": 97.77,
+      "yearLow": 91.08,
+      "marketCap": 45435997230,
+      "priceAvg50": 96.8614,
+      "priceAvg200": 95.377,
+      "exchange": "NASDAQ",
+      "open": 97.62,
+      "previousClose": 97.67,
+      "timestamp": 1764363600
+    },
+    {
+      "symbol": "SHY",
+      "name": "iShares 1-3 Year Treasury Bond ETF",
+      "price": 83.07,
+      "changePercentage": -0.01203659,
+      "change": -0.01,
+      "volume": 2639877,
+      "dayLow": 83.061,
+      "dayHigh": 83.11,
+      "yearHigh": 83.14,
+      "yearLow": 81.67,
+      "marketCap": 23792402839,
+      "priceAvg50": 82.9266,
+      "priceAvg200": 82.65435,
+      "exchange": "NASDAQ",
+      "open": 83.1,
+      "previousClose": 83.08,
+      "timestamp": 1764353400
+    },
+    {
+      "symbol": "VCIT",
+      "name": "Vanguard Intermediate-Term Corporate Bond Index Fund",
+      "price": 84.555,
+      "changePercentage": -0.07681399,
+      "change": -0.065,
+      "volume": 5201883,
+      "dayLow": 84.4516,
+      "dayHigh": 84.6499,
+      "yearHigh": 84.84,
+      "yearLow": 78.66,
+      "marketCap": 58358011782,
+      "priceAvg50": 84.1096,
+      "priceAvg200": 82.4687,
+      "exchange": "NASDAQ",
+      "open": 84.62,
+      "previousClose": 84.62,
+      "timestamp": 1764352803
+    },
+    {
+      "symbol": "VCSH",
+      "name": "Vanguard Short-Term Corporate Bond Index Fund",
+      "price": 80.06,
+      "changePercentage": -0.02497502,
+      "change": -0.02,
+      "volume": 1244995,
+      "dayLow": 80.0101,
+      "dayHigh": 80.0999,
+      "yearHigh": 80.16,
+      "yearLow": 77.58,
+      "marketCap": 46172393343,
+      "priceAvg50": 79.8526,
+      "priceAvg200": 79.2116,
+      "exchange": "NASDAQ",
+      "open": 80.09,
+      "previousClose": 80.08,
+      "timestamp": 1764352860
+    },
+    {
+      "symbol": "SPY",
+      "name": "SPDR S&P 500 ETF Trust",
+      "price": 683.05,
+      "changePercentage": 0.49582,
+      "change": 3.37,
+      "volume": 40373372,
+      "dayLow": 680.52,
+      "dayHigh": 683.66,
+      "yearHigh": 689.7,
+      "yearLow": 481.8,
+      "marketCap": 701581361661,
+      "priceAvg50": 670.0158,
+      "priceAvg200": 615.65497,
+      "exchange": "AMEX",
+      "open": 680.86,
+      "previousClose": 679.68,
+      "timestamp": 1764356341
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ Trust, Series 1",
+      "price": 618.87,
+      "changePercentage": 0.74886,
+      "change": 4.6,
+      "volume": 21108767,
+      "dayLow": 615.4174,
+      "dayHigh": 619.3,
+      "yearHigh": 637.01,
+      "yearLow": 402.39,
+      "marketCap": 390276788111,
+      "priceAvg50": 608.2598,
+      "priceAvg200": 544.739,
+      "exchange": "NASDAQ",
+      "open": 616.11,
+      "previousClose": 614.27,
+      "timestamp": 1764356248
+    },
+    {
+      "symbol": "IWM",
+      "name": "iShares Russell 2000 ETF",
+      "price": 248.48,
+      "changePercentage": 0.47715,
+      "change": 1.18,
+      "volume": 18856153,
+      "dayLow": 247.07,
+      "dayHigh": 248.78,
+      "yearHigh": 252.77,
+      "yearLow": 171.73,
+      "marketCap": 72082905489,
+      "priceAvg50": 243.072,
+      "priceAvg200": 220.3402,
+      "exchange": "AMEX",
+      "open": 248.01,
+      "previousClose": 247.3,
+      "timestamp": 1764356193
+    },
+    {
+      "symbol": "DIA",
+      "name": "SPDR Dow Jones Industrial Average ETF Trust",
+      "price": 477.06,
+      "changePercentage": 0.57131,
+      "change": 2.71,
+      "volume": 2281763,
+      "dayLow": 474.82,
+      "dayHigh": 477.61,
+      "yearHigh": 484.4,
+      "yearLow": 366.32,
+      "marketCap": 38757736443,
+      "priceAvg50": 467.2686,
+      "priceAvg200": 439.50385,
+      "exchange": "AMEX",
+      "open": 474.82,
+      "previousClose": 474.35,
+      "timestamp": 1764352863
+    },
+    {
+      "symbol": "XLF",
+      "name": "Financial Select Sector SPDR\u00a0Fund",
+      "price": 53.32,
+      "changePercentage": 0.69877,
+      "change": 0.37,
+      "volume": 16136126,
+      "dayLow": 53.03,
+      "dayHigh": 53.5463,
+      "yearHigh": 54.5,
+      "yearLow": 42.21,
+      "marketCap": 52223057451,
+      "priceAvg50": 52.8774,
+      "priceAvg200": 51.36175,
+      "exchange": "AMEX",
+      "open": 53.1,
+      "previousClose": 52.95,
+      "timestamp": 1764352919
+    },
+    {
+      "symbol": "XLE",
+      "name": "Energy Select Sector SPDR\u00a0Fund",
+      "price": 90.65,
+      "changePercentage": 1.5345,
+      "change": 1.37,
+      "volume": 8316672,
+      "dayLow": 89.2,
+      "dayHigh": 90.835,
+      "yearHigh": 95.69,
+      "yearLow": 74.49,
+      "marketCap": 27216196961,
+      "priceAvg50": 88.7102,
+      "priceAvg200": 86.87475,
+      "exchange": "AMEX",
+      "open": 89.33,
+      "previousClose": 89.28,
+      "timestamp": 1764353589
+    },
+    {
+      "symbol": "XLK",
+      "name": "Technology Select Sector SPDR\u00a0Fund",
+      "price": 286.17,
+      "changePercentage": 0.8422,
+      "change": 2.39,
+      "volume": 3396091,
+      "dayLow": 283.63,
+      "dayHigh": 286.24,
+      "yearHigh": 305.99,
+      "yearLow": 172.45,
+      "marketCap": 77854262944,
+      "priceAvg50": 286.665,
+      "priceAvg200": 249.15645,
+      "exchange": "AMEX",
+      "open": 284.38,
+      "previousClose": 283.78,
+      "timestamp": 1764352804
+    },
+    {
+      "symbol": "XLV",
+      "name": "Health Care Select Sector SPDR\u00a0Fund",
+      "price": 157.58,
+      "changePercentage": -0.53024,
+      "change": -0.84,
+      "volume": 8559710,
+      "dayLow": 157.165,
+      "dayHigh": 158.2499,
+      "yearHigh": 158.95,
+      "yearLow": 127.35,
+      "marketCap": 40981617552,
+      "priceAvg50": 145.2508,
+      "priceAvg200": 139.5382,
+      "exchange": "AMEX",
+      "open": 158.2,
+      "previousClose": 158.42,
+      "timestamp": 1764352920
+    },
+    {
+      "symbol": "XLI",
+      "name": "Industrial Select Sector SPDR\u00a0Fund",
+      "price": 153.655,
+      "changePercentage": 0.55955,
+      "change": 0.855,
+      "volume": 3462212,
+      "dayLow": 152.77,
+      "dayHigh": 153.86,
+      "yearHigh": 156.99,
+      "yearLow": 112.75,
+      "marketCap": 24174641948,
+      "priceAvg50": 152.9714,
+      "priceAvg200": 144.22235,
+      "exchange": "AMEX",
+      "open": 153.06,
+      "previousClose": 152.8,
+      "timestamp": 1764352802
+    },
+    {
+      "symbol": "XLP",
+      "name": "Consumer Staples Select Sector SPDR Fund",
+      "price": 79.33,
+      "changePercentage": 0.53225,
+      "change": 0.42,
+      "volume": 8914348,
+      "dayLow": 78.8,
+      "dayHigh": 79.39,
+      "yearHigh": 84.35,
+      "yearLow": 75.16,
+      "marketCap": 16672945474,
+      "priceAvg50": 77.869,
+      "priceAvg200": 80.3289,
+      "exchange": "AMEX",
+      "open": 78.8,
+      "previousClose": 78.91,
+      "timestamp": 1764352812
+    },
+    {
+      "symbol": "XLU",
+      "name": "Utilities Select Sector SPDR\u00a0Fund",
+      "price": 90.63,
+      "changePercentage": 0.71119,
+      "change": 0.64,
+      "volume": 3927448,
+      "dayLow": 90.045,
+      "dayHigh": 90.7,
+      "yearHigh": 93.77,
+      "yearLow": 71.02,
+      "marketCap": 21084284644,
+      "priceAvg50": 89.2506,
+      "priceAvg200": 83.21365,
+      "exchange": "AMEX",
+      "open": 90.06,
+      "previousClose": 89.99,
+      "timestamp": 1764352801
+    },
+    {
+      "symbol": "GLD",
+      "name": "SPDR Gold Shares",
+      "price": 388.25,
+      "changePercentage": 1.33901,
+      "change": 5.13,
+      "volume": 6788846,
+      "dayLow": 384.9904,
+      "dayHigh": 388.25,
+      "yearHigh": 403.3,
+      "yearLow": 238.73,
+      "marketCap": 122348664973,
+      "priceAvg50": 368.8374,
+      "priceAvg200": 317.55444,
+      "exchange": "AMEX",
+      "open": 385.98,
+      "previousClose": 383.12,
+      "timestamp": 1764355560
+    },
+    {
+      "symbol": "SLV",
+      "name": "iShares Silver Trust",
+      "price": 51.18,
+      "changePercentage": 5.7438,
+      "change": 2.78,
+      "volume": 41098908,
+      "dayLow": 49.58,
+      "dayHigh": 51.27,
+      "yearHigh": 51.27,
+      "yearLow": 26.19,
+      "marketCap": 28259653873,
+      "priceAvg50": 44.3374,
+      "priceAvg200": 35.1647,
+      "exchange": "AMEX",
+      "open": 49.67,
+      "previousClose": 48.4,
+      "timestamp": 1764355504
+    },
+    {
+      "symbol": "USO",
+      "name": "United States Oil Fund, LP",
+      "price": 71.065,
+      "changePercentage": 1.46345,
+      "change": 1.025,
+      "volume": 3363812,
+      "dayLow": 70.44,
+      "dayHigh": 71.3,
+      "yearHigh": 84.58,
+      "yearLow": 60.67,
+      "marketCap": 8463841571,
+      "priceAvg50": 71.7656,
+      "priceAvg200": 72.475,
+      "exchange": "AMEX",
+      "open": 70.44,
+      "previousClose": 70.04,
+      "timestamp": 1764352802
+    },
+    {
+      "symbol": "UNG",
+      "name": "United States Natural Gas Fund, LP",
+      "price": 14.805,
+      "changePercentage": 3.89474,
+      "change": 0.555,
+      "volume": 5856670,
+      "dayLow": 14.565,
+      "dayHigh": 14.87,
+      "yearHigh": 24.33,
+      "yearLow": 11.55,
+      "marketCap": 178912503,
+      "priceAvg50": 13.2632,
+      "priceAvg200": 15.92495,
+      "exchange": "AMEX",
+      "open": 14.62,
+      "previousClose": 14.25,
+      "timestamp": 1764356399
+    },
+    {
+      "symbol": "EEM",
+      "name": "iShares MSCI Emerging Markets ETF",
+      "price": 54.315,
+      "changePercentage": 0.13827,
+      "change": 0.075,
+      "volume": 15033792,
+      "dayLow": 54.12,
+      "dayHigh": 54.37,
+      "yearHigh": 56.31,
+      "yearLow": 38.19,
+      "marketCap": 20043472404,
+      "priceAvg50": 54.2086,
+      "priceAvg200": 48.4773,
+      "exchange": "AMEX",
+      "open": 54.16,
+      "previousClose": 54.24,
+      "timestamp": 1764353100
+    },
+    {
+      "symbol": "EFA",
+      "name": "iShares MSCI EAFE ETF",
+      "price": 95.19,
+      "changePercentage": 0.3373,
+      "change": 0.32,
+      "volume": 420325,
+      "dayLow": 94.735,
+      "dayHigh": 95.225,
+      "yearHigh": 96.69,
+      "yearLow": 72.15,
+      "marketCap": 67516483806,
+      "priceAvg50": 94.0664,
+      "priceAvg200": 88.55295,
+      "exchange": "AMEX",
+      "open": 94.805,
+      "previousClose": 94.87,
+      "timestamp": 1764353100
+    },
+    {
+      "symbol": "VWO",
+      "name": "Vanguard Emerging Markets Stock Index Fund",
+      "price": 54.29,
+      "changePercentage": 0.33266,
+      "change": 0.18,
+      "volume": 66864,
+      "dayLow": 54.085,
+      "dayHigh": 54.32,
+      "yearHigh": 56.04,
+      "yearLow": 39.53,
+      "marketCap": 137016662142,
+      "priceAvg50": 54.4484,
+      "priceAvg200": 49.59815,
+      "exchange": "AMEX",
+      "open": 54.175,
+      "previousClose": 54.11,
+      "timestamp": 1764353101
+    },
+    {
+      "symbol": "VIXY",
+      "name": "ProShares VIX Short-Term Futures ETF",
+      "price": 31.13,
+      "changePercentage": -2.2299,
+      "change": -0.71,
+      "volume": 1221583,
+      "dayLow": 31.105,
+      "dayHigh": 31.7,
+      "yearHigh": 89.14,
+      "yearLow": 30.96,
+      "marketCap": 216095619,
+      "priceAvg50": 33.4188,
+      "priceAvg200": 44.7765,
+      "exchange": "CBOE",
+      "open": 31.675,
+      "previousClose": 31.84,
+      "timestamp": 1764352800
+    },
+    {
+      "symbol": "VXX",
+      "name": "iPath Series B S&P 500 VIX Short-Term Futures ETN",
+      "price": 32.14,
+      "changePercentage": -1.92249,
+      "change": -0.63,
+      "volume": 4314171,
+      "dayLow": 32.07,
+      "dayHigh": 32.67,
+      "yearHigh": 91.19,
+      "yearLow": 31.84,
+      "marketCap": 749025528,
+      "priceAvg50": 34.4082,
+      "priceAvg200": 45.92225,
+      "exchange": "CBOE",
+      "open": 32.66,
+      "previousClose": 32.77,
+      "timestamp": 1764355816
+    },
+    {
+      "symbol": "UVXY",
+      "name": "ProShares Ultra VIX Short-Term Futures ETF",
+      "price": 47.9,
+      "changePercentage": -3.21277,
+      "change": -1.59,
+      "volume": 3741192,
+      "dayLow": 47.59,
+      "dayHigh": 49.28,
+      "yearHigh": 266.05,
+      "yearLow": 47.59,
+      "marketCap": 583116159,
+      "priceAvg50": 54.4944,
+      "priceAvg200": 92.42285,
+      "exchange": "CBOE",
+      "open": 49.22,
+      "previousClose": 49.49,
+      "timestamp": 1764353381
+    }
+  ],
+  "economic_calendar": [
+    {
+      "date": "2025-11-30 23:50:00",
+      "country": "JP",
+      "event": "Capital Expenditure YoY (Q3)",
+      "currency": "JPY",
+      "previous": 7.6,
+      "estimate": 5.9,
+      "actual": null,
+      "change": null,
+      "impact": "Medium",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-30 22:00:00",
+      "country": "AU",
+      "event": "Judo Bank Manufacturing PMI (Nov)",
+      "currency": "AUD",
+      "previous": 51.6,
+      "estimate": 51.6,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": null
+    },
+    {
+      "date": "2025-11-30 22:00:00",
+      "country": "AU",
+      "event": "S&P Global Manufacturing PMI (Nov)",
+      "currency": "AUD",
+      "previous": 49.7,
+      "estimate": 51.6,
+      "actual": null,
+      "change": null,
+      "impact": "High",
+      "changePercentage": 0,
+      "unit": null
+    },
+    {
+      "date": "2025-11-30 21:45:00",
+      "country": "NZ",
+      "event": "Building Permits (Oct)",
+      "currency": "NZD",
+      "previous": 7.2,
+      "estimate": -5,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-30 14:00:00",
+      "country": "SA",
+      "event": "Bank Lending YoY (Oct)",
+      "currency": "SAR",
+      "previous": 13,
+      "estimate": 13,
+      "actual": 12,
+      "change": -1,
+      "impact": "Low",
+      "changePercentage": -7.692,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-30 14:00:00",
+      "country": "SA",
+      "event": "M3 Money Supply YoY (Oct)",
+      "currency": "SAR",
+      "previous": 7.8,
+      "estimate": null,
+      "actual": 6.9,
+      "change": -0.9,
+      "impact": "Low",
+      "changePercentage": -11.538,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-30 14:00:00",
+      "country": "SA",
+      "event": "M3 Money Supply YoY",
+      "currency": "SAR",
+      "previous": 7.8,
+      "estimate": null,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-30 10:00:00",
+      "country": "US",
+      "event": "OPEC Meeting",
+      "currency": "USD",
+      "previous": null,
+      "estimate": null,
+      "actual": null,
+      "change": null,
+      "impact": "Medium",
+      "changePercentage": 0,
+      "unit": null
+    },
+    {
+      "date": "2025-11-30 09:30:00",
+      "country": "ZA",
+      "event": "Budget Balance (Oct)",
+      "currency": "ZAR",
+      "previous": null,
+      "estimate": null,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": null
+    },
+    {
+      "date": "2025-11-30 09:00:00",
+      "country": "RW",
+      "event": "Producer Price Index MoM (Oct)",
+      "currency": "RWF",
+      "previous": 2.5,
+      "estimate": 0.7,
+      "actual": -0.8,
+      "change": -3.3,
+      "impact": "Low",
+      "changePercentage": -132,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-30 09:00:00",
+      "country": "RW",
+      "event": "Producer Price Index YoY (Oct)",
+      "currency": "RWF",
+      "previous": 13.5,
+      "estimate": 11.7,
+      "actual": 6.8,
+      "change": -6.7,
+      "impact": "Low",
+      "changePercentage": -49.63,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-30 01:30:00",
+      "country": "CN",
+      "event": "NBS Manufacturing PMI (Nov)",
+      "currency": "CNY",
+      "previous": 49,
+      "estimate": 49.2,
+      "actual": 49.2,
+      "change": 0.2,
+      "impact": "High",
+      "changePercentage": 0.408,
+      "unit": null
+    },
+    {
+      "date": "2025-11-30 01:30:00",
+      "country": "CN",
+      "event": "NBS Non Manufacturing PMI (Nov)",
+      "currency": "CNY",
+      "previous": 50.1,
+      "estimate": 50,
+      "actual": 49.5,
+      "change": -0.6,
+      "impact": "High",
+      "changePercentage": -1.198,
+      "unit": null
+    },
+    {
+      "date": "2025-11-30 01:30:00",
+      "country": "CN",
+      "event": "NBS General PMI (Nov)",
+      "currency": "CNY",
+      "previous": 50,
+      "estimate": 50.4,
+      "actual": 49.7,
+      "change": -0.3,
+      "impact": "Low",
+      "changePercentage": -0.6,
+      "unit": null
+    },
+    {
+      "date": "2025-11-30 00:00:00",
+      "country": "HN",
+      "event": "General Elections",
+      "currency": "HNL",
+      "previous": null,
+      "estimate": null,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": null
+    },
+    {
+      "date": "2025-11-29 07:30:00",
+      "country": "TH",
+      "event": "Retail Sales YoY (Sep)",
+      "currency": "THB",
+      "previous": -5.6,
+      "estimate": -2,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-29 07:00:00",
+      "country": "TH",
+      "event": "Private Investment MoM (Oct)",
+      "currency": "THB",
+      "previous": -4.5,
+      "estimate": 3,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-29 07:00:00",
+      "country": "TH",
+      "event": "Private Consumption MoM (Oct)",
+      "currency": "THB",
+      "previous": -0.8,
+      "estimate": 1,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-29 07:00:00",
+      "country": "TH",
+      "event": "Current Account (Oct)",
+      "currency": "THB",
+      "previous": 1.9,
+      "estimate": 2.2,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "B"
+    },
+    {
+      "date": "2025-11-29 00:00:00",
+      "country": "AL",
+      "event": "Liberation Day",
+      "currency": "ALL",
+      "previous": null,
+      "estimate": null,
+      "actual": null,
+      "change": null,
+      "impact": "None",
+      "changePercentage": 0,
+      "unit": null
+    },
+    {
+      "date": "2025-11-29 00:00:00",
+      "country": "LR",
+      "event": "William Tubman's Birthday",
+      "currency": "LRD",
+      "previous": null,
+      "estimate": null,
+      "actual": null,
+      "change": null,
+      "impact": "None",
+      "changePercentage": 0,
+      "unit": null
+    },
+    {
+      "date": "2025-11-28 23:50:00",
+      "country": "JP",
+      "event": "Retail Sales YoY (Oct)",
+      "currency": "JPY",
+      "previous": 0.5,
+      "estimate": 0.8,
+      "actual": null,
+      "change": null,
+      "impact": "Medium",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 23:50:00",
+      "country": "JP",
+      "event": "Retail Sales MoM (Oct)",
+      "currency": "JPY",
+      "previous": 0.3,
+      "estimate": 0.6,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 21:30:00",
+      "country": "US",
+      "event": "Fed Balance Sheet (Nov/26)",
+      "currency": "USD",
+      "previous": 6.56,
+      "estimate": null,
+      "actual": 6.55,
+      "change": -0.01,
+      "impact": "Low",
+      "changePercentage": -0.152,
+      "unit": "T"
+    },
+    {
+      "date": "2025-11-28 21:00:00",
+      "country": "MX",
+      "event": "Fiscal Balance (Oct)",
+      "currency": "MXN",
+      "previous": -749.6,
+      "estimate": -710,
+      "actual": -989.3,
+      "change": -239.7,
+      "impact": "Low",
+      "changePercentage": -31.977,
+      "unit": "M"
+    },
+    {
+      "date": "2025-11-28 19:00:00",
+      "country": "CO",
+      "event": "Cement Production YoY (Oct)",
+      "currency": "COP",
+      "previous": 9.9,
+      "estimate": 3,
+      "actual": 5.8,
+      "change": -4.1,
+      "impact": "Low",
+      "changePercentage": -41.414,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 19:00:00",
+      "country": "DO",
+      "event": "Interest Rate",
+      "currency": "DOP",
+      "previous": 5.25,
+      "estimate": 5,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 19:00:00",
+      "country": "SR",
+      "event": "Balance of Trade (Q3)",
+      "currency": "SRD",
+      "previous": 101.5,
+      "estimate": 90,
+      "actual": 188.5,
+      "change": 87,
+      "impact": "Low",
+      "changePercentage": 85.714,
+      "unit": "M"
+    },
+    {
+      "date": "2025-11-28 19:00:00",
+      "country": "SR",
+      "event": "Current Account (Q3)",
+      "currency": "SRD",
+      "previous": -136.3,
+      "estimate": -75,
+      "actual": -78.8,
+      "change": 57.5,
+      "impact": "Low",
+      "changePercentage": 42.186,
+      "unit": "M"
+    },
+    {
+      "date": "2025-11-28 18:10:00",
+      "country": "UY",
+      "event": "Balance of Trade (Oct)",
+      "currency": "UYU",
+      "previous": -16.94,
+      "estimate": -20,
+      "actual": -223.8,
+      "change": -206.86,
+      "impact": "Low",
+      "changePercentage": -1221.133,
+      "unit": "M"
+    },
+    {
+      "date": "2025-11-28 18:00:00",
+      "country": "US",
+      "event": "Baker Hughes Oil Rig Count (Nov/28)",
+      "currency": "USD",
+      "previous": null,
+      "estimate": null,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": null
+    },
+    {
+      "date": "2025-11-28 16:00:00",
+      "country": "RU",
+      "event": "Gross Domestic Product YoY (Oct)",
+      "currency": "RUB",
+      "previous": 0.9,
+      "estimate": 0.3,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 16:00:00",
+      "country": "CA",
+      "event": "Budget Balance (Sep)",
+      "currency": "CAD",
+      "previous": -3.28,
+      "estimate": -4,
+      "actual": -5.02,
+      "change": -1.74,
+      "impact": "Low",
+      "changePercentage": -53.049,
+      "unit": "B"
+    },
+    {
+      "date": "2025-11-28 15:30:00",
+      "country": "RU",
+      "event": "M2 Money Supply YoY (Oct)",
+      "currency": "RUB",
+      "previous": 12.7,
+      "estimate": 12.5,
+      "actual": 13,
+      "change": 0.3,
+      "impact": "Low",
+      "changePercentage": 2.362,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 15:00:00",
+      "country": "CO",
+      "event": "Unemployment Rate (Oct)",
+      "currency": "COP",
+      "previous": 8.2,
+      "estimate": 8.2,
+      "actual": 8.2,
+      "change": 0,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 15:00:00",
+      "country": "ZW",
+      "event": "Inflation Rate YoY (Nov)",
+      "currency": "BWP",
+      "previous": 32.7,
+      "estimate": 23,
+      "actual": 19,
+      "change": -13.7,
+      "impact": "Low",
+      "changePercentage": -41.896,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 14:30:00",
+      "country": "NG",
+      "event": "GDP Growth Rate YoY (Q3)",
+      "currency": "NGN",
+      "previous": 4.23,
+      "estimate": 4.4,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 14:00:00",
+      "country": "UA",
+      "event": "Balance of Trade (Sep)",
+      "currency": "UAH",
+      "previous": -3589.8,
+      "estimate": -2850,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "M"
+    },
+    {
+      "date": "2025-11-28 14:00:00",
+      "country": "KE",
+      "event": "CPI (Nov)",
+      "currency": "KES",
+      "previous": 4.6,
+      "estimate": null,
+      "actual": 4.5,
+      "change": -0.1,
+      "impact": "Low",
+      "changePercentage": -2.174,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:50:00",
+      "country": "KE",
+      "event": "Inflation Rate YoY (Nov)",
+      "currency": "KES",
+      "previous": 4.6,
+      "estimate": 4.5,
+      "actual": 4.5,
+      "change": -0.1,
+      "impact": "Low",
+      "changePercentage": -2.174,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:45:00",
+      "country": "LK",
+      "event": "Balance of Trade (Oct)",
+      "currency": "LKR",
+      "previous": -910.1,
+      "estimate": -800,
+      "actual": -1007.4,
+      "change": -97.3,
+      "impact": "Low",
+      "changePercentage": -10.691,
+      "unit": "M"
+    },
+    {
+      "date": "2025-11-28 13:30:00",
+      "country": "CA",
+      "event": "GDP Growth Annualized (Q3)",
+      "currency": "CAD",
+      "previous": -1.8,
+      "estimate": 0.5,
+      "actual": 2.6,
+      "change": 4.4,
+      "impact": "High",
+      "changePercentage": 244.444,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:30:00",
+      "country": "CA",
+      "event": "Gross Domestic Product MoM (Oct)",
+      "currency": "CAD",
+      "previous": 0.1,
+      "estimate": 0.2,
+      "actual": -0.3,
+      "change": -0.4,
+      "impact": "Medium",
+      "changePercentage": -400,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:30:00",
+      "country": "CA",
+      "event": "Gross Domestic Product QoQ (Q3)",
+      "currency": "CAD",
+      "previous": -1.8,
+      "estimate": null,
+      "actual": 2.6,
+      "change": 4.4,
+      "impact": "Medium",
+      "changePercentage": 244.444,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:30:00",
+      "country": "CA",
+      "event": "GDP Implicit Price QoQ (Q3)",
+      "currency": "CAD",
+      "previous": 0.1,
+      "estimate": 0.2,
+      "actual": 0.8,
+      "change": 0.7,
+      "impact": "Low",
+      "changePercentage": 700,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:30:00",
+      "country": "CA",
+      "event": "Gross Domestic Product YoY (Q3)",
+      "currency": "CAD",
+      "previous": 1.6,
+      "estimate": null,
+      "actual": 1.42,
+      "change": -0.18,
+      "impact": "Medium",
+      "changePercentage": -11.25,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:30:00",
+      "country": "CA",
+      "event": "Gross Domestic Product MoM (Sep)",
+      "currency": "CAD",
+      "previous": -0.3,
+      "estimate": 0.2,
+      "actual": 0.2,
+      "change": 0.5,
+      "impact": "Medium",
+      "changePercentage": 166.667,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:30:00",
+      "country": "CA",
+      "event": "GDP Growth Rate QoQ (Q3)",
+      "currency": "CAD",
+      "previous": -0.5,
+      "estimate": 0.3,
+      "actual": 0.6,
+      "change": 1.1,
+      "impact": "High",
+      "changePercentage": 220,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:00:00",
+      "country": "DE",
+      "event": "HICP YoY",
+      "currency": "EUR",
+      "previous": 2.3,
+      "estimate": 2.4,
+      "actual": 2.6,
+      "change": 0.3,
+      "impact": "Low",
+      "changePercentage": 13.043,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:00:00",
+      "country": "DE",
+      "event": "Harmonised Inflation Rate MoM (Nov)",
+      "currency": "EUR",
+      "previous": 0.3,
+      "estimate": -0.6,
+      "actual": -0.5,
+      "change": -0.8,
+      "impact": "Low",
+      "changePercentage": -266.667,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:00:00",
+      "country": "DE",
+      "event": "Inflation Rate YoY (Nov)",
+      "currency": "EUR",
+      "previous": 2.3,
+      "estimate": 2.4,
+      "actual": 2.3,
+      "change": 0,
+      "impact": "High",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:00:00",
+      "country": "DE",
+      "event": "HICP MoM",
+      "currency": "EUR",
+      "previous": 0.3,
+      "estimate": -0.6,
+      "actual": -0.5,
+      "change": -0.8,
+      "impact": "Low",
+      "changePercentage": -266.667,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:00:00",
+      "country": "DE",
+      "event": "Inflation Rate MoM (Nov)",
+      "currency": "EUR",
+      "previous": 0.3,
+      "estimate": -0.3,
+      "actual": -0.2,
+      "change": -0.5,
+      "impact": "Medium",
+      "changePercentage": -166.667,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:00:00",
+      "country": "DE",
+      "event": "Harmonised Inflation Rate YoY (Nov)",
+      "currency": "EUR",
+      "previous": 2.3,
+      "estimate": 2.4,
+      "actual": 2.6,
+      "change": 0.3,
+      "impact": "Low",
+      "changePercentage": 13.043,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 13:00:00",
+      "country": "DE",
+      "event": "CPI (Nov)",
+      "currency": "EUR",
+      "previous": 2.3,
+      "estimate": 2.4,
+      "actual": 2.3,
+      "change": 0,
+      "impact": "Medium",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 12:00:00",
+      "country": "CL",
+      "event": "Manufacturing Production YoY (Oct)",
+      "currency": "CLP",
+      "previous": 5.1,
+      "estimate": 2.2,
+      "actual": -0.4,
+      "change": -5.5,
+      "impact": "Low",
+      "changePercentage": -107.843,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 12:00:00",
+      "country": "MX",
+      "event": "Unemployment Rate (Oct)",
+      "currency": "MXN",
+      "previous": 3,
+      "estimate": 2.8,
+      "actual": 2.6,
+      "change": -0.4,
+      "impact": "Medium",
+      "changePercentage": -13.333,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 12:00:00",
+      "country": "BR",
+      "event": "Unemployment Rate (Oct)",
+      "currency": "BRL",
+      "previous": 5.6,
+      "estimate": 5.5,
+      "actual": 5.4,
+      "change": -0.2,
+      "impact": "Medium",
+      "changePercentage": -3.571,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 12:00:00",
+      "country": "CL",
+      "event": "Unemployment Rate (Oct)",
+      "currency": "CLP",
+      "previous": 8.5,
+      "estimate": 8.4,
+      "actual": 8.4,
+      "change": -0.1,
+      "impact": "Low",
+      "changePercentage": -1.176,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 12:00:00",
+      "country": "CL",
+      "event": "Retail Sales MoM (Oct)",
+      "currency": "CLP",
+      "previous": 1.1,
+      "estimate": 0.2,
+      "actual": 1.4,
+      "change": 0.3,
+      "impact": "Low",
+      "changePercentage": 27.273,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 12:00:00",
+      "country": "CL",
+      "event": "Industrial Production YoY (Oct)",
+      "currency": "CLP",
+      "previous": 1.5,
+      "estimate": -1,
+      "actual": -0.4,
+      "change": -1.9,
+      "impact": "Low",
+      "changePercentage": -126.667,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 12:00:00",
+      "country": "ZA",
+      "event": "Balance of Trade (Oct)",
+      "currency": "ZAR",
+      "previous": 22.25,
+      "estimate": 24,
+      "actual": 15.58,
+      "change": -6.67,
+      "impact": "Medium",
+      "changePercentage": -29.978,
+      "unit": "B"
+    },
+    {
+      "date": "2025-11-28 12:00:00",
+      "country": "CL",
+      "event": "Copper Production YoY (Oct)",
+      "currency": "CLP",
+      "previous": -4.5,
+      "estimate": -3,
+      "actual": -7,
+      "change": -2.5,
+      "impact": "Low",
+      "changePercentage": -55.556,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 12:00:00",
+      "country": "CL",
+      "event": "Retail Sales YoY",
+      "currency": "CLP",
+      "previous": 6.2,
+      "estimate": null,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 12:00:00",
+      "country": "IN",
+      "event": "Gross Domestic Product YoY (Q3)",
+      "currency": "INR",
+      "previous": 7.8,
+      "estimate": null,
+      "actual": null,
+      "change": null,
+      "impact": "Medium",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 12:00:00",
+      "country": "CL",
+      "event": "Retail Sales YoY (Oct)",
+      "currency": "CLP",
+      "previous": 6.5,
+      "estimate": 5.9,
+      "actual": 8.4,
+      "change": 1.9,
+      "impact": "Low",
+      "changePercentage": 29.231,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:30:00",
+      "country": "BR",
+      "event": "Gross Domestic Product MoM (Oct)",
+      "currency": "BRL",
+      "previous": 78.1,
+      "estimate": null,
+      "actual": 78.6,
+      "change": 0.5,
+      "impact": "Medium",
+      "changePercentage": 0.64,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:30:00",
+      "country": "BR",
+      "event": "Net Debt-to-GDP ratio (Oct)",
+      "currency": "BRL",
+      "previous": 64.8,
+      "estimate": null,
+      "actual": 65,
+      "change": 0.2,
+      "impact": "Low",
+      "changePercentage": 0.309,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:30:00",
+      "country": "BR",
+      "event": "Budget Balance (Oct)",
+      "currency": "BRL",
+      "previous": -102.185,
+      "estimate": null,
+      "actual": -81.522,
+      "change": 20.663,
+      "impact": "Low",
+      "changePercentage": 20.221,
+      "unit": "B"
+    },
+    {
+      "date": "2025-11-28 11:30:00",
+      "country": "BR",
+      "event": "Gross Debt to GDP (Oct)",
+      "currency": "BRL",
+      "previous": 78.1,
+      "estimate": 78.2,
+      "actual": 78.6,
+      "change": 0.5,
+      "impact": "Low",
+      "changePercentage": 0.64,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:30:00",
+      "country": "BR",
+      "event": "Primary Budget Surplus (Oct)",
+      "currency": "BRL",
+      "previous": -17.452,
+      "estimate": null,
+      "actual": 32.392,
+      "change": 49.844,
+      "impact": "Low",
+      "changePercentage": 285.606,
+      "unit": "B"
+    },
+    {
+      "date": "2025-11-28 11:30:00",
+      "country": "IN",
+      "event": "Deposit Growth YoY (Nov/14)",
+      "currency": "INR",
+      "previous": 9.7,
+      "estimate": null,
+      "actual": 10.2,
+      "change": 0.5,
+      "impact": "Low",
+      "changePercentage": 5.155,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:30:00",
+      "country": "BR",
+      "event": "Nominal Budget Balance (Oct)",
+      "currency": "BRL",
+      "previous": -102.185,
+      "estimate": -103,
+      "actual": -81.522,
+      "change": 20.663,
+      "impact": "Low",
+      "changePercentage": 20.221,
+      "unit": "B"
+    },
+    {
+      "date": "2025-11-28 11:30:00",
+      "country": "IN",
+      "event": "Bank Loan Growth YoY (Nov/14)",
+      "currency": "INR",
+      "previous": 11.3,
+      "estimate": null,
+      "actual": 11.4,
+      "change": 0.1,
+      "impact": "Low",
+      "changePercentage": 0.885,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:30:00",
+      "country": "IN",
+      "event": "Foreign Exchange Reserves (Nov/21)",
+      "currency": "INR",
+      "previous": 692.58,
+      "estimate": null,
+      "actual": 688.1,
+      "change": -4.48,
+      "impact": "Low",
+      "changePercentage": -0.647,
+      "unit": "B"
+    },
+    {
+      "date": "2025-11-28 11:10:00",
+      "country": "MK",
+      "event": "Retail Sales YoY (Oct)",
+      "currency": "MKD",
+      "previous": -0.2,
+      "estimate": 1,
+      "actual": 3,
+      "change": 3.2,
+      "impact": "Low",
+      "changePercentage": 1600,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:05:00",
+      "country": "MK",
+      "event": "Industrial Production YoY (Oct)",
+      "currency": "MKD",
+      "previous": 2.7,
+      "estimate": 3.3,
+      "actual": 2.8,
+      "change": 0.1,
+      "impact": "Low",
+      "changePercentage": 3.704,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "IT",
+      "event": "Balance of Trade (Oct)",
+      "currency": "EUR",
+      "previous": 2.9,
+      "estimate": null,
+      "actual": 5.32,
+      "change": 2.42,
+      "impact": "Low",
+      "changePercentage": 83.448,
+      "unit": "B"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "IE",
+      "event": "Retail Sales YoY",
+      "currency": "EUR",
+      "previous": 3.5,
+      "estimate": null,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "RS",
+      "event": "Unemployment Rate (Q3)",
+      "currency": "RSD",
+      "previous": 8.5,
+      "estimate": 8.4,
+      "actual": 8.2,
+      "change": -0.3,
+      "impact": "Low",
+      "changePercentage": -3.529,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "PT",
+      "event": "GDP Growth Rate YoY (Q3)",
+      "currency": "EUR",
+      "previous": 1.8,
+      "estimate": 2.4,
+      "actual": 2.4,
+      "change": 0.6,
+      "impact": "Low",
+      "changePercentage": 33.333,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "PT",
+      "event": "GDP Growth Rate QoQ (Q3)",
+      "currency": "EUR",
+      "previous": 0.7,
+      "estimate": 0.8,
+      "actual": 0.8,
+      "change": 0.1,
+      "impact": "Low",
+      "changePercentage": 14.286,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "IE",
+      "event": "Retail Sales MoM",
+      "currency": "EUR",
+      "previous": 0.2,
+      "estimate": null,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "PT",
+      "event": "Unemployment Rate (Oct)",
+      "currency": "EUR",
+      "previous": 6,
+      "estimate": 6.1,
+      "actual": 5.9,
+      "change": -0.1,
+      "impact": "Low",
+      "changePercentage": -1.667,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "MT",
+      "event": "Producer Price Index YoY (Oct)",
+      "currency": "EUR",
+      "previous": 0.1,
+      "estimate": 0.6,
+      "actual": 0.7,
+      "change": 0.6,
+      "impact": "Low",
+      "changePercentage": 600,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "RS",
+      "event": "Industrial Production YoY (Oct)",
+      "currency": "RSD",
+      "previous": 2.5,
+      "estimate": 1.1,
+      "actual": -2.3,
+      "change": -4.8,
+      "impact": "Low",
+      "changePercentage": -192,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "LU",
+      "event": "Producer Price Index YoY (Oct)",
+      "currency": "EUR",
+      "previous": -1.5,
+      "estimate": -2.1,
+      "actual": -2.3,
+      "change": -0.8,
+      "impact": "Low",
+      "changePercentage": -53.333,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "IE",
+      "event": "Retail Sales YoY (Oct)",
+      "currency": "EUR",
+      "previous": 3.7,
+      "estimate": 3.6,
+      "actual": 2.1,
+      "change": -1.6,
+      "impact": "Low",
+      "changePercentage": -43.243,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "IE",
+      "event": "Retail Sales MoM (Oct)",
+      "currency": "EUR",
+      "previous": 0.3,
+      "estimate": 0.5,
+      "actual": -0.5,
+      "change": -0.8,
+      "impact": "Low",
+      "changePercentage": -266.667,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "RS",
+      "event": "Balance of Trade (Oct)",
+      "currency": "RSD",
+      "previous": -746.7,
+      "estimate": -650,
+      "actual": -806.5,
+      "change": -59.8,
+      "impact": "Low",
+      "changePercentage": -8.009,
+      "unit": "M"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "LV",
+      "event": "Gross Domestic Product YoY (Q3)",
+      "currency": "EUR",
+      "previous": 2.5,
+      "estimate": 1.7,
+      "actual": 2.5,
+      "change": 0,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "PT",
+      "event": "Gross Domestic Product QoQ (Q3)",
+      "currency": "EUR",
+      "previous": 0.7,
+      "estimate": 0.8,
+      "actual": 0.8,
+      "change": 0.1,
+      "impact": "Low",
+      "changePercentage": 14.286,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "PT",
+      "event": "Gross Domestic Product YoY (Q3)",
+      "currency": "EUR",
+      "previous": 1.8,
+      "estimate": 2.4,
+      "actual": 2.4,
+      "change": 0.6,
+      "impact": "Low",
+      "changePercentage": 33.333,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "LV",
+      "event": "Retail Sales MoM (Oct)",
+      "currency": "EUR",
+      "previous": -0.6,
+      "estimate": 1,
+      "actual": 1.2,
+      "change": 1.8,
+      "impact": "Low",
+      "changePercentage": 300,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "EU",
+      "event": "Money Supply (Oct)",
+      "currency": "EUR",
+      "previous": null,
+      "estimate": null,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "B"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "LV",
+      "event": "GDP Growth Rate QoQ (Q3)",
+      "currency": "EUR",
+      "previous": 0.3,
+      "estimate": 0.2,
+      "actual": 0.6,
+      "change": 0.3,
+      "impact": "Low",
+      "changePercentage": 100,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "LV",
+      "event": "GDP Growth Rate YoY (Q3)",
+      "currency": "EUR",
+      "previous": 0.9,
+      "estimate": 1.7,
+      "actual": 2.5,
+      "change": 1.6,
+      "impact": "Low",
+      "changePercentage": 177.778,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "LV",
+      "event": "Retail Sales YoY (Oct)",
+      "currency": "EUR",
+      "previous": 2.7,
+      "estimate": 3,
+      "actual": 4.8,
+      "change": 2.1,
+      "impact": "Low",
+      "changePercentage": 77.778,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "MZ",
+      "event": "GDP Growth Rate YoY (Q3)",
+      "currency": "MZN",
+      "previous": -0.9,
+      "estimate": 2,
+      "actual": null,
+      "change": null,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    },
+    {
+      "date": "2025-11-28 11:00:00",
+      "country": "PT",
+      "event": "Inflation Rate MoM (Nov)",
+      "currency": "EUR",
+      "previous": 0,
+      "estimate": -0.4,
+      "actual": -0.3,
+      "change": -0.3,
+      "impact": "Low",
+      "changePercentage": 0,
+      "unit": "%"
+    }
+  ],
+  "stocks": [
+    {
+      "symbol": "5204.KL",
+      "companyName": "AwanBiru Technology Berhad"
+    },
+    {
+      "symbol": "LAVV3.SA",
+      "companyName": "Lavvi Empreendimentos Imobili\u00e1rios S.A."
+    },
+    {
+      "symbol": "BPOPO",
+      "companyName": "Popular, Inc."
+    },
+    {
+      "symbol": "CHAMBLFERT.NS",
+      "companyName": "Chambal Fertilisers and Chemicals Limited"
+    },
+    {
+      "symbol": "EMEAX",
+      "companyName": "Ashmore Emerging Markets Equity Fund - Class A"
+    },
+    {
+      "symbol": "ELLH",
+      "companyName": "Elah Holdings, Inc."
+    },
+    {
+      "symbol": "G2XJ.DE",
+      "companyName": "VanEck Junior Gold Miners UCITS ETF"
+    },
+    {
+      "symbol": "BNKO",
+      "companyName": "MicroSectors U.S. Big Banks Index 2X Leveraged ETNs"
+    },
+    {
+      "symbol": "CNPPF",
+      "companyName": "China Overseas Property Holdings Limited"
+    },
+    {
+      "symbol": "DDDX",
+      "companyName": "3DX Industries, Inc."
+    },
+    {
+      "symbol": "HYUHF",
+      "companyName": "Hankyu Hanshin Holdings, Inc."
+    },
+    {
+      "symbol": "2722.T",
+      "companyName": "I.K Co., Ltd."
+    },
+    {
+      "symbol": "VASVX",
+      "companyName": "Vanguard Selected Value Fund Investor Shares"
+    },
+    {
+      "symbol": "237350.KS",
+      "companyName": "KODEX 200 Large ETF"
+    },
+    {
+      "symbol": "3292.T",
+      "companyName": "AEON REIT Investment Corporation"
+    },
+    {
+      "symbol": "HUM.L",
+      "companyName": "Hummingbird Resources PLC"
+    },
+    {
+      "symbol": "KAT",
+      "companyName": "Scharf ETF"
+    },
+    {
+      "symbol": "6334.T",
+      "companyName": "Meiji Machine Co., Ltd."
+    },
+    {
+      "symbol": "CCAP.DE",
+      "companyName": "CORESTATE Capital Holding S.A."
+    },
+    {
+      "symbol": "CEO",
+      "companyName": "CNOOC Limited"
+    },
+    {
+      "symbol": "ADANIENSOL.BO",
+      "companyName": "Adani Energy Solutions Limited"
+    },
+    {
+      "symbol": "PARADEEP.NS",
+      "companyName": "Paradeep Phosphates Limited"
+    },
+    {
+      "symbol": "ADAG",
+      "companyName": "Adagene Inc."
+    },
+    {
+      "symbol": "SENR",
+      "companyName": "Strategic Environmental & Energy Resources, Inc."
+    },
+    {
+      "symbol": "FIDGX",
+      "companyName": "Fidelity Advisor Small Cap Growth Fund Class Z"
+    },
+    {
+      "symbol": "LMVYX",
+      "companyName": "Lord Abbett Focused Small Cap Value Fund"
+    },
+    {
+      "symbol": "BGF",
+      "companyName": "Blackstone/GSO FLoating Rate High Income Fund"
+    },
+    {
+      "symbol": "SDWL",
+      "companyName": "Shengda Network Technology, Inc."
+    },
+    {
+      "symbol": "RVSB",
+      "companyName": "Riverview Bancorp, Inc."
+    },
+    {
+      "symbol": "3648.T",
+      "companyName": "AGS Corporation"
+    },
+    {
+      "symbol": "AOMIX",
+      "companyName": "American Century One Choice Portfolio: Moderate Investor Class"
+    },
+    {
+      "symbol": "RMIF",
+      "companyName": "ETF Series Solutions - LHA Risk-Managed Income ETF"
+    },
+    {
+      "symbol": "MAHLOG.NS",
+      "companyName": "Mahindra Logistics Limited"
+    },
+    {
+      "symbol": "MOSTQ",
+      "companyName": "MobileSmith, Inc."
+    },
+    {
+      "symbol": "XRPNU",
+      "companyName": "Armada Acquisition Corp. II \u2013 Units"
+    },
+    {
+      "symbol": "3665.T",
+      "companyName": "Enigmo Inc."
+    },
+    {
+      "symbol": "1315.TW",
+      "companyName": "Tah Hsin Industrial Corporation"
+    },
+    {
+      "symbol": "DGLDF",
+      "companyName": "VelocityShares 3x Inverse Gold ETN Linked to the S&P GSCI Gold Index ER"
+    },
+    {
+      "symbol": "ASTRAMICRO.BO",
+      "companyName": "Astra Microwave Products Limited"
+    },
+    {
+      "symbol": "VERG.L",
+      "companyName": "Vanguard FTSE Developed Europe ex UK UCITS ETF"
+    },
+    {
+      "symbol": "PXSTF",
+      "companyName": "Phoenix Media Investment (Holdings) Limited"
+    },
+    {
+      "symbol": "AMA.AX",
+      "companyName": "AMA Group Limited"
+    },
+    {
+      "symbol": "0K5R.L",
+      "companyName": "Navient Corporation"
+    },
+    {
+      "symbol": "TMCWW",
+      "companyName": "TMC the metals company Inc."
+    },
+    {
+      "symbol": "SILVERTUC.NS",
+      "companyName": "Silver Touch Technologies Limited"
+    },
+    {
+      "symbol": "AACIW",
+      "companyName": "Armada Acquisition Corp. II"
+    },
+    {
+      "symbol": "3437.T",
+      "companyName": "Tokuden Co., Ltd."
+    },
+    {
+      "symbol": "8119.T",
+      "companyName": "Sanyei Corporation"
+    },
+    {
+      "symbol": "GENI.L",
+      "companyName": "GENinCode plc"
+    },
+    {
+      "symbol": "TUK.V",
+      "companyName": "Tuktu Resources Ltd."
+    },
+    {
+      "symbol": "QMAX.TO",
+      "companyName": "Hamilton Technology Yield Maximizer ETF"
+    },
+    {
+      "symbol": "SGVT",
+      "companyName": "Schwab Government Money Market ETF"
+    },
+    {
+      "symbol": "0738.HK",
+      "companyName": "Le Saunda Holdings Limited"
+    },
+    {
+      "symbol": "HJGP",
+      "companyName": "Hanjiao Group, Inc."
+    },
+    {
+      "symbol": "SKYAW",
+      "companyName": "Skydeck Acquisition Corp. Warrants"
+    },
+    {
+      "symbol": "5295.KL",
+      "companyName": "InNature Berhad"
+    },
+    {
+      "symbol": "MACF.L",
+      "companyName": "Macfarlane Group PLC"
+    },
+    {
+      "symbol": "OTTR",
+      "companyName": "Otter Tail Corporation"
+    },
+    {
+      "symbol": "MLPQ",
+      "companyName": "UBS ETRACS 2xMonthly Leveraged Alerian MLP Infrastructure Index ETN SeriesB"
+    },
+    {
+      "symbol": "ACR-PD",
+      "companyName": "ACRES Commercial Realty Corp."
+    },
+    {
+      "symbol": "VIVIDM.BO",
+      "companyName": "Vivid Mercantile Ltd."
+    },
+    {
+      "symbol": "SPX.AX",
+      "companyName": "Spenda Limited"
+    },
+    {
+      "symbol": "SAGAR.BO",
+      "companyName": "Sagar Diamonds Limited"
+    },
+    {
+      "symbol": "HIGHCO-B.ST",
+      "companyName": "High Coast Distillery AB (Publ)"
+    },
+    {
+      "symbol": "RXS.SI",
+      "companyName": "Pacific Radiance Ltd."
+    },
+    {
+      "symbol": "WAINX",
+      "companyName": "Wasatch Emerging India Fund"
+    },
+    {
+      "symbol": "ALCHCORP.BO",
+      "companyName": "Alchemist Corporation Limited"
+    },
+    {
+      "symbol": "PTRQX",
+      "companyName": "PGIM Total Return Bond Fund -Class R6"
+    },
+    {
+      "symbol": "PLPKF",
+      "companyName": "PPK Group Limited"
+    },
+    {
+      "symbol": "SGBAF",
+      "companyName": "SES S.A."
+    },
+    {
+      "symbol": "NKRKF",
+      "companyName": "Nokian Renkaat Oyj"
+    },
+    {
+      "symbol": "TRIONA.ST",
+      "companyName": "Triona AB"
+    },
+    {
+      "symbol": "6890.T",
+      "companyName": "Ferrotec Holdings Corporation"
+    },
+    {
+      "symbol": "3992.T",
+      "companyName": "Needs Well Inc."
+    },
+    {
+      "symbol": "SUNI.JK",
+      "companyName": "PT Sunindo Pratama Tbk"
+    },
+    {
+      "symbol": "032190.KQ",
+      "companyName": "Daou Data Corp."
+    },
+    {
+      "symbol": "ASTEC.BO",
+      "companyName": "Astec LifeSciences Limited"
+    },
+    {
+      "symbol": "NUTTQ",
+      "companyName": "Nutroganics, Inc."
+    },
+    {
+      "symbol": "FCT.AX",
+      "companyName": "Firstwave Cloud Technology Limited"
+    },
+    {
+      "symbol": "GETI-B.ST",
+      "companyName": "Getinge AB (publ)"
+    },
+    {
+      "symbol": "CHAU",
+      "companyName": "Direxion Daily CSI 300 China A Share Bull 2X Shares"
+    },
+    {
+      "symbol": "NSUPF",
+      "companyName": "Northern Superior Resources Inc."
+    },
+    {
+      "symbol": "0HYI.L",
+      "companyName": "Cirrus Logic, Inc."
+    },
+    {
+      "symbol": "MCHN",
+      "companyName": "McHenry Bancorp, Inc."
+    },
+    {
+      "symbol": "SPSY.L",
+      "companyName": "Spectra Systems Corporation"
+    },
+    {
+      "symbol": "SANB.L",
+      "companyName": "Santander UK plc"
+    },
+    {
+      "symbol": "TBGVX",
+      "companyName": "Tweedy, Browne Fund Inc. - Tweedy, Browne International Value Fund"
+    },
+    {
+      "symbol": "2795.T",
+      "companyName": "Nippon Primex Inc."
+    },
+    {
+      "symbol": "FUM.MI",
+      "companyName": "Franchi Umberto Marmi S.p.A."
+    },
+    {
+      "symbol": "XTAP",
+      "companyName": "Innovator U.S. Equity Accelerated Plus ETF \u2013 April"
+    },
+    {
+      "symbol": "SURANI.NS",
+      "companyName": "Surani Steel Tubes Ltd."
+    },
+    {
+      "symbol": "VGHAX",
+      "companyName": "Vanguard Health Care Fund Admiral Shares"
+    },
+    {
+      "symbol": "PURE.ST",
+      "companyName": "Purefun Group AB (publ)"
+    },
+    {
+      "symbol": "GIFIX",
+      "companyName": "Guggenheim Floating Rate Strategies Fund Institutional Class"
+    },
+    {
+      "symbol": "STG.AX",
+      "companyName": "Straker Limited"
+    },
+    {
+      "symbol": "HDVY",
+      "companyName": "Health Discovery Corporation"
+    },
+    {
+      "symbol": "7245.T",
+      "companyName": "Daido Metal Co., Ltd."
+    },
+    {
+      "symbol": "0186.KL",
+      "companyName": "Perak Transit Berhad"
+    },
+    {
+      "symbol": "WRIT",
+      "companyName": "WRIT Media Group, Inc."
+    },
+    {
+      "symbol": "IRM",
+      "companyName": "Iron Mountain Incorporated"
+    }
+  ],
+  "etf_list": [
+    {
+      "symbol": "G2XJ.DE",
+      "name": "VanEck Junior Gold Miners UCITS ETF"
+    },
+    {
+      "symbol": "BNKO",
+      "name": "MicroSectors U.S. Big Banks Index 2X Leveraged ETNs"
+    },
+    {
+      "symbol": "237350.KS",
+      "name": "KODEX 200 Large ETF"
+    },
+    {
+      "symbol": "KAT",
+      "name": "Scharf ETF"
+    },
+    {
+      "symbol": "RMIF",
+      "name": "ETF Series Solutions - LHA Risk-Managed Income ETF"
+    },
+    {
+      "symbol": "DGLDF",
+      "name": "VelocityShares 3x Inverse Gold ETN Linked to the S&P GSCI Gold Index ER"
+    },
+    {
+      "symbol": "VERG.L",
+      "name": "Vanguard FTSE Developed Europe ex UK UCITS ETF"
+    },
+    {
+      "symbol": "QMAX.TO",
+      "name": "Hamilton Technology Yield Maximizer ETF"
+    },
+    {
+      "symbol": "SGVT",
+      "name": "Schwab Government Money Market ETF"
+    },
+    {
+      "symbol": "MLPQ",
+      "name": "UBS ETRACS 2xMonthly Leveraged Alerian MLP Infrastructure Index ETN SeriesB"
+    },
+    {
+      "symbol": "CHAU",
+      "name": "Direxion Daily CSI 300 China A Share Bull 2X Shares"
+    },
+    {
+      "symbol": "XTAP",
+      "name": "Innovator U.S. Equity Accelerated Plus ETF \u2013 April"
+    },
+    {
+      "symbol": "ASF.NZ",
+      "name": "Smart Australian Financials ETF"
+    },
+    {
+      "symbol": "V3GD.L",
+      "name": "Vanguard Funds PLC - Vanguard ESG Global Corporate Bond UCITS ETF USD Hedged Inc"
+    },
+    {
+      "symbol": "ORCU",
+      "name": "Direxion Daily ORCL Bull 2X ETF"
+    },
+    {
+      "symbol": "IBD",
+      "name": "Inspire Corporate Bond Impact ESG ETF"
+    },
+    {
+      "symbol": "INVG",
+      "name": "GMO Systematic Investment Grade Credit ETF"
+    },
+    {
+      "symbol": "PSFD",
+      "name": "Pacer Swan SOS Flex (January) ETF"
+    },
+    {
+      "symbol": "GENW",
+      "name": "Genter Capital International Dividend ETF"
+    },
+    {
+      "symbol": "LVIN",
+      "name": "Hartford Multifactor Low Volatility International Equity ETF"
+    },
+    {
+      "symbol": "DYFI",
+      "name": "IDX Dynamic Fixed Income ETF"
+    },
+    {
+      "symbol": "IPOL.L",
+      "name": "iShares V PLC - iShares MSCI Poland UCITS ETF"
+    },
+    {
+      "symbol": "FXD",
+      "name": "First Trust Consumer Discretionary AlphaDEX Fund"
+    },
+    {
+      "symbol": "FEIG",
+      "name": "FlexShares ESG & Climate Investment Grade Corporate Core Index Fund"
+    },
+    {
+      "symbol": "KBAB",
+      "name": "KraneShares 2x Long BABA Daily ETF"
+    },
+    {
+      "symbol": "EXSD.F",
+      "name": "iShares STOXX Europe Mid 200 UCITS ETF (DE)"
+    },
+    {
+      "symbol": "1475.T",
+      "name": "iShares Core TOPIX ETF"
+    },
+    {
+      "symbol": "GBUR.L",
+      "name": "WisdomTree Long EUR Short GBP"
+    },
+    {
+      "symbol": "ECLN",
+      "name": "First Trust EIP Carbon Impact ETF"
+    },
+    {
+      "symbol": "XFS.TO",
+      "name": "iShares MSCI Multifactor USA Index ETF"
+    },
+    {
+      "symbol": "HEGD",
+      "name": "Swan Hedged Equity US Large Cap ETF"
+    },
+    {
+      "symbol": "SYZ",
+      "name": "Lazard US Systematic Small Cap Equity ETF"
+    },
+    {
+      "symbol": "C33.PA",
+      "name": "Amundi ETF Govt Bond Euro Broad Investment Grade 3-5 UCITS ETF"
+    },
+    {
+      "symbol": "ESGP.L",
+      "name": "AuAg ESG Gold Mining UCITS ETF"
+    },
+    {
+      "symbol": "LST",
+      "name": "Managed Portfolio Series Leuthold Select Industries ETF"
+    },
+    {
+      "symbol": "RSPH",
+      "name": "Invesco S&P 500 Equal Weight Health Care ETF"
+    },
+    {
+      "symbol": "ISIF.TO",
+      "name": "IA Clarington Strategic Income Fund"
+    },
+    {
+      "symbol": "ADIV",
+      "name": "SmartETFs Asia Pacific Dividend Builder ETF"
+    },
+    {
+      "symbol": "FDVV",
+      "name": "Fidelity High Dividend ETF"
+    },
+    {
+      "symbol": "HYLA.L",
+      "name": "iShares Global High Yield Corp Bond UCITS ETF USD (Acc)"
+    },
+    {
+      "symbol": "EJP3.MI",
+      "name": "WisdomTree Long JPY Short EUR 3x Daily"
+    },
+    {
+      "symbol": "RVNL",
+      "name": "GraniteShares 2x Long RIVN Daily ETF"
+    },
+    {
+      "symbol": "RESI",
+      "name": "Kelly Residential & Apartment Real Estate ETF"
+    },
+    {
+      "symbol": "ITEQ",
+      "name": "BlueStar Israel Technology ETF"
+    },
+    {
+      "symbol": "MAGY",
+      "name": "Roundhill Magnificent Seven Covered Call ETF"
+    },
+    {
+      "symbol": "IBTG",
+      "name": "iShares iBonds Dec 2026 Term Treasury ETF"
+    },
+    {
+      "symbol": "BRLN",
+      "name": "iShares Floating Rate Loan Active ETF"
+    },
+    {
+      "symbol": "ACWL.L",
+      "name": "Amundi MSCI All Country World UCITS"
+    },
+    {
+      "symbol": "FMAX.TO",
+      "name": "Hamilton U.S. Financials YIELD MAXIMIZER ETF"
+    },
+    {
+      "symbol": "ZYUS.AX",
+      "name": "Global X S&P 500 High Yield Low Volatility ETF"
+    },
+    {
+      "symbol": "SEGA.L",
+      "name": "iShares Core \u20ac Govt Bond UCITS ETF EUR (Dist)"
+    },
+    {
+      "symbol": "SPXU.TO",
+      "name": "BetaPro S&P 500 2x Daily Bull ETF"
+    },
+    {
+      "symbol": "NVMZ",
+      "name": "TrueShares Structured Outcome (November) ETF"
+    },
+    {
+      "symbol": "C007.F",
+      "name": "Lyxor MDAX ESG UCITS ETF"
+    },
+    {
+      "symbol": "PSK",
+      "name": "SPDR ICE Preferred Securities ETF"
+    },
+    {
+      "symbol": "HERU.L",
+      "name": "Global X Video Games & Esports UCITS ETF"
+    },
+    {
+      "symbol": "RWR",
+      "name": "SPDR\u00a0Dow Jones\u00a0REIT ETF"
+    },
+    {
+      "symbol": "SMLL",
+      "name": "Direxion Daily Small Cap Bull 2X Shares"
+    },
+    {
+      "symbol": "QPON.AX",
+      "name": "BetaShares Australian Bank Senior Floating Rate Bond ETF"
+    },
+    {
+      "symbol": "LGCF",
+      "name": "Themes US Cash Flow Champions ETF"
+    },
+    {
+      "symbol": "IU0C.SW",
+      "name": "iShares $ Corp Bond 0-3yr ESG UCITS ETF"
+    },
+    {
+      "symbol": "DVND",
+      "name": "Touchstone Dividend Select ETF"
+    },
+    {
+      "symbol": "FMK",
+      "name": "First Trust Mega Cap AlphaDEX Fund"
+    },
+    {
+      "symbol": "PASS",
+      "name": "Direxion Daily Cnsmr Discret Bear 3XShrs"
+    },
+    {
+      "symbol": "DES2.DE",
+      "name": "L&G DAX Daily 2x Short UCITS ETF"
+    },
+    {
+      "symbol": "LGLBF",
+      "name": "Gold Bullion Securities"
+    },
+    {
+      "symbol": "3TSM.L",
+      "name": "Leverage Shares 3x Long Taiwan Semiconductor (TSM) ETP Securities"
+    },
+    {
+      "symbol": "XDWL.L",
+      "name": "Xtrackers (IE) Plc - Xtrackers MSCI World UCITS ETF 1D"
+    },
+    {
+      "symbol": "RGEF",
+      "name": "Rockefeller Global Equity ETF"
+    },
+    {
+      "symbol": "GLDM",
+      "name": "SPDR Gold MiniShares"
+    },
+    {
+      "symbol": "COWZ",
+      "name": "Pacer US Cash Cows 100 ETF"
+    },
+    {
+      "symbol": "FLO5.L",
+      "name": "iShares $ Floating Rate Bond UCITS ETF"
+    },
+    {
+      "symbol": "AOK",
+      "name": "iShares Core Conservative Allocation ETF"
+    },
+    {
+      "symbol": "MODL",
+      "name": "Victoryshares Westend U.S. Sector ETF"
+    },
+    {
+      "symbol": "APRQ",
+      "name": "Innovator Premium Income 40 Barrier ETF - April"
+    },
+    {
+      "symbol": "TFLO",
+      "name": "iShares Treasury Floating Rate Bond ETF"
+    },
+    {
+      "symbol": "SUSB",
+      "name": "iShares ESG 1-5 Year USD Corporate Bond ETF"
+    },
+    {
+      "symbol": "EMFM",
+      "name": "Global X Next Emerging & Frontier ETF"
+    },
+    {
+      "symbol": "LRET.DE",
+      "name": "Lyxor Index Fund - Lyxor STOXX Europe 600 Retail UCITS ETF"
+    },
+    {
+      "symbol": "CBUI.SG",
+      "name": "iShares MSCI World Value Factor ESG UCITS ETF"
+    },
+    {
+      "symbol": "GNOG.L",
+      "name": "Global X Genomics & Biotechnology UCITS ETF"
+    },
+    {
+      "symbol": "VUAG.L",
+      "name": "Vanguard S&P 500 UCITS ETF"
+    },
+    {
+      "symbol": "36B1.DE",
+      "name": "iShares J.P. Morgan ESG $ EM Bond UCITS ETF"
+    },
+    {
+      "symbol": "HMAF.L",
+      "name": "HSBC MSCI AC FAR EAST ex JAPAN UCITS ETF"
+    },
+    {
+      "symbol": "EMCP.L",
+      "name": "iShares JP Morgan USD EM Corp Bond UCITS ETF USD"
+    },
+    {
+      "symbol": "AGRW",
+      "name": "Allspring LT Large Growth ETF"
+    },
+    {
+      "symbol": "SPYK.DE",
+      "name": "SPDR MSCI Europe Technology UCITS ETF"
+    },
+    {
+      "symbol": "SELV",
+      "name": "SEI Enhanced Low Volatility U.S. Large Cap ETF"
+    },
+    {
+      "symbol": "LICNETFSEN.BO",
+      "name": "LIC MF ETF Sensex"
+    },
+    {
+      "symbol": "DUKX",
+      "name": "Ocean Park International ETF"
+    },
+    {
+      "symbol": "SMYY",
+      "name": "GraniteShares YieldBOOST SMCI ETF"
+    },
+    {
+      "symbol": "HLGE",
+      "name": "Hartford Longevity Economy ETF"
+    },
+    {
+      "symbol": "ASMG",
+      "name": "Leverage Shares 2X Long ASML Daily ETF"
+    },
+    {
+      "symbol": "ETHU",
+      "name": "2x Ether ETF"
+    },
+    {
+      "symbol": "EMBD",
+      "name": "Global X Emerging Markets Bond ETF"
+    },
+    {
+      "symbol": "XDUS.L",
+      "name": "Xtrackers (IE) Plc - Xtrackers MSCI USA UCITS ETF 1C"
+    },
+    {
+      "symbol": "IBCD",
+      "name": "iShares iBonds Mar 2020 Term Corporate ex-Financials ETF"
+    },
+    {
+      "symbol": "CNQQ",
+      "name": "Rayliant-ChinaAMC Transformative China Tech ETF"
+    },
+    {
+      "symbol": "DXSM.DE",
+      "name": "Xtrackers Bloomberg Commodity ex-Agriculture & Livestock Swap UCITS ETF 1C EUR Hedged"
+    },
+    {
+      "symbol": "INCO",
+      "name": "Columbia India Consumer ETF"
+    }
+  ]
+}

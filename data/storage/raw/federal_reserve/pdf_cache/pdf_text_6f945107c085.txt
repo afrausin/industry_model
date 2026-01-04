@@ -1,0 +1,697 @@
+________________________________________________________________________________________P_a_g_e_ _1
+Minutes of the Federal Open Market Committee
+April 30–May 1, 2024
+A joint meeting of the Federal Open Market Committee Jose Acosta, Senior System Administrator II, Division
+and the Board of Governors of the Federal Reserve Sys- of Information Technology, Board
+tem was held in the offices of the Board of Governors
+Alyssa Arute,2 Manager, Division of Reserve Bank
+on Tuesday, April 30, 2024, at 10:00 a.m. and continued
+Operations and Payment Systems, Board
+on Wednesday, May 1, 2024, at 9:00 a.m.1
+Ayelen Banegas, Principal Economist, Division of
+Attendance
+Monetary Affairs, Board
+Jerome H. Powell, Chair
+John C. Williams, Vice Chair Becky C. Bareford, First Vice President, Federal
+Thomas I. Barkin Reserve Bank of Richmond
+Michael S. Barr
+Penelope A. Beattie,3 Section Chief, Office of the
+Raphael W. Bostic
+Secretary, Board
+Michelle W. Bowman
+Lisa D. Cook Carol C. Bertaut, Senior Adviser, Division of
+Mary C. Daly International Finance, Board
+Philip N. Jefferson
+David Bowman, Senior Associate Director, Division of
+Adriana D. Kugler
+Monetary Affairs, Board
+Loretta J. Mester
+Christopher J. Waller Marco Cipriani, Research Department Head, Federal
+Reserve Bank of New York
+Susan M. Collins, Austan D. Goolsbee, Alberto G.
+Musalem, Jeffrey R. Schmid, and Sushmita Shukla, Todd E. Clark, Senior Vice President, Federal Reserve
+Alternate Members of the Committee Bank of Cleveland
+Patrick Harker, Neel Kashkari, and Lorie K. Logan, Juan C. Climent, Special Adviser to the Board, Division
+Presidents of the Federal Reserve Banks of of Board Members, Board
+Philadelphia, Minneapolis, and Dallas, respectively
+Daniel M. Covitz, Deputy Director, Division of
+Joshua Gallin, Secretary Research and Statistics, Board
+Matthew M. Luecke, Deputy Secretary
+Stephanie E. Curcuru, Deputy Director, Division of
+Brian J. Bonis, Assistant Secretary
+International Finance, Board
+Michelle A. Smith, Assistant Secretary
+Mark E. Van Der Weide, General Counsel Ryan Decker, Special Adviser to the Board, Division of
+Richard Ostrander, Deputy General Counsel Board Members, Board
+Trevor A. Reeve, Economist
+Wendy E. Dunn, Adviser, Division of Research and
+Stacey Tevlin, Economist
+Statistics, Board
+Beth Anne Wilson, Economist
+Rochelle M. Edge, Deputy Director, Division of
+Shaghil Ahmed, James A. Clouse, Brian M. Doyle,
+Monetary Affairs, Board
+William Wascher, and Alexander L. Wolman,
+Associate Economists Eric C. Engstrom, Associate Director, Division of
+Monetary Affairs, Board
+Roberto Perli, Manager, System Open Market Account
+Charles A. Fleischman, Senior Adviser, Division of
+Julie Ann Remache, Deputy Manager, System Open
+Research and Statistics, Board
+Market Account
+1 The Federal Open Market Committee is referenced as the 2 Attended through the discussion of developments in finan-
+“FOMC” and the “Committee” in these minutes; the Board cial markets and open market operations.
+of Governors of the Federal Reserve System is referenced as 3 Attended through the discussion of the economic and finan-
+the “Board” in these minutes. cial situation.
+
+_P_ag_e_ _2_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+Jenn Gallagher, Assistant to the Board, Division of Makoto Nakajima, Vice President, Federal Reserve
+Board Members, Board Bank of Philadelphia
+Peter M. Garavuso, Lead Information Manager, Michelle M. Neal, Head of Markets, Federal Reserve
+Division of Monetary Affairs, Board Bank of New York
+Carlos Garriga, Senior Vice President, Federal Reserve Anna Paulson, Executive Vice President, Federal
+Bank of St. Louis Reserve Bank of Chicago
+Michael S. Gibson, Director, Division of Supervision Eugenio P. Pinto, Special Adviser to the Board,
+and Regulation, Board Division of Board Members, Board
+Joseph W. Gruber, Executive Vice President, Federal Odelle Quisumbing,3 Assistant to the Secretary, Office
+Reserve Bank of Kansas City of the Secretary, Board
+Valerie S. Hinojosa, Section Chief, Division of Andrea Raffo, Senior Vice President, Federal Reserve
+Monetary Affairs, Board Bank of Minneapolis
+Jane E. Ihrig, Special Adviser to the Board, Division of Samuel Schulhofer-Wohl, Senior Vice President,
+Board Members, Board Federal Reserve Bank of Dallas
+Benjamin K. Johannsen, Assistant Director, Division Zeynep Senyuz, Deputy Associate Director, Division
+of Monetary Affairs, Board of Monetary Affairs, Board
+Michael T. Kiley, Deputy Director, Division of Mark Spiegel, Senior Policy Advisor, Federal Reserve
+Financial Stability, Board Bank of San Francisco
+Don H. Kim,2 Senior Adviser, Division of Monetary John J. Stevens, Senior Associate Director, Division of
+Affairs, Board Research and Statistics, Board
+Andreas Lehnert, Director, Division of Financial Balint Szoke,4 Senior Economist, Division of Monetary
+Stability, Board Affairs, Board
+Kurt F. Lewis, Special Adviser to the Chair, Division of Yannick Timmer, Senior Economist, Division of
+Board Members, Board Monetary Affairs, Board
+Dan Li, Assistant Director, Division of Monetary Clara Vega, Special Adviser to the Board, Division of
+Affairs, Board Board Members, Board
+Laura Lipscomb, Special Adviser to the Board, Annette Vissing-Jørgensen, Senior Adviser, Division of
+Division of Board Members, Board Monetary Affairs, Board
+David López-Salido, Senior Associate Director, Jeffrey D. Walker,2 Associate Director, Division of
+Division of Monetary Affairs, Board Reserve Bank Operations and Payment Systems,
+Board
+Joshua S. Louria, Group Manager, Division of
+Monetary Affairs, Board Jonathan Willis, Vice President, Federal Reserve Bank
+of Atlanta
+Benjamin W. McDonough, Deputy Secretary and
+Ombudsman, Office of the Secretary, Board Paul R. Wood, Special Adviser to the Board, Division
+of Board Members, Board
+Ann E. Misback, Secretary, Office of the Secretary,
+Board Egon Zakrajsek, Executive Vice President, Federal
+Reserve Bank of Boston
+Raven Molloy, Deputy Associate Director, Division of
+Research and Statistics, Board Rebecca Zarutskie, Special Adviser to the Board,
+Division of Board Members, Board
+Norman J. Morin, Associate Director, Division of
+Research and Statistics, Board
+4 Attended Tuesday’s session only.
+
+____________________________M__in_u_t_e_s _o_f_ t_h_e_ M__e_et_in_g_ _o_f_ A_p_r_i_l 3_0_–_M__a_y_ 1_,_ 2_0_2_4_______________________P_a_g_e_ _3
+Developments in Financial Markets and Open slowdown in the pace of runoff was not likely to trans-
+Market Operations late to a higher terminal size of the portfolio.
+The manager turned first to a review of developments in
+The manager then turned to money markets and Desk
+financial markets. Domestic data releases over the inter-
+operations. Unsecured overnight rates were stable over
+meeting period pointed to inflation being more persis-
+the intermeeting period. In secured funding markets,
+tent than previously expected and to a generally resilient
+rates on overnight repurchase agreements firmed some-
+economy. Policy expectations shifted materially in re-
+what over the March quarter-end reporting date, in line
+sponse. The policy rate path derived from futures prices
+with recent history. Market participants generally re-
+implied fewer than two 25 basis point rate cuts by year-
+ported that the return of somewhat higher rates around
+end. The modal path based on options prices was quite
+reporting dates had not been associated with any issues
+flat, suggesting at most one such rate cut in 2024. The
+in market functioning. Despite the ongoing balance
+median of the modal paths of the federal funds rate ob-
+sheet runoff, take-up at the overnight reverse repurchase
+tained from the Open Market Desk’s Survey of Primary
+agreement (ON RRP) facility was largely steady over the
+Dealers and Survey of Market Participants also indicated
+period, likely reflecting fewer attractive private-market
+fewer cuts this year than previously thought. Respond-
+alternatives for money market funds (MMFs) amid a re-
+ents’ baseline expectations for the timing of the first rate
+cent reduction in Treasury bills outstanding as well as a
+cut—which had been concentrated around June in the
+decrease in MMFs’ weighted average maturities.
+March surveys—shifted out significantly and became
+ON RRP usage was also likely supported by typical
+more diffuse.
+month-end dynamics. The staff and respondents to the
+Treasury yields rose materially over the intermeeting pe- Desk’s Survey of Primary Dealers expected ON RRP
+riod. At shorter maturities, the increase appeared to take-up to decline in coming months.
+largely reflect higher inflation compensation, while at
+The manager provided an update on reserve conditions.
+longer maturities, it was attributable mostly to a higher
+Over the intermeeting period, the federal funds market
+expected path for the real policy rate and higher real risk
+continued to be insensitive to day-to-day changes in the
+premiums. Model estimates suggested that inflation ex-
+supply of reserves and suggested that reserves remained
+pectations rose some, but mostly at shorter horizons.
+abundant. The manager discussed various other indica-
+Longer-term inflation expectations appeared to remain
+tors that supported the same conclusion.
+well anchored. Broad equity prices fell over the period,
+as higher interest rates weighed on valuations, while re- The Committee voted unanimously to renew the recip-
+cent earnings reports, which were generally solid, pro- rocal currency arrangements with the Bank of Canada
+vided some support. The dollar strengthened as several and the Bank of Mexico; these arrangements are associ-
+foreign central banks were expected to start easing policy ated with the Federal Reserve’s participation in the
+before the Federal Reserve. Overall, higher yields and North American Framework Agreement of 1994. In ad-
+lower equity prices, together with the stronger dollar, re- dition, the Committee voted unanimously to renew the
+sulted in a tightening of financial conditions over the pe- dollar and foreign currency liquidity swap arrangements
+riod. with the Bank of Canada, the Bank of England, the Bank
+of Japan, the European Central Bank, and the Swiss Na-
+The manager then discussed expectations regarding bal-
+tional Bank. The votes to renew the Federal Reserve’s
+ance sheet policy. Respondents to the Desk surveys ex-
+participation in these standing arrangements occur an-
+pected a slowing in the pace of balance sheet reduction
+nually at the April or May FOMC meeting.
+to begin soon; the median respondent projected that the
+slowdown would start in June, one month earlier than in By unanimous vote, the Committee ratified the Desk’s
+the March surveys. The average probability distribution domestic transactions over the intermeeting period.
+of the size of the System Open Market Account There were no intervention operations in foreign curren-
+(SOMA) portfolio at the end of runoff had become a bit cies for the System’s account during the intermeeting pe-
+more concentrated, and its probability-weighted mean riod.
+was slightly lower than in the March surveys. Overall,
+Staff Review of the Economic Situation
+the survey results suggested that respondents’ expecta-
+The information available at the time of the April 30–
+tions for a slowdown of balance sheet runoff had been
+May 1 meeting indicated that growth in U.S. real gross
+decoupled from expectations about the timing and ex-
+domestic product (GDP) stepped down in the first quar-
+tent of rate cuts, and that respondents understood that a
+ter of 2024 from the robust pace seen over the second
+
+_P_ag_e_ _4_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+half of 2023. Labor market conditions remained strong. Foreign GDP growth is estimated to have picked up in
+Consumer price inflation—as measured by the the first quarter from its subdued pace in the previous
+12-month change in the price index for personal con- quarter. In Europe, economic activity resumed expand-
+sumption expenditures (PCE)—slowed significantly ing following modest contractions in several economies
+over the past year but had moved up slightly in recent amid monetary policy restraint and the repercussions of
+months and remained above 2 percent. the 2022 energy shock. Growth stepped up in China,
+led by strong exports, but property-sector indicators re-
+Labor demand and supply continued to move into better
+mained weak. Elsewhere in emerging Asia, exports re-
+balance, though the speed of this realignment appeared
+bounded further from last year’s lows, lifted by robust
+to have slowed in recent months. Total nonfarm payroll
+global demand for high-tech goods.
+employment increased at a faster average monthly pace
+in the first quarter of 2024 than in the fourth quarter of Headline inflation eased modestly further in the ad-
+2023. The unemployment rate ticked down to 3.8 per- vanced foreign economies (AFEs) in the first quarter,
+cent in March, while the labor force participation rate but inched up in the emerging market economies in part
+and the employment-to-population ratio both moved up because of food price pressure caused by adverse
+0.2 percentage point. The unemployment rate for Afri- weather in some countries. Most major AFE central
+can Americans increased, and the rate for Hispanics banks kept their policy rates unchanged over the inter-
+moved down; both rates were higher than those for meeting period, and some reiterated that policy rate cuts
+Asians and for Whites. The 12-month changes in the could be appropriate at coming meetings.
+employment cost index (ECI) and average hourly earn-
+Staff Review of the Financial Situation
+ings for all employees both declined in March relative to
+Over the intermeeting period, the market-implied path
+a year earlier, but the 3-month change in the ECI
+for the federal funds rate through 2024 increased mark-
+stepped up noticeably from the average pace that pre-
+edly, and federal funds futures rates suggested that mar-
+vailed over the second half of 2023.
+ket participants were placing lower odds on significant
+Regarding consumer price inflation, total PCE prices in- policy easing in 2024 than they did just before the March
+creased 2.7 percent over the 12 months ending in March, FOMC meeting. Consistent with the rise in the implied
+while core PCE price inflation—which excludes changes policy path, nominal Treasury yields at all maturities also
+in energy prices and many consumer food prices—was rose substantially as investors appeared to reassess the
+2.8 percent over the same period. Both inflation persistence of inflation and the implications for mone-
+measures were considerably lower than their year-earlier tary policy. Market-based measures of interest rate un-
+levels but had surprised to the upside. Although some certainty remained elevated by historical standards.
+measures of short-term inflation expectations had
+Broad stock price indexes declined moderately, on net,
+moved up, longer-term expectations were little changed
+over the intermeeting period. Yield spreads on invest-
+and stood at levels consistent with those that prevailed
+ment-grade corporate bonds were about unchanged, and
+before the pandemic.
+those on speculative-grade corporate bonds increased
+According to the advance estimate, real GDP rose mod- moderately. The one-month option-implied volatility on
+estly in the first quarter. However, private domestic final the S&P 500 increased significantly over the period, ap-
+purchases (PDFP)—which comprises PCE and private parently reflecting rising geopolitical tensions, but re-
+fixed investment and which often provides a better sig- mained at moderate levels by historical standards.
+nal than GDP of underlying economic momentum—
+Over the intermeeting period, incoming foreign eco-
+posted an increase that was similar to the solid gains seen
+nomic data and central bank communications were
+over the second half of 2023.
+largely consistent with market participants’ expectations
+Real exports of goods and services grew at a tepid pace that most AFE central banks will lower policy rates at
+overall in the first quarter, with gains in exports of foods, coming meetings. Nonetheless, AFE sovereign bond
+consumer goods, and capital goods being mostly offset yields rose, primarily reflecting spillovers from higher
+by declines in exports of industrial supplies. By contrast, U.S. yields. Wider U.S.–AFE yield differentials and, to
+real imports rose at a brisk pace, boosted in part by a a lesser extent, heightened geopolitical tensions in the
+large increase in imports of capital goods. All told, net Middle East contributed to a moderate increase in the
+exports made a significant negative contribution to broad dollar index. Though geopolitical tensions
+U.S. GDP growth in the first quarter. weighed on risk sentiment at times, prices of foreign
+risky assets were little changed on balance.
+
+____________________________M__in_u_t_e_s _o_f_ t_h_e_ M__e_et_in_g_ _o_f_ A_p_r_i_l 3_0_–_M__a_y_ 1_,_ 2_0_2_4_______________________P_a_g_e_ _5
+Conditions in U.S. short-term funding markets remained in the SLOOS that they tightened lending standards on
+stable over the intermeeting period, with typical dynam- auto loans in the first quarter.
+ics observed surrounding quarter-end. Usage of the
+Although credit quality for household loans remained
+ON RRP facility leveled off during the first few weeks
+solid, on balance, delinquency rates for credit cards and
+of the period, primarily reflecting MMFs slowing their
+auto loans in the fourth quarter remained notably above
+re-allocation into Treasury bills.
+their levels just before the pandemic. For residential
+In domestic credit markets, borrowing costs generally mortgages, delinquency rates across loan types were
+rose somewhat over the intermeeting period from al- largely unchanged in February. The credit quality of
+ready elevated levels. Rates on 30-year conforming res- nonfinancial firms borrowing in the corporate bond and
+idential mortgages increased and remained near recent leveraged loan markets remained stable overall. The av-
+high levels. In contrast, interest rates on new credit card erage delinquency rate for loans in CMBS pools ticked
+offers edged down in February. Interest rates on small down in March but remained at elevated levels. Mean-
+business loans increased in March and remained at ele- while, the share of nonperforming CRE loans at
+vated levels. Meanwhile, price terms for commercial and banks—defined as loans past due 90 days or in nonac-
+industrial (C&I) loans were little changed, on net, in the crual status—rose further through March, especially for
+first quarter of 2024 after several quarters of tightening. loans secured by office buildings.
+Yields rose on a broad array of fixed-income securities,
+The staff provided an update on its assessment of the
+including commercial mortgage-backed securities
+stability of the U.S. financial system. On balance, the
+(CMBS), investment- and speculative-grade corporate
+staff continued to characterize the system’s financial vul-
+bonds, and residential mortgage-backed securities.
+nerabilities as notable but raised the assessment of vul-
+Financing through capital markets and nonbank lenders nerabilities in asset valuations to elevated, as valuations
+was readily accessible for public corporations and large across a range of markets appeared high relative to risk-
+and middle-market private corporations, and credit adjusted cash flows. House prices remained elevated rel-
+availability for leveraged loan borrowers appeared to im- ative to fundamentals such as rents and Treasury yields,
+prove further over the intermeeting period. For small though the fraction of mortgage borrowers with small
+firms, the volume of loan originations ticked up in Feb- equity positions remained low. CRE prices continued to
+ruary despite the tightening of credit standards. Mean- decline, especially in the multifamily and office sectors,
+while, C&I loan balances declined in the first quarter, in and vacancy rates in these sectors remained elevated.
+line with the cumulative tightening in standards over the Vulnerabilities associated with business and household
+past two years. In the April Senior Loan Officer Opin- debt were characterized as moderate. Nonfinancial busi-
+ion Survey on Bank Lending Practices (SLOOS), large ness leverage was high, but the ability of firms to service
+banks kept standards and most lending terms for their debt remained solid, partly due to robust earnings.
+C&I loans unchanged, on net, while smaller banks con-
+Leverage in the financial sector was characterized as no-
+tinued to tighten standards and terms on net.
+table. Regulatory capital ratios in the banking sector re-
+Banks reported tightening standards further in the April mained high. However, the fair value of bank assets was
+SLOOS for all loan categories of commercial real estate estimated to have fallen further in the first quarter, re-
+(CRE) loans. The growth of bank CRE loan balances flecting the substantial duration risk on bank balance
+slowed notably over the past year, reflecting the tighten- sheets. For the nonbank sector, the prevalence of the
+ing of credit standards over this period, though growth basis trade by hedge funds appeared to have declined
+of CRE loan balances picked up modestly in the first from its peak but remained elevated by historical stand-
+quarter. ards.
+Credit remained available for most consumers, despite Funding risks were also characterized as notable. Assets
+some signs of recent tightening. For residential real es- in prime MMFs and other cash management vehicles
+tate borrowers, conforming and government-backed continued to grow steadily. The staff assessed that the
+loans remained generally available. Credit card balances financial stability risks associated with the fast-growing
+continued to grow at a robust pace, though a significant private credit sector were limited so far because of the
+net share of SLOOS respondents indicated that lending modest leverage used by private debt funds and business
+standards for credit cards tightened further in the first development companies and the limited maturity mis-
+quarter. Growth in auto lending moderated in January match present in their funding vehicles. However, the
+and February, and a modest net share of banks reported staff also noted the growing connections between
+
+_P_ag_e_ _6_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+private credit and the banking sector, the growth of past year. A few participants remarked that unusually
+some forms of private credit, and the fact that the private large seasonal patterns could have contributed to Janu-
+credit market has yet to experience a severe credit down- ary’s large increase in PCE inflation, and several partici-
+turn. pants noted that some components that typically display
+volatile price changes had boosted recent readings.
+Staff Economic Outlook
+However, some participants emphasized that the recent
+The economic forecast prepared by the staff for the
+increases in inflation had been relatively broad based and
+April–May meeting was similar to the March projection.
+therefore should not be overly discounted.
+The economy was expected to maintain its high rate of
+resource utilization over the next few years, with pro- Participants generally commented that they remained
+jected output growth roughly similar to the staff’s esti- highly attentive to inflation risks. They also remained
+mate of potential growth. The unemployment rate was concerned that elevated inflation continued to harm the
+expected to edge down slightly over 2024 as labor mar- purchasing power of households, especially those least
+ket functioning improved further, and to remain roughly able to meet the higher costs of essentials like food,
+steady thereafter. housing, and transportation.
+Total and core PCE price inflation were both projected Participants noted that they continued to expect that in-
+to move lower this year relative to last year, though the flation would return to 2 percent over the medium term.
+expected pace of disinflation was slower than in the However, recent data had not increased their confidence
+March projection, as incoming data pointed to more per- in progress toward 2 percent and, accordingly, had sug-
+sistence in inflation in coming months. Inflation was gested that the disinflation process would likely take
+expected to decline further beyond this year as demand longer than previously thought. Participants discussed
+and supply in product and labor markets continued to several factors that, in conjunction with appropriately re-
+move into better balance; by 2026, total and core PCE strictive monetary policy, could support the return of in-
+price inflation were expected to be close to 2 percent. flation to the Committee’s goal over time. One was a
+further reduction in housing services price inflation as
+The staff continued to view the uncertainty around the
+lower readings for rent growth on new leases continued
+baseline projection as close to the average over the past
+to pass through to this category of inflation. However,
+20 years. Risks to the inflation forecast were seen as
+many participants commented that the pass-through
+tilted to the upside, reflecting the possibility that supply-
+would likely take place only gradually or noted that a re-
+side disruptions or unexpectedly persistent inflation dy-
+acceleration of market rents could reduce the effect.
+namics could materialize. The risks around the forecast
+Several participants stated that core nonhousing services
+for economic activity were seen as skewed to the down-
+price inflation could resume its decline as wage growth
+side on the grounds that more-persistent inflation could
+slows further with labor demand and supply moving into
+result in tighter financial conditions than in the staff’s
+better balance, aided by higher labor force participation
+baseline projection; in addition, deteriorating household
+and strong immigration flows. In addition, many partic-
+financial positions, especially for lower-income house-
+ipants commented that ongoing increases in productivity
+holds, might prove to be a larger drag on activity than
+growth would support disinflation if sustained, though
+the staff anticipated.
+the outlook for productivity growth was regarded as un-
+Participants’ Views on Current Conditions and the certain. Several participants said that business contacts
+Economic Outlook in their Districts reported increased difficulty in raising
+Participants observed that while inflation had eased over their output prices, while a few participants reported a
+the past year, in recent months there had been a lack of continued ability of firms in their Districts to pass on
+further progress toward the Committee’s 2 percent ob- higher costs to consumers. Although some measures of
+jective. The recent monthly data had showed significant short-term inflation expectations from surveys of con-
+increases in components of both goods and services sumers had increased in recent months, medium- and
+price inflation. In particular, inflation for core services longer-term measures of expected inflation had re-
+excluding housing had moved up in the first quarter mained well anchored, which was seen as crucial for
+compared with the fourth quarter of last year, and prices meeting the Committee’s inflation goal on a sustained
+of core goods posted their first three-month increase in basis. While supply chain improvements had supported
+several months. In addition, housing services inflation disinflation for goods prices over the previous year, par-
+had slowed less than had been anticipated based on the ticipants commented that an expected more gradual
+smaller increases in measures of market rents over the pace of such improvements could slow progress on
+
+____________________________M__in_u_t_e_s _o_f_ t_h_e_ M__e_et_in_g_ _o_f_ A_p_r_i_l 3_0_–_M__a_y_ 1_,_ 2_0_2_4_______________________P_a_g_e_ _7
+inflation. Several participants commented that growth economic activity by boosting labor supply and contrib-
+of aggregate demand would likely have to slow from its uting to aggregate demand. Participants noted the im-
+strong pace in recent quarters for inflation to move sus- portant influence of productivity growth for the eco-
+tainably toward the Committee’s goal. nomic outlook. Some participants suggested that the re-
+cent increase in productivity growth might not persist
+Participants assessed that demand and supply in the la-
+because it reflected one-time adjustments to the level of
+bor market, on net, were continuing to come into better
+productivity or reflected continued elevated volatility in
+balance, though at a slower rate. Nevertheless, they saw
+the data over the past several years. A few participants
+conditions as having generally remained tight amid re-
+commented that higher productivity growth might be
+cent strong payroll growth and a still-low unemployment
+sustained by the incorporation of technologies such as
+rate. Participants cited a variety of indicators that sug-
+artificial intelligence into existing business operations or
+gested some easing in labor market tightness, including
+by high rates of new business formation in the technol-
+declining job vacancies, a lower quits rate, and a reduced
+ogy sector.
+ratio of job openings to unemployed workers. Some
+participants indicated that business contacts had re- In their discussion of the outlook for the household sec-
+ported less difficulty in hiring or retaining workers, al- tor, participants observed that consumer spending re-
+though contacts in several Districts continued to report mained firm in the first quarter, supported by low unem-
+tight labor conditions, especially in the health care and ployment and solid income growth. A number of par-
+construction sectors. Many participants commented ticipants judged that consumption growth was likely to
+that the better balance between labor demand and sup- moderate this year, as growth in labor income was ex-
+ply had contributed to an easing of nominal wage pres- pected to slow and the financial positions of many
+sures. Even so, a number of participants noted that some households were expected to weaken. Many participants
+measures of labor cost growth, including the ECI, had noted signs that the finances of low- and moderate-in-
+not eased in recent months, and a couple of participants come households were increasingly coming under pres-
+remarked that negotiated compensation agreements had sure, which these participants saw as a downside risk to
+added to wage pressures in their Districts. Many partic- the outlook for consumption. They pointed to increased
+ipants noted that, during the past year, labor supply had usage of credit cards and buy-now-pay-later services, as
+been boosted by increased labor force participation rates well as increased delinquency rates for some types of
+as well as by immigration. Participants further com- consumer loans. In addition, elevated housing costs
+mented that recent estimates of greater immigration in were adding to financial strains for lower-income house-
+the past few years and an overall increase in labor supply holds. A couple of participants noted that financial con-
+could help explain the strength in employment gains ditions appeared favorable for wealthier households,
+even as the unemployment rate had remained roughly which account for a large portion of aggregate consump-
+flat and wage pressures had eased. tion, with hefty wealth gains resulting from recent equity
+and house price increases.
+Participants noted that recent indicators suggested that
+economic activity had continued to expand at a solid Business contacts in many Districts reported a steady or
+pace. Real GDP growth in the first quarter had moder- stable pace of economic activity, while contacts in a cou-
+ated relative to the second half of last year, but ple of Districts conveyed increased optimism about the
+PDFP growth maintained a strong pace. High interest outlook. A few participants noted that government
+rates appeared to weigh on consumer durables purchases spending was supporting business expansion in their
+in the first quarter, and growth of business fixed invest- Districts. Consistent with a solid outlook for businesses,
+ment remained modest. Despite the high interest rates, a couple of participants noted that their contacts had re-
+residential investment grew more strongly in the first ported increased investment in technology or in business
+quarter than its modest pace in the second half of last process improvements that were enhancing productive
+year. capacity. Regarding the agricultural sector, a couple of
+participants noted that lower commodity prices were
+Although recent PDFP data suggested continued strong
+weighing on farm incomes.
+economic momentum, participants generally did not in-
+terpret the data as indicating a further acceleration of ac- Participants discussed the risks and uncertainties around
+tivity and expected that GDP growth would slow from the economic outlook. They generally noted their un-
+last year’s strong pace. A number of participants com- certainty about the persistence of inflation and agreed
+mented that high rates of immigration could support that recent data had not increased their confidence that
+
+_P_ag_e_ _8_____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+inflation was moving sustainably toward 2 percent. assessed that maintaining the current target range for the
+Some participants pointed to geopolitical events or other federal funds rate at this meeting was supported by in-
+factors resulting in more severe supply bottlenecks or termeeting data indicating continued solid economic
+higher shipping costs, which could put upward pressure growth and a lack of further progress toward the Com-
+on prices and weigh on economic growth. The possibil- mittee’s 2 percent inflation objective in recent months.
+ity that geopolitical events could generate commodity
+Participants also discussed the process of reducing the
+price increases was also seen as an upside risk to infla-
+Federal Reserve’s securities holdings. Participants
+tion. A number of participants noted uncertainty regard-
+judged that balance sheet reduction had proceeded
+ing the degree of restrictiveness of current financial con-
+smoothly. Almost all participants expressed support for
+ditions and the associated risk that such conditions were
+the decision to begin to slow the pace of decline of the
+insufficiently restrictive on aggregate demand and infla-
+Federal Reserve’s securities holdings in June by reducing
+tion. Several participants commented that increased ef-
+the monthly redemption cap on Treasury securities from
+ficiencies and technological innovations could raise
+$60 billion to $25 billion, maintaining the monthly re-
+productivity growth on a sustained basis, which might
+demption cap on agency debt and agency mort-
+allow the economy to grow faster without raising infla-
+gage‑backed securities (MBS) at $35 billion, and rein-
+tion. Participants also noted downside risks to economic
+vesting any principal payments in excess of the $35 bil-
+activity, including slowing economic growth in China, a
+lion cap into Treasury securities. A few participants in-
+deterioration in conditions in domestic CRE markets, or
+dicated that they could have supported a continuation of
+a sharp tightening in financial conditions.
+the current pace of balance sheet runoff at this time or a
+In their discussion of financial stability, participants who slightly higher redemption cap on Treasury securities
+commented noted vulnerabilities to the financial system than was decided upon. Various participants empha-
+that they assessed warranted monitoring. Participants sized that the decision to slow the pace of runoff does
+discussed a range of risks emanating from the banking not have implications for the stance of monetary policy.
+sector, including unrealized losses on assets resulting Several participants also emphasized that slowing the
+from the rise in longer-term yields, high CRE exposure, pace of balance sheet runoff did not mean that the bal-
+significant reliance by some banks on uninsured depos- ance sheet would ultimately shrink by less than it would
+its, cyber threats, or increased financial interconnections otherwise. Some participants commented that slowing
+among banks. Several participants commented on the the pace of balance sheet runoff would help facilitate a
+rapid growth of private credit markets, noting that such smooth transition from abundant to ample reserve bal-
+developments should be monitored because the sector ances by reducing the likelihood that money markets ex-
+was becoming more interconnected with other parts of perience undue stress that could require an early end to
+the financial system and that some associated risks may runoff. Participants generally assessed that it would be
+not yet be apparent. A few participants also commented important to continue to monitor indicators of reserve
+on the importance of measures aimed at increasing resil- conditions as balance sheet runoff continued. In addi-
+ience in the Treasury market, such as central clearing, or tion, a few participants commented that the existing re-
+on potential vulnerabilities posed by leveraged investors demption cap on agency debt and agency MBS was un-
+in the Treasury market. A couple of participants com- likely to bind at any point over the coming years, but the
+mented that the Federal Reserve should continue to im- decision to reinvest any principal payments above that
+prove the operational efficiency of the discount window. cap into Treasury securities was consistent with the
+Participants generally noted that high interest rates could Committee’s longer-run intention to hold a portfolio
+contribute to vulnerabilities in the financial system. In that consists primarily of Treasury securities. A couple
+that context, a number of participants emphasized that of participants commented that it would be useful to
+monetary policy should be guided by the outlook for em- begin discussions regarding the appropriate longer-run
+ployment and inflation and that other tools should be maturity composition of the SOMA portfolio.
+the primary means to address financial stability risks.
+In discussing the policy outlook, participants remarked
+In their consideration of monetary policy at this meeting, that the future path of the policy rate would depend on
+all participants judged that, in light of current economic incoming data, the evolving outlook, and the balance of
+conditions and their implications for the outlook for em- risks. Many participants commented that the public ap-
+ployment and inflation, as well as the balance of risks, it peared to have a good understanding of the Committee’s
+was appropriate to maintain the target range for the fed- data-dependent approach in formulating monetary pol-
+eral funds rate at 5¼ to 5½ percent. Participants icy and its commitment to achieving its dual-mandate
+
+____________________________M__in_u_t_e_s _o_f_ t_h_e_ M__e_et_in_g_ _o_f_ A_p_r_i_l 3_0_–_M__a_y_ 1_,_ 2_0_2_4_______________________P_a_g_e_ _9
+goals of maximum employment and price stability. Var- over the longer run, members agreed to maintain the tar-
+ious participants also emphasized the importance of get range for the federal funds rate at 5¼ to 5½ percent.
+continuing to communicate this message. Participants Members concurred that, in considering any adjustments
+noted disappointing readings on inflation over the first to the target range for the federal funds rate, they would
+quarter and indicators pointing to strong economic mo- carefully assess incoming data, the evolving outlook, and
+mentum, and assessed that it would take longer than pre- the balance of risks. Members agreed that they did not
+viously anticipated for them to gain greater confidence expect that it would be appropriate to reduce the target
+that inflation was moving sustainably toward 2 percent. range until they have gained greater confidence that in-
+flation is moving sustainably toward 2 percent. In addi-
+In discussing risk-management considerations that
+tion, members agreed to continue to reduce the Federal
+could bear on the policy outlook, participants generally
+Reserve’s holdings of Treasury securities and agency
+assessed that risks to the achievement of the Commit-
+debt and agency MBS. Members decided that, beginning
+tee’s employment and inflation goals had moved toward
+in June, the Committee would slow the pace of decline
+better balance over the past year. Participants remained
+of its securities holdings by reducing the monthly re-
+highly attentive to inflation risks and noted the uncer-
+demption cap on Treasury securities from $60 billion to
+tainty associated with the economic outlook. Although
+$25 billion. In addition, members decided that the Com-
+monetary policy was seen as restrictive, many partici-
+mittee would maintain the monthly redemption cap on
+pants commented on their uncertainty about the degree
+agency debt and agency MBS at $35 billion and, begin-
+of restrictiveness. These participants saw this uncer-
+ning in June, would reinvest any principal payments in
+tainty as coming from the possibility that high interest
+excess of this cap into Treasury securities. All members
+rates may be having smaller effects than in the past, that
+affirmed their strong commitment to returning inflation
+longer-run equilibrium interest rates may be higher than
+to the Committee’s 2 percent objective.
+previously thought, or that the level of potential output
+may be lower than estimated. Participants assessed, Members agreed that, in assessing the appropriate stance
+however, that monetary policy remained well positioned of monetary policy, they would continue to monitor the
+to respond to evolving economic conditions and risks to implications of incoming information for the economic
+the outlook. Participants discussed maintaining the cur- outlook. They would be prepared to adjust the stance of
+rent restrictive policy stance for longer should inflation monetary policy as appropriate if risks emerged that
+not show signs of moving sustainably toward 2 percent could impede the attainment of the Committee’s goals.
+or reducing policy restraint in the event of an unexpected Members also agreed that their assessments would take
+weakening in labor market conditions. Various partici- into account a wide range of information, including
+pants mentioned a willingness to tighten policy further readings on labor market conditions, inflation pressures
+should risks to inflation materialize in a way that such an and inflation expectations, and financial and interna-
+action became appropriate. tional developments.
+Committee Policy Actions At the conclusion of the discussion, the Committee
+In their discussions of monetary policy for this meeting, voted to direct the Federal Reserve Bank of New York,
+members agreed that economic activity continued to ex- until instructed otherwise, to execute transactions in the
+pand at a solid pace. Job gains remained strong, and the SOMA in accordance with the following domestic policy
+unemployment rate remained low. Inflation eased over directive, for release at 2:00 p.m.:
+the past year but remained elevated. Members also con-
+“Effective May 2, 2024, the Federal Open Mar-
+curred that, in recent months, there was a lack of further
+ket Committee directs the Desk to:
+progress toward the Committee’s 2 percent inflation ob-
+jective and agreed to acknowledge this development in • Undertake open market operations as nec-
+the postmeeting statement. Members judged that the essary to maintain the federal funds rate in
+risks to achieving the Committee’s employment and in- a target range of 5¼ to 5½ percent.
+flation goals had moved toward better balance over the
+• Conduct standing overnight repurchase
+past year. Members viewed the economic outlook as un-
+agreement operations with a minimum bid
+certain and agreed that they remained highly attentive to
+rate of 5.5 percent and with an aggregate
+inflation risks.
+operation limit of $500 billion.
+In support of the Committee’s goals to achieve maxi-
+mum employment and inflation at the rate of 2 percent • Conduct standing overnight reverse repur-
+chase agreement operations at an offering
+
+_P_ag_e_ _1_0____________________________F_e_d_e_r_al_ O__p_e_n_ M__a_rk_e_t_ C__o_m_m__it_te_e__________________________________
+rate of 5.3 percent and with a per-counter- the risks to achieving its employment and infla-
+party limit of $160 billion per day. tion goals have moved toward better balance
+over the past year. The economic outlook is un-
+• Roll over at auction the amount of principal
+certain, and the Committee remains highly at-
+payments from the Federal Reserve’s hold-
+tentive to inflation risks.
+ings of Treasury securities maturing in May
+that exceeds a cap of $60 billion per month. In support of its goals, the Committee decided
+Beginning on June 1, roll over at auction to maintain the target range for the federal
+the amount of principal payments from the funds rate at 5¼ to 5½ percent. In considering
+Federal Reserve’s holdings of Treasury se- any adjustments to the target range for the fed-
+curities maturing in each calendar month eral funds rate, the Committee will carefully as-
+that exceeds a cap of $25 billion per month. sess incoming data, the evolving outlook, and
+Redeem Treasury coupon securities up to the balance of risks. The Committee does not
+these monthly caps and Treasury bills to the expect it will be appropriate to reduce the target
+extent that coupon principal payments are range until it has gained greater confidence that
+less than the monthly caps. inflation is moving sustainably toward 2 per-
+cent. In addition, the Committee will continue
+• Reinvest into agency mortgage-backed se-
+reducing its holdings of Treasury securities and
+curities (MBS) the amount of principal pay-
+agency debt and agency mortgage‑backed secu-
+ments from the Federal Reserve’s holdings
+rities. Beginning in June, the Committee will
+of agency debt and agency MBS received in
+slow the pace of decline of its securities hold-
+May that exceeds a cap of $35 billion per
+ings by reducing the monthly redemption cap
+month. Beginning on June 1, reinvest the
+on Treasury securities from $60 billion to
+amount of principal payments from the
+$25 billion. The Committee will maintain the
+Federal Reserve’s holdings of agency debt
+monthly redemption cap on agency debt and
+and agency MBS received in each calendar
+agency mortgage‑backed securities at $35 bil-
+month that exceeds a cap of $35 billion per
+lion and will reinvest any principal payments in
+month into Treasury securities to roughly
+excess of this cap into Treasury securities. The
+match the maturity composition of Treas-
+Committee is strongly committed to returning
+ury securities outstanding.
+inflation to its 2 percent objective.
+• Allow modest deviations from stated
+In assessing the appropriate stance of monetary
+amounts for reinvestments, if needed for
+policy, the Committee will continue to monitor
+operational reasons.
+the implications of incoming information for
+the economic outlook. The Committee would
+• Engage in dollar roll and coupon swap
+be prepared to adjust the stance of monetary
+transactions as necessary to facilitate settle-
+policy as appropriate if risks emerge that could
+ment of the Federal Reserve’s agency MBS
+impede the attainment of the Committee’s
+transactions.”
+goals. The Committee’s assessments will take
+The vote also encompassed approval of the statement into account a wide range of information, in-
+below for release at 2:00 p.m.: cluding readings on labor market conditions, in-
+flation pressures and inflation expectations, and
+“Recent indicators suggest that economic activ-
+financial and international developments.”
+ity has continued to expand at a solid pace. Job
+gains have remained strong, and the unemploy- Voting for this action: Jerome H. Powell, John C.
+ment rate has remained low. Inflation has eased Williams, Thomas I. Barkin, Michael S. Barr, Raphael W.
+over the past year but remains elevated. In re- Bostic, Michelle W. Bowman, Lisa D. Cook, Mary C.
+cent months, there has been a lack of further Daly, Philip N. Jefferson, Adriana D. Kugler, Loretta J.
+progress toward the Committee’s 2 percent in- Mester, and Christopher J. Waller.
+flation objective.
+Voting against this action: None.
+The Committee seeks to achieve maximum em-
+Consistent with the Committee’s decision to leave the
+ployment and inflation at the rate of 2 percent
+target range for the federal funds rate unchanged, the
+over the longer run. The Committee judges that
+
+____________________________M__in_u_t_e_s _o_f_ t_h_e_ M__e_et_in_g_ _o_f_ A_p_r_i_l 3_0_–_M__a_y_ 1_,_ 2_0_2_4______________________P__ag_e_ _1_1
+Board of Governors of the Federal Reserve System Notation Vote
+voted unanimously to maintain the interest rate paid on By notation vote completed on April 9, 2024, the Com-
+reserve balances at 5.4 percent, effective May 2, 2024. mittee unanimously approved the minutes of the Com-
+The Board of Governors of the Federal Reserve System mittee meeting held on March 19–20, 2024.
+voted unanimously to approve the establishment of the
+primary credit rate at the existing level of 5.5 percent, ef-
+fective May 2, 2024.
+It was agreed that the next meeting of the Committee _______________________
+would be held on Tuesday–Wednesday, June 11–12,
+Joshua Gallin
+2024. The meeting adjourned at 10:05 a.m. on
+Secretary
+May 1, 2024.

@@ -36,10 +36,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Add project root to path
-PROJECT_ROOT = Path(__file__).parent
+PROJECT_ROOT = Path(__file__).parent.parent.parent  # macro/
 sys.path.insert(0, str(PROJECT_ROOT))
 
-from scrapers import (
+from data.ingest.scrapers import (
     DownloadTracker,
     FederalReserveScraper,
     AtlantaFedScraper,
@@ -47,12 +47,12 @@ from scrapers import (
     NYFedScraper,
     CBOScraper,
 )
-from scrapers.brookings_scraper import BrookingsScraper
-from scrapers.nber_scraper import NBERScraper
-from scrapers.piie_scraper import PIIEScraper
-from scrapers.imf_scraper import IMFScraper
-from scrapers.oecd_scraper import OECDScraper
-from scrapers.spglobal_scraper import SPGlobalScraper
+from data.ingest.scrapers.brookings_scraper import BrookingsScraper
+from data.ingest.scrapers.nber_scraper import NBERScraper
+from data.ingest.scrapers.piie_scraper import PIIEScraper
+from data.ingest.scrapers.imf_scraper import IMFScraper
+from data.ingest.scrapers.oecd_scraper import OECDScraper
+# from data.ingest.scrapers.spglobal_scraper import SPGlobalScraper  # Not available
 
 
 # Configure logging
@@ -68,7 +68,7 @@ logger = logging.getLogger('MacroScraper')
 
 
 # Data directory
-DATA_DIR = PROJECT_ROOT / 'data'
+DATA_DIR = PROJECT_ROOT / 'data' / 'storage' / 'raw'
 TRACKER_PATH = DATA_DIR / 'tracker.json'
 
 

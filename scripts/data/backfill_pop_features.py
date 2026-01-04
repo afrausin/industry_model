@@ -43,10 +43,10 @@ import requests
 import time
 
 # Add project root to path
-PROJECT_ROOT = Path(__file__).parent.parent
+PROJECT_ROOT = Path(__file__).parent.parent.parent  # macro/
 sys.path.insert(0, str(PROJECT_ROOT))
 
-from storage.loaders.pit_database import PITDatabase
+from data.storage.db import PITDatabase
 
 # Configure logging
 logging.basicConfig(
@@ -578,7 +578,7 @@ def extract_pop_features(
 def check_status(db_path: Path = None):
     """Check the current status of documents and features."""
     if db_path is None:
-        db_path = PROJECT_ROOT / "storage" / "database" / "pit_macro.db"
+        db_path = PROJECT_ROOT / "data" / "storage" / "db" / "pit_macro.db"
     
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
@@ -688,7 +688,7 @@ def main():
     # Full backfill
     if args.full:
         # Step 1: Scrape
-        data_dir = PROJECT_ROOT / 'storage' / 'raw'
+        data_dir = PROJECT_ROOT / 'data' / 'storage' / 'raw'
         scraper = HistoricalFedScraper(data_dir)
         scraper.scrape_all(years_back=args.years)
         
@@ -708,7 +708,7 @@ def main():
     
     # Individual steps
     if args.scrape:
-        data_dir = PROJECT_ROOT / 'storage' / 'raw'
+        data_dir = PROJECT_ROOT / 'data' / 'storage' / 'raw'
         scraper = HistoricalFedScraper(data_dir)
         scraper.scrape_all(years_back=args.years)
     

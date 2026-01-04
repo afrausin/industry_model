@@ -1,0 +1,461 @@
+{
+  "downloaded_at": "2025-11-30T18:00:43.608327",
+  "source_url": "https://www.atlantafed.org/cqer/research/gdpnow",
+  "tables": [
+    [
+      [
+        "Do you want to ask a question?",
+        "Do you want to ask a question?"
+      ],
+      [
+        "Do you want to ask a question?"
+      ]
+    ],
+    [
+      [
+        "Do you want to ask a question?"
+      ]
+    ],
+    [
+      [
+        "Release",
+        "Date of release",
+        "Time of release"
+      ],
+      [
+        "Construction spending",
+        "1/2/2025",
+        "10:00 AM"
+      ],
+      [
+        "ISM Manufacturing Index",
+        "1/3/2025",
+        "10:00 AM"
+      ],
+      [
+        "International trade (Full report), ISM Services",
+        "1/7/2025",
+        "10:00 AM"
+      ],
+      [
+        "Wholesale trade",
+        "1/9/2025",
+        "10:00 AM"
+      ],
+      [
+        "Retail sales + inventories, Import and export prices",
+        "1/16/2025",
+        "10:00 AM"
+      ],
+      [
+        "Housing starts, Industrial production and capacity utilization",
+        "1/17/2025",
+        "9:15 AM"
+      ],
+      [
+        "Advance Census manufacturing (M3-1)",
+        "1/28/2025",
+        "8:30 AM"
+      ],
+      [
+        "Final nowcast of 2024:Q4 GDP growth: Advance Economic Indicators",
+        "1/29/2025",
+        "8:30 AM"
+      ],
+      [
+        "Initial nowcast of 2025:Q1 GDP growth: Personal income and outlays, NIPA underlying detail tables",
+        "1/31/2025",
+        "8:30 AM"
+      ],
+      [
+        "ISM Manufacturing Index, Construction spending",
+        "2/3/2025",
+        "10:00 AM"
+      ],
+      [
+        "International trade (Full report), ISM Services",
+        "2/5/2025",
+        "10:00 AM"
+      ],
+      [
+        "Employment situation, Wholesale trade",
+        "2/7/2025",
+        "10:00 AM"
+      ],
+      [
+        "Retail sales + inventories, Industrial production and capacity utilization, Import and export prices",
+        "2/14/2025",
+        "10:00 AM"
+      ],
+      [
+        "Housing starts",
+        "2/19/2025",
+        "8:30 AM"
+      ],
+      [
+        "Personal income and outlays, NIPA underlying detail tables, Advance Economic Indicators",
+        "2/28/2025",
+        "8:30 AM"
+      ],
+      [
+        "ISM Manufacturing Index, Construction spending",
+        "3/3/2025",
+        "10:00 AM"
+      ],
+      [
+        "International trade (Full report), Wholesale trade",
+        "3/6/2025",
+        "10:00 AM"
+      ],
+      [
+        "Retail sales + inventories",
+        "3/17/2025",
+        "10:00 AM"
+      ],
+      [
+        "Housing starts, Industrial production and capacity utilization, Import and export prices",
+        "3/18/2025",
+        "9:15 AM"
+      ],
+      [
+        "Advance Census manufacturing (M3-1)",
+        "3/26/2025",
+        "8:30 AM"
+      ],
+      [
+        "Personal income and outlays, NIPA underlying detail tables",
+        "3/28/2025",
+        "8:30 AM"
+      ],
+      [
+        "ISM Manufacturing Index, Construction spending",
+        "4/1/2025",
+        "10:00 AM"
+      ],
+      [
+        "International trade (Full report), ISM Services",
+        "4/3/2025",
+        "10:00 AM"
+      ],
+      [
+        "Wholesale trade",
+        "4/9/2025",
+        "10:00 AM"
+      ],
+      [
+        "Retail sales + inventories, Industrial production and capacity utilization",
+        "4/16/2025",
+        "10:00 AM"
+      ],
+      [
+        "Housing starts",
+        "4/17/2025",
+        "8:30 AM"
+      ],
+      [
+        "Advance Census manufacturing (M3-1), Existing-home sales",
+        "4/24/2025",
+        "10:00 AM"
+      ],
+      [
+        "Final nowcast of 2025:Q1 GDP growth:  Advance Economic Indicators",
+        "4/29/2025",
+        "8:30 AM"
+      ],
+      [
+        "Initial nowcast of 2025:Q2 GDP growth:  Personal income and outlays, Q1 GDP, NIPA underlying detail tables",
+        "4/30/2025",
+        "10:00 AM"
+      ],
+      [
+        "ISM Manufacturing Index, Construction spending",
+        "5/1/2025",
+        "10:00 AM"
+      ],
+      [
+        "International trade (Full report)",
+        "5/6/2025",
+        "10:00 AM"
+      ],
+      [
+        "Wholesale trade",
+        "5/8/2025",
+        "10:00 AM"
+      ],
+      [
+        "Retail sales + inventories, Industrial production and capacity utilization, Producer Price Index",
+        "5/15/2025",
+        "10:00 AM"
+      ],
+      [
+        "Housing starts, Import and export prices",
+        "5/16/2025",
+        "8:30 AM"
+      ],
+      [
+        "Advance Census manufacturing (M3-1)",
+        "5/27/2025",
+        "8:30 AM"
+      ],
+      [
+        "Personal income and outlays, NIPA underlying detail tables, Advance Economic Indicators",
+        "5/30/2025",
+        "8:30 AM"
+      ],
+      [
+        "ISM Manufacturing Index, Construction spending",
+        "6/2/2025",
+        "10:00 AM"
+      ],
+      [
+        "International trade (Full report)",
+        "6/5/2025",
+        "10:00 AM"
+      ],
+      [
+        "Wholesale trade",
+        "6/9/2025",
+        "10:00 AM"
+      ],
+      [
+        "Retail sales + inventories, Industrial production and capacity utilization, Import and export prices",
+        "6/17/2025",
+        "10:00 AM"
+      ],
+      [
+        "Housing starts",
+        "6/18/2025",
+        "8:30 AM"
+      ],
+      [
+        "Personal income and outlays, NIPA underlying detail tables",
+        "6/27/2025",
+        "8:30 AM"
+      ],
+      [
+        "ISM Manufacturing Index, Construction spending",
+        "7/1/2025",
+        "10:00 AM"
+      ],
+      [
+        "International trade (Full report), Employment situation, Census M3-2 manufacturing (Full report), ISM Services",
+        "7/3/2025",
+        "10:00 AM"
+      ],
+      [
+        "Wholesale trade",
+        "7/9/2025",
+        "10:00 AM"
+      ],
+      [
+        "Retail sales + inventories, Import and export prices",
+        "7/17/2025",
+        "10:00 AM"
+      ],
+      [
+        "Housing starts",
+        "7/18/2025",
+        "8:30 AM"
+      ],
+      [
+        "Advance Census manufacturing (M3-1)",
+        "7/25/2025",
+        "8:30 AM"
+      ],
+      [
+        "Final nowcast of 2025:Q2 GDP growth:  Advance Economic Indicators",
+        "7/29/2025",
+        "8:30 AM"
+      ],
+      [
+        "Initial nowcast of 2025:Q3 GDP growth:  Personal income and outlays, NIPA underlying detail tables",
+        "7/31/2025",
+        "8:30 AM"
+      ],
+      [
+        "ISM Manufacturing Index, Construction spending, Employment situation",
+        "8/1/2025",
+        "10:00 AM"
+      ],
+      [
+        "International trade (Full report), ISM Services",
+        "8/5/2025",
+        "10:00 AM"
+      ],
+      [
+        "Wholesale trade",
+        "8/7/2025",
+        "10:00 AM"
+      ],
+      [
+        "Retail sales + inventories, Industrial production and capacity utilization, Import and export prices",
+        "8/15/2025",
+        "10:00 AM"
+      ],
+      [
+        "Housing starts",
+        "8/19/2025",
+        "8:30 AM"
+      ],
+      [
+        "Advance Census manufacturing (M3-1)",
+        "8/26/2025",
+        "8:30 AM"
+      ],
+      [
+        "Personal income and outlays, NIPA underlying detail tables, Advance Economic Indicators",
+        "8/29/2025",
+        "8:30 AM"
+      ],
+      [
+        "ISM Manufacturing Index, Construction spending",
+        "9/2/2025",
+        "10:00 AM"
+      ],
+      [
+        "International trade (Full report), ISM Services",
+        "9/4/2025",
+        "10:00 AM"
+      ],
+      [
+        "Wholesale trade, Producer Price Index",
+        "9/10/2025",
+        "10:00 AM"
+      ],
+      [
+        "Retail sales + inventories, Industrial production and capacity utilization, Import and export prices",
+        "9/16/2025",
+        "10:00 AM"
+      ],
+      [
+        "Housing starts",
+        "9/17/2025",
+        "8:30 AM"
+      ],
+      [
+        "Personal income and outlays, NIPA underlying detail tables**",
+        "9/26/2025",
+        "8:30 AM"
+      ],
+      [
+        "ISM Manufacturing Index, Construction spending",
+        "10/1/2025",
+        "10:00 AM"
+      ],
+      [
+        "International trade (Full report)",
+        "10/7/2025",
+        "10:00 AM"
+      ],
+      [
+        "Wholesale trade",
+        "10/9/2025",
+        "10:00 AM"
+      ],
+      [
+        "Retail trade, Producer Price Index",
+        "10/16/2025",
+        "10:00 AM"
+      ],
+      [
+        "Housing starts, Industrial production, Import/export prices",
+        "10/17/2025",
+        "10:00 AM"
+      ],
+      [
+        "Advance Census manufacturing (M3-1)",
+        "10/27/2025",
+        "8:30 AM"
+      ],
+      [
+        "Final nowcast of 2025:Q3 GDP growth:  Advance Economic Indicators",
+        "10/29/2025",
+        "8:30 AM"
+      ],
+      [
+        "Initial nowcast of 2025:Q4 GDP growth:  Personal income and outlays, NIPA underlying detail tables",
+        "10/31/2025",
+        "8:30 AM"
+      ],
+      [
+        "International trade (Full report), Census M3-2 manufacturing (Full report)",
+        "11/4/2025",
+        "10:00 AM"
+      ],
+      [
+        "Wholesale trade",
+        "11/6/2025",
+        "10:00 AM"
+      ],
+      [
+        "Retail sales + inventories, Producer Price Index",
+        "11/14/2025",
+        "10:00 AM"
+      ],
+      [
+        "Housing starts",
+        "11/19/2025",
+        "8:30 AM"
+      ],
+      [
+        "Personal income and outlays, NIPA underlying detail tables, Advance Census manufacturing (M3-1), GDP, Advance Economic Indicators, New-home sales",
+        "11/26/2025",
+        "10:00 AM"
+      ],
+      [
+        "ISM Manufacturing Index, Construction spending",
+        "12/1/2025",
+        "10:00 AM"
+      ],
+      [
+        "International trade (Full report)",
+        "12/4/2025",
+        "10:00 AM"
+      ],
+      [
+        "Wholesale trade, Consumer Price Index",
+        "12/10/2025",
+        "10:00 AM"
+      ],
+      [
+        "Housing starts, Import and export prices",
+        "12/16/2025",
+        "8:30 AM"
+      ],
+      [
+        "Retail sales + inventories",
+        "12/17/2025",
+        "10:00 AM"
+      ],
+      [
+        "Personal income and outlays, NIPA underlying detail tables, GDP, Existing-home sales",
+        "12/19/2025",
+        "10:00 AM"
+      ],
+      [
+        "Advance Census manufacturing (M3-1)",
+        "12/24/2025",
+        "8:30 AM"
+      ]
+    ]
+  ],
+  "extracted_components": [
+    {
+      "component": "Gross private domestic investment",
+      "value": 4.4
+    },
+    {
+      "component": "Change in private inventories",
+      "value": 1.0
+    },
+    {
+      "component": "Net exports",
+      "value": 1.0
+    },
+    {
+      "component": "Exports",
+      "value": 1.0
+    }
+  ],
+  "raw_text": "GDPNow  - Federal Reserve Bank of Atlanta\nA\nA\nA\nResearch & Data\nAbout Us\nData & Tools\nEconomic Mobility & Resilience\nInflation Project\nEvents\nPublications\nResearch Centers\nRegional Economy\nSurveys\nEconomy Matters\nAnnual Report\nEconomic Research\nBanking & Finance\nRegional Economics\nCommunity & Economic Development\nInside the Fed\nFinancial Tips\nPodcast\nQuizzes\nStaff & Credits\nDepartments\nBanking & Payments\nBanking Supervision\nBusiness Continuity\nConsumer Payments\nLending\nPayments Access\nPayments Forum\nPublications\nReporting\nNews & Events\nConferences & Events\nPress Room\nSpeeches\nEducation\nTeach\nLearn\nVisit\nContact\nCommunity Development\nAbout Us\nData & Tools\nEvents\nInfographics\nPodcasts\nPublications\nContent by Subject\nAbout the Fed\nThe Atlanta Fed\nAtlanta Fed FAQs\nCareers\nThe Fed Explained\nFederal Reserve System\nHolidays\nTransparency\nPublications\nVisit\nCenter Home\nAbout Us\nEvents\nPublications\nPolicy Hub\nResearch\nGDPNow\nTaylor Rule Utility\nChina's GDP Consumption\nChina's Macroeconomy: Time Series Data\nWu-XIA Rate\nGDP-Based Recession Index\nChauvet Business Cycle Model\nBand Pass Filter Code\nMenu\ntoggle menu\nChcs Wage Growth Tracker Inquiry\nCqer GDPNow Inquiry\nED Infografias Espanol\nED Infographics Order\nEmar Request for Information\nEmar Share Your Story\nNews FMC Info Request\nNews Micro Labor Workshop Request\nResearch REIN Atlanta Request Information\nResearch REIN Birmingham Request Information\nResearch REIN Request Information\nResearch REIN Jacksonville Request Information\nResearch REIN Miami Request Information\nResearch REIN Nashville Request Information\nResearch REIN New Orleans Request Information\nResearch & Data\nAbout Us\nData & Tools\nEconomic Mobility & Resilience\nAdvancing Careers for Low-Income Families\nInflation Project\nBusiness Inflation Expectations\nUnderlying Inflation Dashboard\nSticky-Price CPI\nDeflation Probabilities\nEvents\nConferences\nFinancial Markets Conference\nSeminars\nPublications\nWorking Papers\nPolicy Hub\nEconomy Matters\nResearch Centers\nAmericas Center\u00ae\nAtlanta Research Data Center\nCenter for Financial Innovation and Stability (CenFIS)\nCenter for Human Capital Studies\nCenter for Quantitative Economic Research (CQER)\nEconomic Survey Research Center\nCenter for Workforce and Economic Opportunity\nRegional Economy\nAtlanta\nBirmingham\nJacksonville\nMiami\nNashville\nNew Orleans\nSurveys\nAbout Us\nOutreach Lab\nPublications & Resources\nEconomy Matters\nAnnual Report\nEconomic Research\nBanking & Finance\nRegional Economics\nCommunity & Economic Development\nInside the Fed\nDepartments\nFinancial Tips\nPodcast\nQuizzes\nStaff & Credits\nBanking & Payments\nBanking Supervision\nAbout Us\nAppeals\nBecome A Member Bank and Applications\nCommunity Reinvestment Act\nDiscount Window\nRegulatory News\nResources\nBusiness Continuity\nConsumer Payments\nSurvey and Diary of Consumer Payment Choice\nPublications\nResearch Data Reports\nLending\nPayments Access\nPayments Forum\nPublications\nCommunity Reinvestment Act\nCrisis Preparedness\nGuide to Your First Bank Account\nPaying for It\nReporting\nContacts\nFinancial Institution Reports\nResources\nTraining\nNews & Events\nConferences & Events\nConferences\nFinancial Markets Conference\nWebinars\nLeading Voices\nSeries\nResearch Seminars\nTeacher Workshops\nPress Room\nPress Releases\nAtlanta Fed FAQs\nBlackout Periods\nAtlanta Fed Fact Sheet\nOur President\nSpeeches\nSpeakers Bureau\nEducation\nTeach\nInfographic Posters\nLessons and Activities\nMultimedia\nLearn\nVisit\nAtlanta\nJacksonville\nMiami\nNew Orleans\nContact\nCommunity Development\nAbout Us\nStaff\nData & Tools\nCareer Ladder Identifier and Financial Forecaster (CLIFF)\nUnemployment Claims Monitor\nSoutheastern Rental Affordability Tracker\nOpportunity Occupations Monitor\nEvents\nInclusive and Resilient Recovery\nInfographics\nPodcasts\nPublications\nDiscussion Papers\nFederal Reserve System Resources\nPartners Update\nSpecial Publications\nContent by Subject\nAbout the Fed\nThe Atlanta Fed\nAdvisory Groups\nAnnual Reports\nBranches\nDirectors\nExecutive Leadership Committee\nOutreach\nProcurement\nSustainability\nAtlanta Fed FAQs\nCareers\nSearch for Jobs\nWell-being\nDevelopment\nSustainability\nCommunity\nInternships\nFederal Reserve System Opportunities\nThe Fed Explained\nFederal Reserve System\nHolidays\nTransparency\nPublications\nAnnual Reports\nAtlanta Fed History\nFederal Reserve Structure & Functions\nVisit\nCenter for Quantitative Economic Research\nEmail A Friend\nYour Email Address\nEmail Address 1\nEmail Address 2\nEmail Address 3\nEmail Address 4\nEmail Address 5\nEmail A Friend\nClose\nThe growth rate of real gross domestic product (GDP) is a key indicator of economic activity, but the official estimate is released with a delay. Our GDPNow forecasting model provides a \"nowcast\" of the official estimate prior to its release by estimating GDP growth using a methodology similar to the one used by the US Bureau of Economic Analysis.\nGDPNow is not an official forecast of the Atlanta Fed. Rather, it is best viewed as a running estimate of real GDP growth based on available economic data for the current measured quart"
+}

@@ -1,0 +1,656 @@
+{
+  "created_at": "2026-01-04T15:27:38.267133",
+  "last_updated": "2026-01-04T15:34:12.738916",
+  "downloads": {
+    "federal_reserve/fomc_minutes.json": {
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/federal_reserve/fomc_minutes.json",
+      "content_hash": "3dbbfeef61516f2e745bac3dfb6395ad781b0f4512587568e9ad92bf2cffb383",
+      "downloaded_at": "2026-01-04T15:27:43.085540",
+      "status": "success",
+      "metadata": {
+        "minutes_count": 48,
+        "type": "qualitative"
+      }
+    },
+    "federal_reserve/sep_projections.json": {
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/federal_reserve/sep_projections.json",
+      "content_hash": "b435dd8eaeab1681c45edb5959fca5a1e9c53d98120f26e69c30b8fcd430c69f",
+      "downloaded_at": "2026-01-04T15:29:49.161088",
+      "status": "success",
+      "metadata": {
+        "sep_count": 20,
+        "type": "qualitative"
+      }
+    },
+    "federal_reserve/h8_release.json": {
+      "source_url": "https://www.federalreserve.gov/releases/h8/current/default.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/federal_reserve/h8_release.json",
+      "content_hash": "c57573c01e979afd22517410a0eb3f6e770b2653b03894ee9c34a4d72c40c590",
+      "downloaded_at": "2026-01-04T15:29:51.251980",
+      "status": "success",
+      "metadata": {
+        "release": "h8",
+        "files": []
+      }
+    },
+    "federal_reserve/h15_release.json": {
+      "source_url": "https://www.federalreserve.gov/releases/h15/current/default.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/federal_reserve/h15_release.json",
+      "content_hash": "f2982d35da4a97a715bced8bfe31d3fbadecfd1c364bc0769f9dc9a1859138e7",
+      "downloaded_at": "2026-01-04T15:29:53.121042",
+      "status": "success",
+      "metadata": {
+        "release": "h15",
+        "files": []
+      }
+    },
+    "federal_reserve/fomc_calendar.json": {
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/federal_reserve/fomc_calendar.json",
+      "content_hash": "9add22a2b19383485183d84a946731c06f1cfd309ce2ae50cf92f1b712f7bf0d",
+      "downloaded_at": "2026-01-04T15:29:55.054052",
+      "status": "success",
+      "metadata": {
+        "meeting_count": 0
+      }
+    },
+    "atlanta_fed/gdpnow_current.json": {
+      "source_url": "https://www.atlantafed.org/cqer/research/gdpnow",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/atlanta_fed/gdpnow_current.json",
+      "content_hash": "498860d3c683a04782bed8accd058161616c63f9eb2ef0f49c70565f458ec0ff",
+      "downloaded_at": "2026-01-04T15:30:13.122266",
+      "status": "success",
+      "metadata": {
+        "estimate": 3.0
+      }
+    },
+    "atlanta_fed/gdpnow_history.json": {
+      "source_url": "https://www.atlantafed.org/cqer/research/gdpnow/archives",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/atlanta_fed/gdpnow_history.json",
+      "content_hash": "b3d5fc70b165a11a39dea351c462adfdecc57fa8bff1ea36768a4a4673ec923b",
+      "downloaded_at": "2026-01-04T15:30:17.376597",
+      "status": "success",
+      "metadata": {
+        "archive_count": 0
+      }
+    },
+    "atlanta_fed/gdpnow_components.json": {
+      "source_url": "https://www.atlantafed.org/cqer/research/gdpnow",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/atlanta_fed/gdpnow_components.json",
+      "content_hash": "37d8d6bef88b068bd3500f51c080c1a43f10dd84dd923d0ea2930e9e62025d4d",
+      "downloaded_at": "2026-01-04T15:30:17.427339",
+      "status": "success",
+      "metadata": {
+        "component_count": 3
+      }
+    },
+    "fred/series_gdp.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=GDP",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_gdp.json",
+      "content_hash": "3363bde8085198fd86a517d8ff0c54b581645383f30a254dfdc34dd27d2d217b",
+      "downloaded_at": "2026-01-04T15:30:18.089171",
+      "status": "success",
+      "metadata": {
+        "series_id": "GDP"
+      }
+    },
+    "fred/series_gdpc1.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=GDPC1",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_gdpc1.json",
+      "content_hash": "aafaa434b52d119f3dda7e2419a358febcd4937c744895604189cee8908b2684",
+      "downloaded_at": "2026-01-04T15:30:19.137235",
+      "status": "success",
+      "metadata": {
+        "series_id": "GDPC1"
+      }
+    },
+    "fred/series_a191rl1q225sbea.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=A191RL1Q225SBEA",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_a191rl1q225sbea.json",
+      "content_hash": "4c2f24a1f4a668a7b11f719e92591b10095f6c434eadde30eac70bdfe15ed634",
+      "downloaded_at": "2026-01-04T15:30:20.095518",
+      "status": "success",
+      "metadata": {
+        "series_id": "A191RL1Q225SBEA"
+      }
+    },
+    "fred/series_indpro.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=INDPRO",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_indpro.json",
+      "content_hash": "8297bf8619bc1ce40dc313ff127a92159040a033855eff2284f2ee43974e4426",
+      "downloaded_at": "2026-01-04T15:30:21.101071",
+      "status": "success",
+      "metadata": {
+        "series_id": "INDPRO"
+      }
+    },
+    "fred/series_unrate.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=UNRATE",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_unrate.json",
+      "content_hash": "3efb9cbb0f4cdc006041db6b291c302c136e888a6c6c426a5c032e53b029876c",
+      "downloaded_at": "2026-01-04T15:30:22.119124",
+      "status": "success",
+      "metadata": {
+        "series_id": "UNRATE"
+      }
+    },
+    "fred/series_payems.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=PAYEMS",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_payems.json",
+      "content_hash": "d784ae9288ac675eb5fc334e0b4fec4d74da50734d3e421665c7f4fbce36316c",
+      "downloaded_at": "2026-01-04T15:30:23.130125",
+      "status": "success",
+      "metadata": {
+        "series_id": "PAYEMS"
+      }
+    },
+    "fred/series_civpart.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=CIVPART",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_civpart.json",
+      "content_hash": "1f4f8f59ffbd58e85b1b13acd32eeb9523a92174d34ba83690682ef792cc83d4",
+      "downloaded_at": "2026-01-04T15:30:24.127166",
+      "status": "success",
+      "metadata": {
+        "series_id": "CIVPART"
+      }
+    },
+    "fred/series_icsa.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=ICSA",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_icsa.json",
+      "content_hash": "e24bf23bae2556262a5cbecdadb8f64539765e0647bb0ff0f0fcf7c6ebc4826c",
+      "downloaded_at": "2026-01-04T15:30:25.163993",
+      "status": "success",
+      "metadata": {
+        "series_id": "ICSA"
+      }
+    },
+    "fred/series_ccsa.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=CCSA",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_ccsa.json",
+      "content_hash": "b46d116284ea48b3742cda8e439a8c9152da3ced6a011380d8ae612d27092000",
+      "downloaded_at": "2026-01-04T15:30:26.190369",
+      "status": "success",
+      "metadata": {
+        "series_id": "CCSA"
+      }
+    },
+    "fred/series_jtsjol.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=JTSJOL",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_jtsjol.json",
+      "content_hash": "f45cbb95a59bc7eded1d05723cf15715769436fa1c81b50231f850508ed46371",
+      "downloaded_at": "2026-01-04T15:30:27.165956",
+      "status": "success",
+      "metadata": {
+        "series_id": "JTSJOL"
+      }
+    },
+    "fred/series_cpiaucsl.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=CPIAUCSL",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_cpiaucsl.json",
+      "content_hash": "3b5979d847da867260732476441a7f21cef6515da711eabe48bd14485f8d8d57",
+      "downloaded_at": "2026-01-04T15:30:28.153554",
+      "status": "success",
+      "metadata": {
+        "series_id": "CPIAUCSL"
+      }
+    },
+    "fred/series_cpilfesl.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=CPILFESL",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_cpilfesl.json",
+      "content_hash": "647691f240b81f9e860158a1f91fa81e0816193b24f97f0e16ef68b01cc49d60",
+      "downloaded_at": "2026-01-04T15:30:29.153794",
+      "status": "success",
+      "metadata": {
+        "series_id": "CPILFESL"
+      }
+    },
+    "fred/series_pcepi.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=PCEPI",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_pcepi.json",
+      "content_hash": "12f796c6519675e04bf8a1251205b4101f23f5806f78bb246185d21c34af7fbe",
+      "downloaded_at": "2026-01-04T15:30:30.184412",
+      "status": "success",
+      "metadata": {
+        "series_id": "PCEPI"
+      }
+    },
+    "fred/series_pcepilfe.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=PCEPILFE",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_pcepilfe.json",
+      "content_hash": "fccdc2d654d86ccf2af80577bc8b0a06773fd9b796231a79be803116cfba649b",
+      "downloaded_at": "2026-01-04T15:30:31.219537",
+      "status": "success",
+      "metadata": {
+        "series_id": "PCEPILFE"
+      }
+    },
+    "fred/series_mich.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=MICH",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_mich.json",
+      "content_hash": "0b0694c8d72fc78b1fafb3ed4e53d20ca876637376271cdcda387ef54e6ebe2d",
+      "downloaded_at": "2026-01-04T15:30:32.318671",
+      "status": "success",
+      "metadata": {
+        "series_id": "MICH"
+      }
+    },
+    "fred/series_t5yifr.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=T5YIFR",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_t5yifr.json",
+      "content_hash": "c4530bc3aa2b098784dbff7f4c4ac3a63081ebe3066e7b64bfc4607ba3869b97",
+      "downloaded_at": "2026-01-04T15:30:33.292126",
+      "status": "success",
+      "metadata": {
+        "series_id": "T5YIFR"
+      }
+    },
+    "fred/series_fedfunds.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=FEDFUNDS",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_fedfunds.json",
+      "content_hash": "ef6774ee798a148b2c20825d485b5f36c73438c513c9352ae9d9fbbffc490404",
+      "downloaded_at": "2026-01-04T15:30:34.203631",
+      "status": "success",
+      "metadata": {
+        "series_id": "FEDFUNDS"
+      }
+    },
+    "fred/series_dff.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DFF",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_dff.json",
+      "content_hash": "f47ca541dde16517e0e7d84309a54904a090d3dfa983b5949e138d9831287ad8",
+      "downloaded_at": "2026-01-04T15:30:35.205597",
+      "status": "success",
+      "metadata": {
+        "series_id": "DFF"
+      }
+    },
+    "fred/series_dgs2.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DGS2",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_dgs2.json",
+      "content_hash": "654870c8cd9c4e09ec3c28f0b18af7694c59ff2f25892b68fe8ef46a36b61151",
+      "downloaded_at": "2026-01-04T15:30:36.321645",
+      "status": "success",
+      "metadata": {
+        "series_id": "DGS2"
+      }
+    },
+    "fred/series_dgs10.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DGS10",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_dgs10.json",
+      "content_hash": "a4fe773c65390bfb5593fc37bbb06502d2c88fb4cfd7052848e48074cebc36d4",
+      "downloaded_at": "2026-01-04T15:30:37.289329",
+      "status": "success",
+      "metadata": {
+        "series_id": "DGS10"
+      }
+    },
+    "fred/series_dgs30.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DGS30",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_dgs30.json",
+      "content_hash": "66419232e9405f909f7c15a4831fcd20187cc2336f39e731cb1c678551903f57",
+      "downloaded_at": "2026-01-04T15:30:38.303137",
+      "status": "success",
+      "metadata": {
+        "series_id": "DGS30"
+      }
+    },
+    "fred/series_t10y2y.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=T10Y2Y",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_t10y2y.json",
+      "content_hash": "203e2fb2354ee3bc79c4827dc33821790ed54a5655f968ca6d7c5c73a9373f31",
+      "downloaded_at": "2026-01-04T15:30:39.285447",
+      "status": "success",
+      "metadata": {
+        "series_id": "T10Y2Y"
+      }
+    },
+    "fred/series_t10y3m.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=T10Y3M",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_t10y3m.json",
+      "content_hash": "8195a8933e34a194c23b94c1328da916b89db3b9b24ff0696bd60255af0820af",
+      "downloaded_at": "2026-01-04T15:30:40.249261",
+      "status": "success",
+      "metadata": {
+        "series_id": "T10Y3M"
+      }
+    },
+    "fred/series_dfii10.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DFII10",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_dfii10.json",
+      "content_hash": "50e0fd8f70bdf11ab80de5cb1f192ea45606f7e26c0d8e98433ff89b24e9572a",
+      "downloaded_at": "2026-01-04T15:30:41.320875",
+      "status": "success",
+      "metadata": {
+        "series_id": "DFII10"
+      }
+    },
+    "fred/series_m2sl.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=M2SL",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_m2sl.json",
+      "content_hash": "5fe82d8d3bbf5a96fa98e554ea773dd5de4c2bbe92f9b40e107db4d513a5ac4a",
+      "downloaded_at": "2026-01-04T15:30:42.264411",
+      "status": "success",
+      "metadata": {
+        "series_id": "M2SL"
+      }
+    },
+    "fred/series_walcl.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=WALCL",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_walcl.json",
+      "content_hash": "57f7ba8e56f79c65be2d99c4516b152f47269c52f6be3a643b11500806b554ad",
+      "downloaded_at": "2026-01-04T15:30:43.288765",
+      "status": "success",
+      "metadata": {
+        "series_id": "WALCL"
+      }
+    },
+    "fred/series_totresns.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=TOTRESNS",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_totresns.json",
+      "content_hash": "61c38c21cf78dd1cbd2b62975390f02b368d4792d8705b7492f6d66f73160186",
+      "downloaded_at": "2026-01-04T15:30:44.274964",
+      "status": "success",
+      "metadata": {
+        "series_id": "TOTRESNS"
+      }
+    },
+    "fred/series_dpcredit.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DPCREDIT",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_dpcredit.json",
+      "content_hash": "4016c1aaac120d326279aa37de84034ee43cc520d77af8bc61964c80e2297be9",
+      "downloaded_at": "2026-01-04T15:30:45.325110",
+      "status": "success",
+      "metadata": {
+        "series_id": "DPCREDIT"
+      }
+    },
+    "fred/series_houst.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=HOUST",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_houst.json",
+      "content_hash": "3326e0cd55923e1f508b21e1442e7785b08de9ec6e88544531b2f0f72ffd6737",
+      "downloaded_at": "2026-01-04T15:30:46.269172",
+      "status": "success",
+      "metadata": {
+        "series_id": "HOUST"
+      }
+    },
+    "fred/series_permit.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=PERMIT",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_permit.json",
+      "content_hash": "382badfbd7865d08991a47f725760f012a4a9ec99b195b885349a573cfa56e48",
+      "downloaded_at": "2026-01-04T15:30:47.393741",
+      "status": "success",
+      "metadata": {
+        "series_id": "PERMIT"
+      }
+    },
+    "fred/series_csushpisa.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=CSUSHPISA",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_csushpisa.json",
+      "content_hash": "e77660061a34203ee1f15b14340ca91cc2b6b009ab8f3d5d0a7d12c0e652cd5e",
+      "downloaded_at": "2026-01-04T15:30:48.305375",
+      "status": "success",
+      "metadata": {
+        "series_id": "CSUSHPISA"
+      }
+    },
+    "fred/series_mortgage30us.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=MORTGAGE30US",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_mortgage30us.json",
+      "content_hash": "ce6d809f35793a5fdee43f4b00a9a48ed3a44b9b89607b9f7697394e46a06b52",
+      "downloaded_at": "2026-01-04T15:30:49.396568",
+      "status": "success",
+      "metadata": {
+        "series_id": "MORTGAGE30US"
+      }
+    },
+    "fred/series_bamlh0a0hym2.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=BAMLH0A0HYM2",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_bamlh0a0hym2.json",
+      "content_hash": "dc0b2da12f9e6cd324ed573c8f7d0b4e134e1c95ce7a87579733b84b928d763c",
+      "downloaded_at": "2026-01-04T15:30:50.346815",
+      "status": "success",
+      "metadata": {
+        "series_id": "BAMLH0A0HYM2"
+      }
+    },
+    "fred/series_vixcls.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=VIXCLS",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_vixcls.json",
+      "content_hash": "67fa22f5354488798beb6662444975eb423701556acb4d3eb61d55eea8436e0f",
+      "downloaded_at": "2026-01-04T15:30:51.354304",
+      "status": "success",
+      "metadata": {
+        "series_id": "VIXCLS"
+      }
+    },
+    "fred/series_sp500.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=SP500",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_sp500.json",
+      "content_hash": "fc4ba081bb89c0353a8b772836d2d6e7fa3327af28196db07251f2be4f6f362d",
+      "downloaded_at": "2026-01-04T15:30:52.371639",
+      "status": "success",
+      "metadata": {
+        "series_id": "SP500"
+      }
+    },
+    "fred/series_nfci.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=NFCI",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_nfci.json",
+      "content_hash": "57325ccc951b2faa4365e19edbabe3cd84870d0c9249481d898d886ad1785f2d",
+      "downloaded_at": "2026-01-04T15:30:53.352075",
+      "status": "success",
+      "metadata": {
+        "series_id": "NFCI"
+      }
+    },
+    "fred/series_bopgstb.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=BOPGSTB",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_bopgstb.json",
+      "content_hash": "b7d1927a87772475caeb3edbc8d69daea7f1c3ac0a7746df67d27a3ba53722af",
+      "downloaded_at": "2026-01-04T15:30:54.336335",
+      "status": "success",
+      "metadata": {
+        "series_id": "BOPGSTB"
+      }
+    },
+    "fred/series_dtwexbgs.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DTWEXBGS",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_dtwexbgs.json",
+      "content_hash": "c56088ab0bbe3761fcd3331c21a23d1456cd8c722b2196e9cfd5946a17f78117",
+      "downloaded_at": "2026-01-04T15:30:55.429109",
+      "status": "success",
+      "metadata": {
+        "series_id": "DTWEXBGS"
+      }
+    },
+    "fred/series_umcsent.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=UMCSENT",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_umcsent.json",
+      "content_hash": "bb20cd82d569e50a88d9374705a838a1cb23c805650b837d99546d4e5be4d71a",
+      "downloaded_at": "2026-01-04T15:30:56.357423",
+      "status": "success",
+      "metadata": {
+        "series_id": "UMCSENT"
+      }
+    },
+    "fred/series_rsafs.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=RSAFS",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_rsafs.json",
+      "content_hash": "a5a6fad37a51bdb793f8ce30db34aa5fc38d6d4be5254fe1e39a5bb91c84ba3c",
+      "downloaded_at": "2026-01-04T15:30:57.371675",
+      "status": "success",
+      "metadata": {
+        "series_id": "RSAFS"
+      }
+    },
+    "fred/series_dgorder.json": {
+      "source_url": "https://api.stlouisfed.org/fred/series?series_id=DGORDER",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/series_dgorder.json",
+      "content_hash": "efe1a1b70b881a489152f7ca81b518fd86369b003f5c3e302e1891385f8f1fbe",
+      "downloaded_at": "2026-01-04T15:30:58.394528",
+      "status": "success",
+      "metadata": {
+        "series_id": "DGORDER"
+      }
+    },
+    "fred/macro_growth.json": {
+      "source_url": "https://api.stlouisfed.org/fred",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/macro_growth.json",
+      "content_hash": "1dc8c0b2319e623b8f8ee2260b5134d84a0aa64b21da58dc47da19fda8573158",
+      "downloaded_at": "2026-01-04T15:31:00.379884",
+      "status": "success",
+      "metadata": {
+        "bundle_name": "macro_growth",
+        "success_count": 4,
+        "total_count": 4
+      }
+    },
+    "fred/macro_labor.json": {
+      "source_url": "https://api.stlouisfed.org/fred",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/macro_labor.json",
+      "content_hash": "d210311e1f3a3e51196316aa733fab62f97cace3dc887c7fcdebe8ca180abda3",
+      "downloaded_at": "2026-01-04T15:31:03.413029",
+      "status": "success",
+      "metadata": {
+        "bundle_name": "macro_labor",
+        "success_count": 6,
+        "total_count": 6
+      }
+    },
+    "fred/macro_inflation.json": {
+      "source_url": "https://api.stlouisfed.org/fred",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/macro_inflation.json",
+      "content_hash": "50e2f1f8cff7cf0bb1dfd002374ff0d065160ec9fc488906d9a770962cbbfec1",
+      "downloaded_at": "2026-01-04T15:31:06.442207",
+      "status": "success",
+      "metadata": {
+        "bundle_name": "macro_inflation",
+        "success_count": 6,
+        "total_count": 6
+      }
+    },
+    "fred/macro_rates.json": {
+      "source_url": "https://api.stlouisfed.org/fred",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/macro_rates.json",
+      "content_hash": "05e921dfdd1f6bc6ff167d39bffc5280879edd977de022ccf17d630d438542d3",
+      "downloaded_at": "2026-01-04T15:31:10.548414",
+      "status": "success",
+      "metadata": {
+        "bundle_name": "macro_rates",
+        "success_count": 8,
+        "total_count": 8
+      }
+    },
+    "fred/macro_financial.json": {
+      "source_url": "https://api.stlouisfed.org/fred",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/macro_financial.json",
+      "content_hash": "d6f3b99c329e17904981c670f21ef75f1587bedb5fd5baa2c782bb9d75ce1acf",
+      "downloaded_at": "2026-01-04T15:31:12.997030",
+      "status": "success",
+      "metadata": {
+        "bundle_name": "macro_financial",
+        "success_count": 5,
+        "total_count": 5
+      }
+    },
+    "fred/macro_full.json": {
+      "source_url": "https://api.stlouisfed.org/fred",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/fred/macro_full.json",
+      "content_hash": "77f69e2baf50306a4cc0e8360cebacf6cf7a0f49de04280a6e89abd41793898f",
+      "downloaded_at": "2026-01-04T15:31:33.802895",
+      "status": "success",
+      "metadata": {
+        "bundle_name": "macro_full",
+        "success_count": 41,
+        "total_count": 41
+      }
+    },
+    "ny_fed/sce_overview.json": {
+      "source_url": "https://www.newyorkfed.org/microeconomics/sce",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/ny_fed/sce_overview.json",
+      "content_hash": "4f6abccb53e1da33c9a090727e64d7c52e1c35d4b14489f5eb6953330b23bad9",
+      "downloaded_at": "2026-01-04T15:31:51.166268",
+      "status": "success",
+      "metadata": {
+        "metrics": {}
+      }
+    },
+    "ny_fed/sce_inflation.json": {
+      "source_url": "https://www.newyorkfed.org/microeconomics/sce/downloads",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/ny_fed/sce_inflation.json",
+      "content_hash": "69315a7c20bc6ba8f3be4f2c98d1744ffc42b7100f2d0be736aaa05de75c4247",
+      "downloaded_at": "2026-01-04T15:31:51.508276",
+      "status": "success",
+      "metadata": {
+        "file_count": 0
+      }
+    },
+    "ny_fed/weekly_economic_index.json": {
+      "source_url": "https://www.newyorkfed.org/research/policy/weekly-economic-index",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/ny_fed/weekly_economic_index.json",
+      "content_hash": "e9b452ba03f9749194b1f6e2360378efb01fd4e644767ad3434a581fa69e20ff",
+      "downloaded_at": "2026-01-04T15:31:53.519360",
+      "status": "success",
+      "metadata": {
+        "current_wei": 2023.0
+      }
+    },
+    "ny_fed/liberty_street_posts.json": {
+      "source_url": "https://www.newyorkfed.org/newsevents/news/research",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/ny_fed/liberty_street_posts.json",
+      "content_hash": "32aca3ec7885e746852059044e23c516d88587a027f15c562dfd515694270310",
+      "downloaded_at": "2026-01-04T15:32:52.436941",
+      "status": "success",
+      "metadata": {
+        "post_count": 15,
+        "type": "qualitative"
+      }
+    },
+    "brookings/fim.json": {
+      "source_url": "https://www.brookings.edu/interactives/hutchins-center-fiscal-impact-measure/",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/brookings/fim.json",
+      "content_hash": "34d01536dae7d1b1c2426029fae0df92cf8939d99050bb9bd3c5dd0702513c22",
+      "downloaded_at": "2026-01-04T15:34:08.240407",
+      "status": "success",
+      "metadata": {
+        "type": "fiscal_measure"
+      }
+    },
+    "brookings/hutchins_research.json": {
+      "source_url": "https://www.brookings.edu/centers/the-hutchins-center-on-fiscal-and-monetary-policy/",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/brookings/hutchins_research.json",
+      "content_hash": "55c6620d65a96e54fdcb2be4a60370be555a7545f86f7667b9992a49d4cfd7ea",
+      "downloaded_at": "2026-01-04T15:34:10.526501",
+      "status": "success",
+      "metadata": {
+        "article_count": 0,
+        "type": "qualitative"
+      }
+    },
+    "nber/business_cycles.json": {
+      "source_url": "https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/nber/business_cycles.json",
+      "content_hash": "f3621906ffde3e27f5e6e4ed835d7bb89f937390e0d886582f1930542b4d7139",
+      "downloaded_at": "2026-01-04T15:34:10.781166",
+      "status": "success",
+      "metadata": {
+        "cycle_count": 40,
+        "type": "reference"
+      }
+    },
+    "nber/working_papers.json": {
+      "source_url": "https://www.nber.org/papers",
+      "local_path": "/Users/afrausin/Library/CloudStorage/OneDrive-Personal/dev/macro/storage/raw/nber/working_papers.json",
+      "content_hash": "91327f4994a5781803d78079c2742566fd1282a4747852cc9a5f20771eeabddb",
+      "downloaded_at": "2026-01-04T15:34:12.738910",
+      "status": "success",
+      "metadata": {
+        "paper_count": 0,
+        "type": "qualitative"
+      }
+    }
+  }
+}

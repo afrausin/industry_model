@@ -28,12 +28,12 @@ from datetime import datetime
 from pathlib import Path
 
 # Add project root to path
-PROJECT_ROOT = Path(__file__).parent.parent
+PROJECT_ROOT = Path(__file__).parent.parent.parent  # macro/
 SCRIPTS_DIR = Path(__file__).parent
-sys.path.insert(0, str(PROJECT_ROOT / 'ingest'))
+sys.path.insert(0, str(PROJECT_ROOT))
 
-from scrapers import DownloadTracker
-from scrapers.spglobal_scraper import SPGlobalScraper
+from data.ingest.scrapers import DownloadTracker
+# from data.ingest.scrapers.spglobal_scraper import SPGlobalScraper  # Not available
 
 
 # Configure logging
@@ -49,7 +49,7 @@ logger = logging.getLogger('SPGlobalPMI')
 
 
 # Data directory
-DATA_DIR = PROJECT_ROOT / 'storage' / 'raw'
+DATA_DIR = PROJECT_ROOT / 'data' / 'storage' / 'raw'
 TRACKER_PATH = DATA_DIR / 'tracker.json'
 
 

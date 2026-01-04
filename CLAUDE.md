@@ -60,12 +60,12 @@ GOOGLE_API_KEY=    # Optional for Gemini analyzer
 
 ### Data Collection & Updates
 ```bash
-python main.py                      # Download all data from scrapers
-python main.py --source fred        # Download specific source
-python main.py --list               # List available datasets
-python update_data.py               # Full update (scrape + migrate to DB)
-python update_data.py --status      # Show data freshness status
-python update_data.py --db-only     # Only update SQLite from existing JSON
+python -m data.main                      # Download all data from scrapers
+python -m data.main --source fred        # Download specific source
+python -m data.main --list               # List available datasets
+python -m data.update_data               # Full update (scrape + migrate to DB)
+python -m data.update_data --status      # Show data freshness status
+python -m data.update_data --db-only     # Only update SQLite from existing JSON
 ```
 
 ---
@@ -74,16 +74,17 @@ python update_data.py --db-only     # Only update SQLite from existing JSON
 
 ### Data Flow Pipeline
 ```
-ingest/scrapers → storage/raw (JSON) → storage/db (SQLite PIT) → core/data_loader
+data/ingest/scrapers → data/storage/raw (JSON) → data/storage/db (SQLite PIT) → data/core/data_loader
 ```
 
 ### Module Structure
 
 | Module | Purpose | Key Files |
 |--------|---------|-----------|
-| **ingest/** | Data collection from official sources | `scrapers/base_scraper.py`, 10 scrapers (FRED, Fed, Atlanta Fed, NY Fed, CBO, Brookings, NBER, PIIE, IMF, OECD), `fmp/` |
-| **storage/** | Data persistence layer | `raw/` (JSON by source), `db/pit_database.py` (PIT SQLite), `db/pit_data_loader.py` |
-| **core/** | Data loading and analysis utilities | `config.py` (40+ FRED series), `data_loader.py`, `fmp_loader.py`, `gemini_analyzer.py` |
+| **data/** | Data pipeline package | `main.py`, `update_data.py`, `__init__.py` |
+| **data/ingest/** | Data collection from official sources | `scrapers/base_scraper.py`, 10 scrapers (FRED, Fed, Atlanta Fed, NY Fed, CBO, Brookings, NBER, PIIE, IMF, OECD), `fmp/` |
+| **data/storage/** | Data persistence layer | `raw/` (JSON by source), `db/pit_database.py` (PIT SQLite), `db/pit_data_loader.py` |
+| **data/core/** | Data loading and analysis utilities | `config.py` (40+ FRED series), `data_loader.py`, `fmp_loader.py`, `gemini_analyzer.py` |
 | **docs/** | Governance documentation | `QUANT_RESEARCHER_CONSTITUTION.md`, `AI_DATA_PIPELINE_FRAMEWORK.md` |
 
 ### Key Concepts
