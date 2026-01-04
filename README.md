@@ -109,13 +109,36 @@ calendar = fmp.load_economic_calendar(country="US", days_ahead=7)
 
 ## Data Sources
 
-| Source | Data Type | Update Frequency |
-|--------|-----------|------------------|
-| FRED | Economic series (GDP, CPI, employment) | Daily |
-| Federal Reserve | FOMC statements, Beige Book, speeches | Per release |
-| Atlanta Fed | GDPNow forecasts | Weekly |
-| NY Fed | Various surveys | Monthly |
-| FMP | Economic calendar, market quotes | Real-time |
+> **See [docs/DATA_CATALOG.md](docs/DATA_CATALOG.md) for complete data inventory with all series and datasets.**
+
+### Quantitative Time Series
+
+| Source | Key Indicators | Frequency |
+|--------|----------------|-----------|
+| **FRED** | 40+ series: GDP, CPI, employment, Treasury yields, financial conditions, housing | Daily to Quarterly |
+| **FMP** | Index quotes, ETF prices, economic calendar | Real-time |
+| **Atlanta Fed** | GDPNow real-time GDP estimate with components | Weekly |
+| **NY Fed** | Weekly Economic Index, consumer expectations | Weekly/Monthly |
+
+### Policy Documents & Research
+
+| Source | Content | Frequency |
+|--------|---------|-----------|
+| **Federal Reserve** | FOMC statements, minutes, Beige Book, Fed speeches, SEP projections | Per event |
+| **CBO** | 10-year budget projections, economic forecasts, long-term outlook | Semi-annual |
+| **Brookings** | Fiscal Impact Measure, Hutchins Center research | Quarterly |
+| **NBER** | Official business cycle dates, working papers | Event-driven |
+| **PIIE** | Trade policy research, charts, economics blog | Ongoing |
+| **IMF** | US Article IV, World Economic Outlook, Global Financial Stability | Semi-annual |
+| **OECD** | Economic outlook, US survey, Composite Leading Indicators | Monthly to Biennial |
+
+## Documentation
+
+| Document | Description |
+|----------|-------------|
+| [docs/DATA_CATALOG.md](docs/DATA_CATALOG.md) | Complete inventory of all data sources, series, and datasets |
+| [docs/QUANT_RESEARCHER_CONSTITUTION.md](docs/QUANT_RESEARCHER_CONSTITUTION.md) | Rules for quantitative research and strategy development |
+| [docs/AI_DATA_PIPELINE_FRAMEWORK.md](docs/AI_DATA_PIPELINE_FRAMEWORK.md) | Technical standards for agent-ready data architecture |
 
 ## License
 
