@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**Macro Data Framework** - A system for collecting, storing, and analyzing US macroeconomic data with AI-powered factor timing optimization for ETF forecasting.
+**Macro Data Framework** - A system for collecting, storing, and analyzing US macroeconomic data with a point-in-time database for backtesting.
 
 ---
 
@@ -55,8 +55,7 @@ pip install -r requirements.txt
 ```
 FRED_API_KEY=      # Required for FRED data
 FMP_API_KEY=       # Optional for Financial Modeling Prep
-ANTHROPIC_API_KEY= # Required for Claude agent
-GOOGLE_API_KEY=    # Required for Gemini agent/analyzer
+GOOGLE_API_KEY=    # Optional for Gemini analyzer
 ```
 
 ### Data Collection & Updates
@@ -69,23 +68,13 @@ python update_data.py --status      # Show data freshness status
 python update_data.py --db-only     # Only update SQLite from existing JSON
 ```
 
-### AI Optimization Agents
-```bash
-# Claude agent (recommended)
-python -m agent --claude --factor VLUE --max-iterations 30
-python -m agent --claude --interactive
-
-# Gemini agent (legacy)
-python -m agent --gemini --smart VLUE --max-iterations 50
-```
-
 ---
 
 ## Architecture
 
 ### Data Flow Pipeline
 ```
-ingest/scrapers → storage/raw (JSON) → storage/db (SQLite PIT) → core/data_loader → agent/
+ingest/scrapers → storage/raw (JSON) → storage/db (SQLite PIT) → core/data_loader
 ```
 
 ### Module Structure
@@ -95,7 +84,6 @@ ingest/scrapers → storage/raw (JSON) → storage/db (SQLite PIT) → core/data
 | **ingest/** | Data collection from official sources | `scrapers/base_scraper.py`, 10 scrapers (FRED, Fed, Atlanta Fed, NY Fed, CBO, Brookings, NBER, PIIE, IMF, OECD), `fmp/` |
 | **storage/** | Data persistence layer | `raw/` (JSON by source), `db/pit_database.py` (PIT SQLite), `db/pit_data_loader.py` |
 | **core/** | Data loading and analysis utilities | `config.py` (40+ FRED series), `data_loader.py`, `fmp_loader.py`, `gemini_analyzer.py` |
-| **agent/** | AI optimization agents | `claude_agent.py`, `heuristic_agent.py`, `tools/` (10 modules), Bayesian/genetic optimization |
 | **docs/** | Governance documentation | `QUANT_RESEARCHER_CONSTITUTION.md`, `AI_DATA_PIPELINE_FRAMEWORK.md` |
 
 ### Key Concepts
@@ -104,15 +92,6 @@ ingest/scrapers → storage/raw (JSON) → storage/db (SQLite PIT) → core/data
 - Tracks both observation dates AND release dates
 - Critical for backtesting - prevents look-ahead bias
 - Only uses data that was available as of a given historical date
-
-**Factor Timing**
-- Optimizes timing signals for factor ETFs: VLUE, SIZE, QUAL, USMV, MTUM
-- Uses macroeconomic features as predictors
-- Follows hypothesis-driven development per the Constitution
-
-**Dual LLM Support**
-- Claude (Anthropic) - recommended for new work
-- Gemini (Google) - legacy support
 
 ---
 

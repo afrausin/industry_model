@@ -1,6 +1,6 @@
 # Macro Data Framework
 
-A framework for collecting, storing, and analyzing US macroeconomic data with AI-powered analysis.
+A framework for collecting, storing, and analyzing US macroeconomic data with a point-in-time database for backtesting.
 
 ## Core Components
 
@@ -27,9 +27,6 @@ Point-In-Time (PIT) database system:
 - **FMPDataLoader** - Market data from Financial Modeling Prep
 - **GeminiMacroAnalyzer** - AI analysis of Fed documents
 
-### 4. AI Agent (`agent/`)
-Gemini-powered optimization agent with 80+ tool functions.
-
 ## Quick Start
 
 ```bash
@@ -38,8 +35,8 @@ pip install -r requirements.txt
 
 # Set API keys in .env
 FRED_API_KEY=your_key
-FMP_API_KEY=your_key
-GEMINI_API_KEY=your_key
+FMP_API_KEY=your_key       # Optional
+GOOGLE_API_KEY=your_key    # Optional for Gemini analyzer
 
 # Scrape all data
 python main.py
@@ -62,7 +59,7 @@ macro/
 │   ├── raw/            # JSON data files
 │   └── db/             # SQLite PIT database
 ├── core/               # Data loading & Gemini analysis
-├── agent/              # Gemini AI agent
+├── docs/               # Governance documentation
 ├── scripts/            # Utility scripts
 ├── main.py             # Scraper CLI
 ├── update_data.py      # Update pipeline
@@ -90,7 +87,7 @@ from core import GeminiMacroAnalyzer, MacroDataLoader
 loader = MacroDataLoader(data_dir)
 docs = loader.load_all_qualitative_docs()
 
-analyzer = GeminiMacroAnalyzer(api_key=os.getenv("GEMINI_API_KEY"))
+analyzer = GeminiMacroAnalyzer(api_key=os.getenv("GOOGLE_API_KEY"))
 analysis = analyzer.analyze_documents(docs)
 ```
 
@@ -113,12 +110,6 @@ calendar = fmp.load_economic_calendar(country="US", days_ahead=7)
 | Atlanta Fed | GDPNow forecasts | Weekly |
 | NY Fed | Various surveys | Monthly |
 | FMP | Economic calendar, market quotes | Real-time |
-
-## Backup Location
-
-Previous forecasting/quadrant code backed up to: `_backup_before_etf_refactor_*/`
-
-To restore: copy files back from the backup folder.
 
 ## License
 
