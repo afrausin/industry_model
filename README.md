@@ -4,7 +4,7 @@ A framework for collecting, storing, and analyzing US macroeconomic data with AI
 
 ## Core Components
 
-### 1. Data Scraping (`scrapers/`)
+### 1. Data Ingestion (`ingest/`)
 Collects data from official sources:
 - **FRED** - Federal Reserve Economic Data (GDP, CPI, employment, rates)
 - **Federal Reserve** - FOMC statements, Beige Book, minutes
@@ -13,12 +13,14 @@ Collects data from official sources:
 - **CBO** - Congressional Budget Office projections
 - **Brookings, NBER, PIIE** - Economic research
 - **IMF, OECD** - International economic data
+- **FMP** - Financial Modeling Prep market data
 
-### 2. Data Storage (`database/`, `storage/`)
+### 2. Data Storage (`storage/`)
 Point-In-Time (PIT) database system:
+- `raw/` - JSON files from scrapers
+- `db/` - SQLite PIT database
 - Tracks observation dates and release dates
 - Prevents look-ahead bias in backtesting
-- SQLite-based for simplicity
 
 ### 3. Core Analysis (`core/`)
 - **MacroDataLoader** - Load FRED series and Fed documents
@@ -53,15 +55,15 @@ python update_data.py --status
 
 ```
 macro/
-├── scrapers/           # Data collection layer
-├── database/           # PIT database implementation
-├── storage/            # Storage interface & loaders
+├── ingest/             # Data collection
+│   ├── scrapers/       # Web scrapers
+│   └── fmp/            # FMP API integration
+├── storage/            # Data storage
+│   ├── raw/            # JSON data files
+│   └── db/             # SQLite PIT database
 ├── core/               # Data loading & Gemini analysis
-├── src_fmp/            # FMP API exploration
 ├── agent/              # Gemini AI agent
-├── scripts/data/       # Data update scripts
-├── data/               # Scraped data (JSON)
-├── logs/               # Application logs
+├── scripts/            # Utility scripts
 ├── main.py             # Scraper CLI
 ├── update_data.py      # Update pipeline
 └── requirements.txt    # Dependencies
@@ -97,7 +99,7 @@ analysis = analyzer.analyze_documents(docs)
 from core import FMPDataLoader
 from pathlib import Path
 
-fmp = FMPDataLoader(Path("src_fmp/exploration_results"))
+fmp = FMPDataLoader(Path("ingest/fmp/exploration_results"))
 snapshot = fmp.get_market_snapshot()
 calendar = fmp.load_economic_calendar(country="US", days_ahead=7)
 ```

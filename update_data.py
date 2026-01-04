@@ -66,19 +66,19 @@ def run_scrapers(sources: Optional[List[str]] = None, force: bool = False) -> Di
     Returns:
         Dict mapping source name to success status.
     """
-    from scrapers import DownloadTracker
-    from scrapers.fed_scraper import FederalReserveScraper
-    from scrapers.atlanta_fed_scraper import AtlantaFedScraper
-    from scrapers.fred_scraper import FREDScraper
-    from scrapers.ny_fed_scraper import NYFedScraper
-    from scrapers.cbo_scraper import CBOScraper
-    from scrapers.brookings_scraper import BrookingsScraper
-    from scrapers.nber_scraper import NBERScraper
-    from scrapers.piie_scraper import PIIEScraper
-    from scrapers.imf_scraper import IMFScraper
-    from scrapers.oecd_scraper import OECDScraper
+    from ingest.scrapers import DownloadTracker
+    from ingest.scrapers.fed_scraper import FederalReserveScraper
+    from ingest.scrapers.atlanta_fed_scraper import AtlantaFedScraper
+    from ingest.scrapers.fred_scraper import FREDScraper
+    from ingest.scrapers.ny_fed_scraper import NYFedScraper
+    from ingest.scrapers.cbo_scraper import CBOScraper
+    from ingest.scrapers.brookings_scraper import BrookingsScraper
+    from ingest.scrapers.nber_scraper import NBERScraper
+    from ingest.scrapers.piie_scraper import PIIEScraper
+    from ingest.scrapers.imf_scraper import IMFScraper
+    from ingest.scrapers.oecd_scraper import OECDScraper
     
-    DATA_DIR = PROJECT_ROOT / 'data'
+    DATA_DIR = PROJECT_ROOT / 'storage' / 'raw'
     TRACKER_PATH = DATA_DIR / 'tracker.json'
     
     # Available scrapers
@@ -145,7 +145,7 @@ def run_fmp_update() -> Dict[str, int]:
     
     import requests
     
-    FMP_DIR = PROJECT_ROOT / "src_fmp" / "exploration_results"
+    FMP_DIR = PROJECT_ROOT / "ingest" / "fmp" / "exploration_results"
     FMP_DIR.mkdir(parents=True, exist_ok=True)
     
     stats = {"calendar_events": 0, "quotes": 0}
@@ -191,7 +191,7 @@ def update_database(verbose: bool = True) -> Dict[str, Any]:
     Returns:
         Migration statistics.
     """
-    from database import PITDatabase
+    from storage.db import PITDatabase
     
     logger.info("Updating SQLite PIT database...")
     
@@ -219,14 +219,14 @@ def update_database(verbose: bool = True) -> Dict[str, Any]:
 
 def show_status():
     """Show current data status."""
-    from database import PITDatabase
+    from storage.db import PITDatabase
     
     print("\n" + "=" * 70)
     print("MACRO DATA STATUS")
     print("=" * 70)
     
     # Check JSON data freshness
-    data_dir = PROJECT_ROOT / "data"
+    data_dir = PROJECT_ROOT / "storage" / "raw"
     
     print("\n📂 DATA FILES (by last modified):")
     sources = [
@@ -254,7 +254,7 @@ def show_status():
             print(f"  ❌ {name:20} Directory not found")
     
     # FMP data
-    fmp_dir = PROJECT_ROOT / "src_fmp" / "exploration_results"
+    fmp_dir = PROJECT_ROOT / "ingest" / "fmp" / "exploration_results"
     if fmp_dir.exists():
         calendar_file = fmp_dir / "economic-calendar.json"
         if calendar_file.exists():

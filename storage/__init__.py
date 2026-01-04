@@ -1,14 +1,33 @@
 """
-Storage Module
-==============
+Storage - Data Storage Layer
+============================
 
-Data storage and access layer:
-- raw/: JSON files from scrapers
-- database/: SQLite PIT database
-- loaders/: Data loading utilities
+This module provides unified data storage and access.
+
+Submodules:
+    - raw: JSON files from scrapers
+    - db: SQLite Point-in-Time database
 """
 
-from .loaders import PITDatabase, PITDataLoader
+from .db import (
+    PITDatabase,
+    PITDataLoader,
+    PITObservation,
+    SeriesMetadata,
+    create_database,
+    create_pit_loader,
+    migrate_all_data,
+    PUBLICATION_LAGS,
+)
 
-__all__ = ['PITDatabase', 'PITDataLoader']
-
+__all__ = [
+    # Database
+    "PITDatabase",
+    "PITDataLoader",
+    "PITObservation",
+    "SeriesMetadata",
+    "create_database",
+    "create_pit_loader",
+    "migrate_all_data",
+    "PUBLICATION_LAGS",
+]

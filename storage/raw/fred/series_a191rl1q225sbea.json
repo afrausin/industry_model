@@ -1,15 +1,15 @@
 {
-  "downloaded_at": "2025-12-20T17:17:23.106076",
+  "downloaded_at": "2025-12-20T13:47:23.677191",
   "series_id": "A191RL1Q225SBEA",
   "description": "Real GDP Growth Rate (quarterly)",
   "info": {
-    "realtime_start": "2025-09-25",
-    "realtime_end": "2025-09-25",
+    "realtime_start": "2025-10-20",
+    "realtime_end": "2025-10-20",
     "seriess": [
       {
         "id": "A191RL1Q225SBEA",
-        "realtime_start": "2025-09-25",
-        "realtime_end": "2025-09-25",
+        "realtime_start": "2025-10-20",
+        "realtime_end": "2025-10-20",
         "title": "Real Gross Domestic Product",
         "observation_start": "1947-04-01",
         "observation_end": "2025-04-01",

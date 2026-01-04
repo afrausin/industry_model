@@ -17,7 +17,7 @@ class MacroConfig:
     """Configuration for macro data analysis."""
     
     # Paths
-    data_dir: Path = field(default_factory=lambda: Path(__file__).parent.parent / "data")
+    data_dir: Path = field(default_factory=lambda: Path(__file__).parent.parent / "storage" / "raw")
     logs_dir: Path = field(default_factory=lambda: Path(__file__).parent / "logs")
     
     # Gemini API
