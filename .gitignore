@@ -68,3 +68,4 @@ _backup_*/
 storage/raw/*/archive/
 storage/raw/tracker.json
 
+industry_model/cache/
